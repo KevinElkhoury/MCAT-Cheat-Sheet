@@ -1,0 +1,14 @@
+Chemtool Version 1.6.13
+geometry 168 170
+bonds 4
+89	27	89	91	0	0	0
+89	91	153	91	0	0	0
+89	91	25	91	0	0	0
+89	91	89	155	0	0	0
+atoms 4
+89	27	COH	0	0	0	3
+89	155	CH_2OH	0	0	0	3
+153	91	OH	0	0	0	3
+25	91	H	0	0	0	3
+splines 0
+scalefactors 10.668000 2
