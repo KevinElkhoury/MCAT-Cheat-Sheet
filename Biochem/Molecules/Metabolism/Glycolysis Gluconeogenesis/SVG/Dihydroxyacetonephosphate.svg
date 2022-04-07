@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="592px" height="605px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/Glycolysis Gluconeogenesis/SVG/Dihydroxyacetonephosphate.svg 
+</desc>
+<g>
+<line x1="359" y1="550" x2="414" y2="518"
+style="stroke-width:2; stroke:#000000" />
+<line x1="414" y1="518" x2="469" y2="550"
+style="stroke-width:2; stroke:#000000" />
+<line x1="469" y1="550" x2="512" y2="525"
+style="stroke-width:2; stroke:#000000" />
+<line x1="359" y1="550" x2="314" y2="523"
+style="stroke-width:2; stroke:#000000" />
+<line x1="418" y1="518" x2="418" y2="466"
+style="stroke-width:2; stroke:#000000" />
+<line x1="410" y1="518" x2="410" y2="466"
+style="stroke-width:2; stroke:#000000" />
+<text x="515" y="528" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+<text x="406" y="462" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="310" y="526" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+<tspan dy="8" style="font-size:14pt;">3</tspan>
+<tspan dy="-8">
+PO</tspan>
+<tspan dy="-10" style="font-size:14pt;">2-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+</g>
+</svg>

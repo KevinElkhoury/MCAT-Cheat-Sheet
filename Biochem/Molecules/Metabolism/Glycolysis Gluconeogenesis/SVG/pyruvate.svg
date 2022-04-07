@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="222px" height="237px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/Glycolysis Gluconeogenesis/SVG/pyruvate.svg 
+</desc>
+<g>
+<line x1="112" y1="144" x2="157" y2="99"
+style="stroke-width:2; stroke:#000000" />
+<line x1="112" y1="144" x2="112" y2="195"
+style="stroke-width:2; stroke:#000000" />
+<line x1="112" y1="144" x2="67" y2="117"
+style="stroke-width:2; stroke:#000000" />
+<line x1="103" y1="146" x2="69" y2="126"
+style="stroke-width:2; stroke:#000000" />
+<line x1="157" y1="99" x2="202" y2="144"
+style="stroke-width:2; stroke:#000000" />
+<line x1="161" y1="99" x2="161" y2="48"
+style="stroke-width:2; stroke:#000000" />
+<line x1="153" y1="99" x2="153" y2="48"
+style="stroke-width:2; stroke:#000000" />
+<text x="49" y="120" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="104" y="216" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="149" y="44" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+</g>
+</svg>

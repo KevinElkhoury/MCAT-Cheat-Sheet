@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="851px" height="718px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/Glycolysis Gluconeogenesis/SVG/Glucose.svg 
+</desc>
+<g>
+<line x1="758" y1="536" x2="722" y2="500"
+style="stroke-width:2; stroke:#000000" />
+<line x1="701" y1="492" x2="651" y2="492"
+style="stroke-width:2; stroke:#000000" />
+<line x1="651" y1="492" x2="607" y2="536"
+style="stroke-width:2; stroke:#000000" />
+<line x1="713" y1="581" x2="713" y2="632"
+style="stroke-width:2; stroke:#000000" />
+<line x1="651" y1="581" x2="651" y2="530"
+style="stroke-width:2; stroke:#000000" />
+<line x1="758" y1="536" x2="758" y2="587"
+style="stroke-width:2; stroke:#000000" />
+<line x1="607" y1="536" x2="607" y2="587"
+style="stroke-width:2; stroke:#000000" />
+<line x1="651" y1="492" x2="651" y2="441"
+style="stroke-width:2; stroke:#000000" />
+<line x1="651" y1="581" x2="714" y2="581"
+style="stroke-width:10; stroke:#000000" />
+<polygon style="fill:#000000; stroke:#000000; stroke-width:1"
+            points="758,536 714,578 714,584" />
+<polygon style="fill:#000000; stroke:#000000; stroke-width:1"
+            points="607,536 651,578 651,584" />
+<text x="706" y="500" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="750" y="608" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+<text x="705" y="653" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+<text x="643" y="526" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+<text x="599" y="608" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+<text x="643" y="437" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+CH</tspan>
+<tspan dy="8" style="font-size:14pt;">2</tspan>
+<tspan dy="-8">
+OH</tspan>
+</text>
+</g>
+</svg>

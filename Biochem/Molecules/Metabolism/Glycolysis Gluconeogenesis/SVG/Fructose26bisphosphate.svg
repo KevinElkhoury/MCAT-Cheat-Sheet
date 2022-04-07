@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="511px" height="349px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/Glycolysis Gluconeogenesis/SVG/Fructose26bisphosphate.svg 
+</desc>
+<g>
+<line x1="412" y1="186" x2="370" y2="156"
+style="stroke-width:2; stroke:#000000" />
+<line x1="351" y1="156" x2="310" y2="186"
+style="stroke-width:2; stroke:#000000" />
+<line x1="412" y1="186" x2="412" y2="134"
+style="stroke-width:2; stroke:#000000" />
+<line x1="393" y1="246" x2="393" y2="297"
+style="stroke-width:2; stroke:#000000" />
+<line x1="310" y1="186" x2="310" y2="122"
+style="stroke-width:2; stroke:#000000" />
+<line x1="412" y1="186" x2="412" y2="237"
+style="stroke-width:2; stroke:#000000" />
+<line x1="310" y1="122" x2="265" y2="95"
+style="stroke-width:2; stroke:#000000" />
+<line x1="330" y1="246" x2="330" y2="216"
+style="stroke-width:2; stroke:#000000" />
+<polygon style="fill:#000000; stroke:#000000; stroke-width:1"
+            points="412,186 391,246 397,246" />
+<polygon style="fill:#000000; stroke:#000000; stroke-width:1"
+            points="310,186 325,246 331,246" />
+<line x1="328" y1="246" x2="394" y2="246"
+style="stroke-width:10; stroke:#000000" />
+<text x="353" y="157" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="404" y="130" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+CH</tspan>
+<tspan dy="8" style="font-size:14pt;">2</tspan>
+<tspan dy="-8">
+OH</tspan>
+</text>
+<text x="322" y="212" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+<text x="385" y="318" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+<text x="404" y="258" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OPO</tspan>
+<tspan dy="8" style="font-size:14pt;">3</tspan>
+<tspan dy="-8">
+</tspan>
+<tspan dy="-18" dx="-10" style="font-size:14pt;">2-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="261" y="98" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+<tspan dy="8" style="font-size:14pt;">3</tspan>
+<tspan dy="-8">
+PO</tspan>
+<tspan dy="-10" style="font-size:14pt;">2-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+</g>
+</svg>

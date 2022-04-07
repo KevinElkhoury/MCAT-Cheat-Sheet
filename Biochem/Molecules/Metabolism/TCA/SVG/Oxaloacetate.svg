@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="1024px" height="496px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/TCA/SVG/Oxaloacetate.svg 
+</desc>
+<g>
+<line x1="644" y1="373" x2="689" y2="347"
+style="stroke-width:2; stroke:#000000" />
+<line x1="689" y1="347" x2="744" y2="379"
+style="stroke-width:2; stroke:#000000" />
+<line x1="744" y1="379" x2="799" y2="347"
+style="stroke-width:2; stroke:#000000" />
+<line x1="799" y1="347" x2="854" y2="379"
+style="stroke-width:2; stroke:#000000" />
+<line x1="854" y1="379" x2="898" y2="352"
+style="stroke-width:2; stroke:#000000" />
+<line x1="693" y1="347" x2="693" y2="296"
+style="stroke-width:2; stroke:#000000" />
+<line x1="685" y1="347" x2="685" y2="296"
+style="stroke-width:2; stroke:#000000" />
+<line x1="803" y1="347" x2="803" y2="295"
+style="stroke-width:2; stroke:#000000" />
+<line x1="795" y1="347" x2="795" y2="295"
+style="stroke-width:2; stroke:#000000" />
+<line x1="850" y1="379" x2="850" y2="430"
+style="stroke-width:2; stroke:#000000" />
+<line x1="858" y1="379" x2="858" y2="430"
+style="stroke-width:2; stroke:#000000" />
+<text x="681" y="292" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="791" y="291" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="846" y="451" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="640" y="387" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="901" y="355" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+</g>
+</svg>

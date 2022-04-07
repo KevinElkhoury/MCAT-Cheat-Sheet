@@ -1,0 +1,2992 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="494.51093mm"
+   height="756.10229mm"
+   viewBox="0 0 494.51093 756.10229"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="AminoAcids.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1052.5591"
+     inkscape:cy="1496.927"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showborder="true"
+     units="mm"
+     inkscape:window-width="2289"
+     inkscape:window-height="1371"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Amino acids"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(9.8614647,78.370645)">
+    <text
+       xml:space="preserve"
+       style="font-size:50.8px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="34.558159"
+       y="108.32141"
+       id="text5674"><tspan
+         sodipodi:role="line"
+         id="tspan5672"
+         x="34.558159"
+         y="108.32141"
+         style="stroke-width:0.264583" /></text>
+    <g
+       id="g1620"
+       transform="matrix(0.26458333,0,0,0.26458333,-119.70061,137.64772)">
+      <line
+         x1="597"
+         y1="124"
+         x2="572"
+         y2="169"
+         style="stroke:#000000;stroke-width:2"
+         id="line1578" />
+      <line
+         x1="572"
+         y1="169"
+         x2="604"
+         y2="224"
+         style="stroke:#000000;stroke-width:2"
+         id="line1580" />
+      <line
+         x1="604"
+         y1="224"
+         x2="655"
+         y2="224"
+         style="stroke:#000000;stroke-width:2"
+         id="line1582" />
+      <line
+         x1="572"
+         y1="172"
+         x2="520"
+         y2="172"
+         style="stroke:#000000;stroke-width:2"
+         id="line1584" />
+      <line
+         x1="572"
+         y1="166"
+         x2="520"
+         y2="166"
+         style="stroke:#000000;stroke-width:2"
+         id="line1586" />
+      <line
+         x1="604"
+         y1="224"
+         x2="572"
+         y2="279"
+         style="stroke:#000000;stroke-width:2"
+         id="line1588" />
+      <line
+         x1="572"
+         y1="279"
+         x2="597"
+         y2="323"
+         style="stroke:#000000;stroke-width:2"
+         id="line1590" />
+      <text
+         x="514"
+         y="177"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text1594"><tspan
+           id="tspan1592">O</tspan></text>
+      <text
+         x="596"
+         y="342"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1598"><tspan
+           id="tspan1596">OH</tspan></text>
+      <text
+         x="596"
+         y="122"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1606"><tspan
+           id="tspan1600">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan1602">-</tspan><tspan
+           dy="10"
+           id="tspan1604" /></text>
+      <text
+         x="660"
+         y="232"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1618"><tspan
+           id="tspan1608">NH</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan1610">3</tspan><tspan
+           dy="-8"
+           id="tspan1612" /><tspan
+           dy="-18"
+           dx="-10"
+           style="font-size:18.6667px"
+           id="tspan1614">+</tspan><tspan
+           dy="10"
+           id="tspan1616" /></text>
+    </g>
+    <g
+       id="g1698"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.246082,137.64772)">
+      <line
+         x1="597"
+         y1="124"
+         x2="572"
+         y2="169"
+         style="stroke:#000000;stroke-width:2"
+         id="line1654" />
+      <line
+         x1="572"
+         y1="169"
+         x2="604"
+         y2="224"
+         style="stroke:#000000;stroke-width:2"
+         id="line1656" />
+      <line
+         x1="604"
+         y1="224"
+         x2="655"
+         y2="224"
+         style="stroke:#000000;stroke-width:2"
+         id="line1658" />
+      <line
+         x1="572"
+         y1="172"
+         x2="520"
+         y2="172"
+         style="stroke:#000000;stroke-width:2"
+         id="line1660" />
+      <line
+         x1="572"
+         y1="166"
+         x2="520"
+         y2="166"
+         style="stroke:#000000;stroke-width:2"
+         id="line1662" />
+      <line
+         x1="604"
+         y1="224"
+         x2="572"
+         y2="279"
+         style="stroke:#000000;stroke-width:2"
+         id="line1664" />
+      <line
+         x1="572"
+         y1="279"
+         x2="597"
+         y2="323"
+         style="stroke:#000000;stroke-width:2"
+         id="line1666" />
+      <line
+         x1="572"
+         y1="279"
+         x2="508"
+         y2="279"
+         style="stroke:#000000;stroke-width:2"
+         id="line1668" />
+      <text
+         x="514"
+         y="177"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text1672"><tspan
+           id="tspan1670">O</tspan></text>
+      <text
+         x="596"
+         y="342"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1676"><tspan
+           id="tspan1674">OH</tspan></text>
+      <text
+         x="596"
+         y="122"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1684"><tspan
+           id="tspan1678">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan1680">-</tspan><tspan
+           dy="10"
+           id="tspan1682" /></text>
+      <text
+         x="660"
+         y="232"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1696"><tspan
+           id="tspan1686">NH</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan1688">3</tspan><tspan
+           dy="-8"
+           id="tspan1690" /><tspan
+           dy="-18"
+           dx="-10"
+           style="font-size:18.6667px"
+           id="tspan1692">+</tspan><tspan
+           dy="10"
+           id="tspan1694" /></text>
+    </g>
+    <g
+       id="g1775"
+       transform="matrix(0.26458333,0,0,0.26458333,79.208442,137.64772)">
+      <line
+         x1="597"
+         y1="124"
+         x2="572"
+         y2="169"
+         style="stroke:#000000;stroke-width:2"
+         id="line1733" />
+      <line
+         x1="572"
+         y1="169"
+         x2="604"
+         y2="224"
+         style="stroke:#000000;stroke-width:2"
+         id="line1735" />
+      <line
+         x1="604"
+         y1="224"
+         x2="655"
+         y2="224"
+         style="stroke:#000000;stroke-width:2"
+         id="line1737" />
+      <line
+         x1="572"
+         y1="172"
+         x2="520"
+         y2="172"
+         style="stroke:#000000;stroke-width:2"
+         id="line1739" />
+      <line
+         x1="572"
+         y1="166"
+         x2="520"
+         y2="166"
+         style="stroke:#000000;stroke-width:2"
+         id="line1741" />
+      <line
+         x1="604"
+         y1="224"
+         x2="572"
+         y2="279"
+         style="stroke:#000000;stroke-width:2"
+         id="line1743" />
+      <line
+         x1="572"
+         y1="279"
+         x2="597"
+         y2="323"
+         style="stroke:#000000;stroke-width:2"
+         id="line1745" />
+      <text
+         x="514"
+         y="177"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text1749"><tspan
+           id="tspan1747">O</tspan></text>
+      <text
+         x="596"
+         y="342"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1753"><tspan
+           id="tspan1751">SH</tspan></text>
+      <text
+         x="660"
+         y="232"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1765"><tspan
+           id="tspan1755">NH</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan1757">3</tspan><tspan
+           dy="-8"
+           id="tspan1759" /><tspan
+           dy="-18"
+           dx="-10"
+           style="font-size:18.6667px"
+           id="tspan1761">+</tspan><tspan
+           dy="10"
+           id="tspan1763" /></text>
+      <text
+         x="596"
+         y="122"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1773"><tspan
+           id="tspan1767">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan1769">-</tspan><tspan
+           dy="10"
+           id="tspan1771" /></text>
+    </g>
+    <g
+       id="g1855"
+       transform="matrix(0.26458333,0,0,0.26458333,178.66296,137.64772)">
+      <line
+         x1="597"
+         y1="124"
+         x2="572"
+         y2="169"
+         style="stroke:#000000;stroke-width:2"
+         id="line1809" />
+      <line
+         x1="572"
+         y1="169"
+         x2="604"
+         y2="224"
+         style="stroke:#000000;stroke-width:2"
+         id="line1811" />
+      <line
+         x1="604"
+         y1="224"
+         x2="655"
+         y2="224"
+         style="stroke:#000000;stroke-width:2"
+         id="line1813" />
+      <line
+         x1="572"
+         y1="172"
+         x2="520"
+         y2="172"
+         style="stroke:#000000;stroke-width:2"
+         id="line1815" />
+      <line
+         x1="572"
+         y1="166"
+         x2="520"
+         y2="166"
+         style="stroke:#000000;stroke-width:2"
+         id="line1817" />
+      <line
+         x1="604"
+         y1="224"
+         x2="572"
+         y2="279"
+         style="stroke:#000000;stroke-width:2"
+         id="line1819" />
+      <line
+         x1="572"
+         y1="279"
+         x2="604"
+         y2="334"
+         style="stroke:#000000;stroke-width:2"
+         id="line1821" />
+      <line
+         x1="604"
+         y1="334"
+         x2="578"
+         y2="378"
+         style="stroke:#000000;stroke-width:2"
+         id="line1823" />
+      <line
+         x1="578"
+         y1="399"
+         x2="604"
+         y2="444"
+         style="stroke:#000000;stroke-width:2"
+         id="line1825" />
+      <text
+         x="514"
+         y="177"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text1829"><tspan
+           id="tspan1827">O</tspan></text>
+      <text
+         x="570"
+         y="397"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text1833"><tspan
+           id="tspan1831">S</tspan></text>
+      <text
+         x="660"
+         y="232"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1845"><tspan
+           id="tspan1835">NH</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan1837">3</tspan><tspan
+           dy="-8"
+           id="tspan1839" /><tspan
+           dy="-18"
+           dx="-10"
+           style="font-size:18.6667px"
+           id="tspan1841">+</tspan><tspan
+           dy="10"
+           id="tspan1843" /></text>
+      <text
+         x="596"
+         y="122"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text1853"><tspan
+           id="tspan1847">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan1849">-</tspan><tspan
+           dy="10"
+           id="tspan1851" /></text>
+    </g>
+    <g
+       id="g2421"
+       transform="matrix(0.26458333,0,0,0.26458333,278.11749,137.64772)">
+      <line
+         x1="597"
+         y1="124"
+         x2="572"
+         y2="169"
+         style="stroke:#000000;stroke-width:2"
+         id="line2375" />
+      <line
+         x1="572"
+         y1="169"
+         x2="604"
+         y2="224"
+         style="stroke:#000000;stroke-width:2"
+         id="line2377" />
+      <line
+         x1="604"
+         y1="224"
+         x2="655"
+         y2="224"
+         style="stroke:#000000;stroke-width:2"
+         id="line2379" />
+      <line
+         x1="572"
+         y1="172"
+         x2="520"
+         y2="172"
+         style="stroke:#000000;stroke-width:2"
+         id="line2381" />
+      <line
+         x1="572"
+         y1="166"
+         x2="520"
+         y2="166"
+         style="stroke:#000000;stroke-width:2"
+         id="line2383" />
+      <line
+         x1="604"
+         y1="224"
+         x2="572"
+         y2="279"
+         style="stroke:#000000;stroke-width:2"
+         id="line2385" />
+      <line
+         x1="572"
+         y1="279"
+         x2="597"
+         y2="323"
+         style="stroke:#000000;stroke-width:2"
+         id="line2387" />
+      <text
+         x="514"
+         y="177"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text2391"><tspan
+           id="tspan2389">O</tspan></text>
+      <text
+         x="596"
+         y="122"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2399"><tspan
+           id="tspan2393">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan2395">-</tspan><tspan
+           dy="10"
+           id="tspan2397" /></text>
+      <text
+         x="660"
+         y="232"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2411"><tspan
+           id="tspan2401">NH</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan2403">3</tspan><tspan
+           dy="-8"
+           id="tspan2405" /><tspan
+           dy="-18"
+           dx="-10"
+           style="font-size:18.6667px"
+           id="tspan2407">+</tspan><tspan
+           dy="10"
+           id="tspan2409" /></text>
+      <text
+         x="596"
+         y="342"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2419"><tspan
+           id="tspan2413">COO</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan2415">-</tspan><tspan
+           dy="10"
+           id="tspan2417" /></text>
+    </g>
+    <g
+       id="g7008">
+      <g
+         id="g6625">
+        <g
+           id="g1000"
+           transform="matrix(0.26458333,0,0,0.26458333,-119.70061,0.07227761)">
+          <line
+             x1="597"
+             y1="124"
+             x2="572"
+             y2="169"
+             style="stroke:#000000;stroke-width:2"
+             id="line966" />
+          <line
+             x1="572"
+             y1="169"
+             x2="604"
+             y2="224"
+             style="stroke:#000000;stroke-width:2"
+             id="line968" />
+          <line
+             x1="604"
+             y1="224"
+             x2="655"
+             y2="224"
+             style="stroke:#000000;stroke-width:2"
+             id="line970" />
+          <line
+             x1="572"
+             y1="172"
+             x2="520"
+             y2="172"
+             style="stroke:#000000;stroke-width:2"
+             id="line972" />
+          <line
+             x1="572"
+             y1="166"
+             x2="520"
+             y2="166"
+             style="stroke:#000000;stroke-width:2"
+             id="line974" />
+          <text
+             x="514"
+             y="177"
+             style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+             id="text978"><tspan
+               id="tspan976">O</tspan></text>
+          <text
+             x="596"
+             y="122"
+             style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+             id="text986"><tspan
+               id="tspan980">O</tspan><tspan
+               dy="-10"
+               style="font-size:18.6667px"
+               id="tspan982">-</tspan><tspan
+               dy="10"
+               id="tspan984" /></text>
+          <text
+             x="660"
+             y="232"
+             style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+             id="text998"><tspan
+               id="tspan988">NH</tspan><tspan
+               dy="8"
+               style="font-size:18.6667px"
+               id="tspan990">3</tspan><tspan
+               dy="-8"
+               id="tspan992" /><tspan
+               dy="-18"
+               dx="-10"
+               style="font-size:18.6667px"
+               id="tspan994">+</tspan><tspan
+               dy="10"
+               id="tspan996" /></text>
+        </g>
+        <g
+           id="g1066"
+           transform="matrix(0.26458333,0,0,0.26458333,-20.246069,0.07227761)">
+          <line
+             x1="597"
+             y1="124"
+             x2="572"
+             y2="169"
+             style="stroke:#000000;stroke-width:2"
+             id="line1030" />
+          <line
+             x1="572"
+             y1="169"
+             x2="604"
+             y2="224"
+             style="stroke:#000000;stroke-width:2"
+             id="line1032" />
+          <line
+             x1="604"
+             y1="224"
+             x2="655"
+             y2="224"
+             style="stroke:#000000;stroke-width:2"
+             id="line1034" />
+          <line
+             x1="572"
+             y1="172"
+             x2="520"
+             y2="172"
+             style="stroke:#000000;stroke-width:2"
+             id="line1036" />
+          <line
+             x1="572"
+             y1="166"
+             x2="520"
+             y2="166"
+             style="stroke:#000000;stroke-width:2"
+             id="line1038" />
+          <line
+             x1="604"
+             y1="224"
+             x2="572"
+             y2="279"
+             style="stroke:#000000;stroke-width:2"
+             id="line1040" />
+          <text
+             x="514"
+             y="177"
+             style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+             id="text1044"><tspan
+               id="tspan1042">O</tspan></text>
+          <text
+             x="660"
+             y="232"
+             style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+             id="text1056"><tspan
+               id="tspan1046">NH</tspan><tspan
+               dy="8"
+               style="font-size:18.6667px"
+               id="tspan1048">3</tspan><tspan
+               dy="-8"
+               id="tspan1050" /><tspan
+               dy="-18"
+               dx="-10"
+               style="font-size:18.6667px"
+               id="tspan1052">+</tspan><tspan
+               dy="10"
+               id="tspan1054" /></text>
+          <text
+             x="596"
+             y="122"
+             style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+             id="text1064"><tspan
+               id="tspan1058">O</tspan><tspan
+               dy="-10"
+               style="font-size:18.6667px"
+               id="tspan1060">-</tspan><tspan
+               dy="10"
+               id="tspan1062" /></text>
+        </g>
+        <g
+           id="g1137"
+           transform="matrix(0.26458333,0,0,0.26458333,79.20847,0.07227761)">
+          <line
+             x1="597"
+             y1="124"
+             x2="572"
+             y2="169"
+             style="stroke:#000000;stroke-width:2"
+             id="line1097" />
+          <line
+             x1="572"
+             y1="169"
+             x2="604"
+             y2="224"
+             style="stroke:#000000;stroke-width:2"
+             id="line1099" />
+          <line
+             x1="604"
+             y1="224"
+             x2="655"
+             y2="224"
+             style="stroke:#000000;stroke-width:2"
+             id="line1101" />
+          <line
+             x1="572"
+             y1="172"
+             x2="520"
+             y2="172"
+             style="stroke:#000000;stroke-width:2"
+             id="line1103" />
+          <line
+             x1="572"
+             y1="166"
+             x2="520"
+             y2="166"
+             style="stroke:#000000;stroke-width:2"
+             id="line1105" />
+          <line
+             x1="604"
+             y1="224"
+             x2="572"
+             y2="279"
+             style="stroke:#000000;stroke-width:2"
+             id="line1107" />
+          <line
+             x1="572"
+             y1="279"
+             x2="604"
+             y2="334"
+             style="stroke:#000000;stroke-width:2"
+             id="line1109" />
+          <line
+             x1="572"
+             y1="279"
+             x2="517"
+             y2="311"
+             style="stroke:#000000;stroke-width:2"
+             id="line1111" />
+          <text
+             x="514"
+             y="177"
+             style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+             id="text1115"><tspan
+               id="tspan1113">O</tspan></text>
+          <text
+             x="596"
+             y="122"
+             style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+             id="text1123"><tspan
+               id="tspan1117">O</tspan><tspan
+               dy="-10"
+               style="font-size:18.6667px"
+               id="tspan1119">-</tspan><tspan
+               dy="10"
+               id="tspan1121" /></text>
+          <text
+             x="660"
+             y="232"
+             style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+             id="text1135"><tspan
+               id="tspan1125">NH</tspan><tspan
+               dy="8"
+               style="font-size:18.6667px"
+               id="tspan1127">3</tspan><tspan
+               dy="-8"
+               id="tspan1129" /><tspan
+               dy="-18"
+               dx="-10"
+               style="font-size:18.6667px"
+               id="tspan1131">+</tspan><tspan
+               dy="10"
+               id="tspan1133" /></text>
+        </g>
+        <g
+           id="g1288"
+           transform="matrix(0.26458333,0,0,0.26458333,178.66299,0.07227761)">
+          <line
+             x1="597"
+             y1="124"
+             x2="572"
+             y2="169"
+             style="stroke:#000000;stroke-width:2"
+             id="line1246" />
+          <line
+             x1="572"
+             y1="169"
+             x2="604"
+             y2="224"
+             style="stroke:#000000;stroke-width:2"
+             id="line1248" />
+          <line
+             x1="604"
+             y1="224"
+             x2="655"
+             y2="224"
+             style="stroke:#000000;stroke-width:2"
+             id="line1250" />
+          <line
+             x1="572"
+             y1="172"
+             x2="520"
+             y2="172"
+             style="stroke:#000000;stroke-width:2"
+             id="line1252" />
+          <line
+             x1="572"
+             y1="166"
+             x2="520"
+             y2="166"
+             style="stroke:#000000;stroke-width:2"
+             id="line1254" />
+          <line
+             x1="604"
+             y1="224"
+             x2="572"
+             y2="279"
+             style="stroke:#000000;stroke-width:2"
+             id="line1256" />
+          <line
+             x1="572"
+             y1="279"
+             x2="604"
+             y2="334"
+             style="stroke:#000000;stroke-width:2"
+             id="line1258" />
+          <line
+             x1="604"
+             y1="334"
+             x2="572"
+             y2="389"
+             style="stroke:#000000;stroke-width:2"
+             id="line1260" />
+          <line
+             x1="604"
+             y1="334"
+             x2="668"
+             y2="334"
+             style="stroke:#000000;stroke-width:2"
+             id="line1262" />
+          <text
+             x="514"
+             y="177"
+             style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+             id="text1266"><tspan
+               id="tspan1264">O</tspan></text>
+          <text
+             x="596"
+             y="122"
+             style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+             id="text1274"><tspan
+               id="tspan1268">O</tspan><tspan
+               dy="-10"
+               style="font-size:18.6667px"
+               id="tspan1270">-</tspan><tspan
+               dy="10"
+               id="tspan1272" /></text>
+          <text
+             x="660"
+             y="232"
+             style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+             id="text1286"><tspan
+               id="tspan1276">NH</tspan><tspan
+               dy="8"
+               style="font-size:18.6667px"
+               id="tspan1278">3</tspan><tspan
+               dy="-8"
+               id="tspan1280" /><tspan
+               dy="-18"
+               dx="-10"
+               style="font-size:18.6667px"
+               id="tspan1282">+</tspan><tspan
+               dy="10"
+               id="tspan1284" /></text>
+        </g>
+        <g
+           id="g1440"
+           transform="matrix(0.26458333,0,0,0.26458333,278.11751,0.07227761)">
+          <line
+             x1="597"
+             y1="124"
+             x2="572"
+             y2="169"
+             style="stroke:#000000;stroke-width:2"
+             id="line1398" />
+          <line
+             x1="572"
+             y1="169"
+             x2="604"
+             y2="224"
+             style="stroke:#000000;stroke-width:2"
+             id="line1400" />
+          <line
+             x1="604"
+             y1="224"
+             x2="655"
+             y2="224"
+             style="stroke:#000000;stroke-width:2"
+             id="line1402" />
+          <line
+             x1="572"
+             y1="172"
+             x2="520"
+             y2="172"
+             style="stroke:#000000;stroke-width:2"
+             id="line1404" />
+          <line
+             x1="572"
+             y1="166"
+             x2="520"
+             y2="166"
+             style="stroke:#000000;stroke-width:2"
+             id="line1406" />
+          <line
+             x1="604"
+             y1="224"
+             x2="572"
+             y2="279"
+             style="stroke:#000000;stroke-width:2"
+             id="line1408" />
+          <line
+             x1="572"
+             y1="279"
+             x2="604"
+             y2="334"
+             style="stroke:#000000;stroke-width:2"
+             id="line1410" />
+          <line
+             x1="604"
+             y1="334"
+             x2="572"
+             y2="389"
+             style="stroke:#000000;stroke-width:2"
+             id="line1412" />
+          <line
+             x1="572"
+             y1="279"
+             x2="508"
+             y2="279"
+             style="stroke:#000000;stroke-width:2"
+             id="line1414" />
+          <text
+             x="514"
+             y="177"
+             style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+             id="text1418"><tspan
+               id="tspan1416">O</tspan></text>
+          <text
+             x="660"
+             y="232"
+             style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+             id="text1430"><tspan
+               id="tspan1420">NH</tspan><tspan
+               dy="8"
+               style="font-size:18.6667px"
+               id="tspan1422">3</tspan><tspan
+               dy="-8"
+               id="tspan1424" /><tspan
+               dy="-18"
+               dx="-10"
+               style="font-size:18.6667px"
+               id="tspan1426">+</tspan><tspan
+               dy="10"
+               id="tspan1428" /></text>
+          <text
+             x="596"
+             y="122"
+             style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+             id="text1438"><tspan
+               id="tspan1432">O</tspan><tspan
+               dy="-10"
+               style="font-size:18.6667px"
+               id="tspan1434">-</tspan><tspan
+               dy="10"
+               id="tspan1436" /></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="138.86055"
+         y="116.69335"
+         id="text5662-0"><tspan
+           sodipodi:role="line"
+           id="tspan5660-2"
+           x="138.86055"
+           y="116.69335"
+           style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583">Alanine</tspan><tspan
+           sodipodi:role="line"
+           x="138.86055"
+           y="127.27669"
+           style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5680-1">Ala</tspan><tspan
+           sodipodi:role="line"
+           x="138.86055"
+           y="137.86003"
+           style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5682-0">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="39.201374"
+         y="116.69335"
+         id="text5662"><tspan
+           sodipodi:role="line"
+           id="tspan5660"
+           x="39.201374"
+           y="116.69335"
+           style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583">Glycine</tspan><tspan
+           sodipodi:role="line"
+           x="39.201374"
+           y="127.27669"
+           style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5680">Gly</tspan><tspan
+           sodipodi:role="line"
+           x="39.201374"
+           y="137.86003"
+           style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5682">G</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="238.31509"
+         y="116.69335"
+         id="text5662-0-5"><tspan
+           sodipodi:role="line"
+           x="238.31509"
+           y="116.69335"
+           style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5748">Valine</tspan><tspan
+           sodipodi:role="line"
+           x="238.31509"
+           y="127.27669"
+           style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5680-1-1">Val</tspan><tspan
+           sodipodi:role="line"
+           x="238.31509"
+           y="137.86003"
+           style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5682-0-0">V</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="337.38721"
+         y="116.69335"
+         id="text5754"><tspan
+           sodipodi:role="line"
+           id="tspan5752"
+           x="337.38721"
+           y="116.69335"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Leucine</tspan><tspan
+           sodipodi:role="line"
+           x="337.38721"
+           y="127.27669"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5756">Leu</tspan><tspan
+           sodipodi:role="line"
+           x="337.38721"
+           y="137.86003"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5758">L</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="436.84174"
+         y="116.69335"
+         id="text5754-8"><tspan
+           sodipodi:role="line"
+           id="tspan5752-5"
+           x="436.84174"
+           y="116.69335"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Isoleucine</tspan><tspan
+           sodipodi:role="line"
+           x="436.84174"
+           y="127.27669"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5756-0">Ile</tspan><tspan
+           sodipodi:role="line"
+           x="436.84174"
+           y="137.86003"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan5758-6">I</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="39.160034"
+       y="266.60553"
+       id="text6629"><tspan
+         sodipodi:role="line"
+         id="tspan6627"
+         x="39.160034"
+         y="266.60553"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Serine</tspan><tspan
+         sodipodi:role="line"
+         x="39.160034"
+         y="277.18887"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan6631">Ser</tspan><tspan
+         sodipodi:role="line"
+         x="39.160034"
+         y="287.77222"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan6633">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="138.90602"
+       y="266.60553"
+       id="text6752"><tspan
+         sodipodi:role="line"
+         id="tspan6750"
+         x="138.90602"
+         y="266.60553"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Threonine</tspan><tspan
+         sodipodi:role="line"
+         x="138.90602"
+         y="277.18887"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan6754">Thr</tspan><tspan
+         sodipodi:role="line"
+         x="138.90602"
+         y="287.77222"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan6756">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="238.11043"
+       y="266.60553"
+       id="text6760"><tspan
+         sodipodi:role="line"
+         id="tspan6758"
+         x="238.11043"
+         y="266.60553"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Cysteine</tspan><tspan
+         sodipodi:role="line"
+         x="238.11043"
+         y="277.18887"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan6762">Cys</tspan><tspan
+         sodipodi:role="line"
+         x="238.11043"
+         y="287.77222"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan6764">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="337.38718"
+       y="266.60553"
+       id="text6768"><tspan
+         sodipodi:role="line"
+         id="tspan6766"
+         x="337.38718"
+         y="266.60553"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Methionine</tspan><tspan
+         sodipodi:role="line"
+         x="337.38718"
+         y="277.18887"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan6770">Met</tspan><tspan
+         sodipodi:role="line"
+         x="337.38718"
+         y="287.77222"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan6772">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="437.22412"
+       y="266.34509"
+       id="text6776"><tspan
+         sodipodi:role="line"
+         id="tspan6774"
+         x="437.22412"
+         y="266.34509"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Aspartate</tspan><tspan
+         sodipodi:role="line"
+         x="437.22412"
+         y="276.92844"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan6778">Asp</tspan><tspan
+         sodipodi:role="line"
+         x="437.22412"
+         y="287.51178"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan6780">D</tspan></text>
+    <g
+       id="g8228">
+      <g
+         id="g2622"
+         transform="matrix(0.26458333,0,0,0.26458333,-119.70061,289.77458)">
+        <line
+           x1="597"
+           y1="124"
+           x2="572"
+           y2="169"
+           style="stroke:#000000;stroke-width:2"
+           id="line2574" />
+        <line
+           x1="572"
+           y1="169"
+           x2="604"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line2576" />
+        <line
+           x1="604"
+           y1="224"
+           x2="655"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line2578" />
+        <line
+           x1="572"
+           y1="172"
+           x2="520"
+           y2="172"
+           style="stroke:#000000;stroke-width:2"
+           id="line2580" />
+        <line
+           x1="572"
+           y1="166"
+           x2="520"
+           y2="166"
+           style="stroke:#000000;stroke-width:2"
+           id="line2582" />
+        <line
+           x1="604"
+           y1="224"
+           x2="572"
+           y2="279"
+           style="stroke:#000000;stroke-width:2"
+           id="line2584" />
+        <line
+           x1="572"
+           y1="279"
+           x2="604"
+           y2="334"
+           style="stroke:#000000;stroke-width:2"
+           id="line2586" />
+        <line
+           x1="604"
+           y1="334"
+           x2="578"
+           y2="378"
+           style="stroke:#000000;stroke-width:2"
+           id="line2588" />
+        <text
+           x="514"
+           y="177"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text2592"><tspan
+             id="tspan2590">O</tspan></text>
+        <text
+           x="596"
+           y="122"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text2600"><tspan
+             id="tspan2594">O</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan2596">-</tspan><tspan
+             dy="10"
+             id="tspan2598" /></text>
+        <text
+           x="660"
+           y="232"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text2612"><tspan
+             id="tspan2602">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan2604">3</tspan><tspan
+             dy="-8"
+             id="tspan2606" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan2608">+</tspan><tspan
+             dy="10"
+             id="tspan2610" /></text>
+        <text
+           x="564"
+           y="397"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text2620"><tspan
+             id="tspan2614">COO</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan2616">-</tspan><tspan
+             dy="10"
+             id="tspan2618" /></text>
+      </g>
+      <g
+         id="g2715"
+         transform="matrix(0.26458333,0,0,0.26458333,-22.639503,289.77458)">
+        <line
+           x1="597"
+           y1="124"
+           x2="572"
+           y2="169"
+           style="stroke:#000000;stroke-width:2"
+           id="line2659" />
+        <line
+           x1="572"
+           y1="169"
+           x2="604"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line2661" />
+        <line
+           x1="604"
+           y1="224"
+           x2="655"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line2663" />
+        <line
+           x1="572"
+           y1="172"
+           x2="520"
+           y2="172"
+           style="stroke:#000000;stroke-width:2"
+           id="line2665" />
+        <line
+           x1="572"
+           y1="166"
+           x2="520"
+           y2="166"
+           style="stroke:#000000;stroke-width:2"
+           id="line2667" />
+        <line
+           x1="604"
+           y1="224"
+           x2="572"
+           y2="279"
+           style="stroke:#000000;stroke-width:2"
+           id="line2669" />
+        <line
+           x1="572"
+           y1="279"
+           x2="604"
+           y2="334"
+           style="stroke:#000000;stroke-width:2"
+           id="line2671" />
+        <line
+           x1="604"
+           y1="334"
+           x2="578"
+           y2="378"
+           style="stroke:#000000;stroke-width:2"
+           id="line2673" />
+        <line
+           x1="604"
+           y1="331"
+           x2="654"
+           y2="331"
+           style="stroke:#000000;stroke-width:2"
+           id="line2675" />
+        <line
+           x1="604"
+           y1="337"
+           x2="654"
+           y2="337"
+           style="stroke:#000000;stroke-width:2"
+           id="line2677" />
+        <text
+           x="514"
+           y="177"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text2681"><tspan
+             id="tspan2679">O</tspan></text>
+        <text
+           x="596"
+           y="122"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text2689"><tspan
+             id="tspan2683">O</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan2685">-</tspan><tspan
+             dy="10"
+             id="tspan2687" /></text>
+        <text
+           x="660"
+           y="232"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text2701"><tspan
+             id="tspan2691">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan2693">3</tspan><tspan
+             dy="-8"
+             id="tspan2695" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan2697">+</tspan><tspan
+             dy="10"
+             id="tspan2699" /></text>
+        <text
+           x="578"
+           y="397"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text2709"><tspan
+             id="tspan2703">H</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan2705">2</tspan><tspan
+             dy="-8"
+             id="tspan2707">N</tspan></text>
+        <text
+           x="659"
+           y="342"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text2713"><tspan
+             id="tspan2711">O</tspan></text>
+      </g>
+      <g
+         id="g3126"
+         transform="matrix(0.26458333,0,0,0.26458333,74.421594,289.77458)">
+        <line
+           x1="597"
+           y1="124"
+           x2="572"
+           y2="169"
+           style="stroke:#000000;stroke-width:2"
+           id="line3068" />
+        <line
+           x1="572"
+           y1="169"
+           x2="604"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line3070" />
+        <line
+           x1="604"
+           y1="224"
+           x2="655"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line3072" />
+        <line
+           x1="572"
+           y1="172"
+           x2="520"
+           y2="172"
+           style="stroke:#000000;stroke-width:2"
+           id="line3074" />
+        <line
+           x1="572"
+           y1="166"
+           x2="520"
+           y2="166"
+           style="stroke:#000000;stroke-width:2"
+           id="line3076" />
+        <line
+           x1="604"
+           y1="224"
+           x2="572"
+           y2="279"
+           style="stroke:#000000;stroke-width:2"
+           id="line3078" />
+        <line
+           x1="572"
+           y1="279"
+           x2="604"
+           y2="334"
+           style="stroke:#000000;stroke-width:2"
+           id="line3080" />
+        <line
+           x1="604"
+           y1="334"
+           x2="572"
+           y2="389"
+           style="stroke:#000000;stroke-width:2"
+           id="line3082" />
+        <line
+           x1="572"
+           y1="389"
+           x2="597"
+           y2="433"
+           style="stroke:#000000;stroke-width:2"
+           id="line3084" />
+        <line
+           x1="572"
+           y1="392"
+           x2="520"
+           y2="392"
+           style="stroke:#000000;stroke-width:2"
+           id="line3086" />
+        <line
+           x1="572"
+           y1="386"
+           x2="520"
+           y2="386"
+           style="stroke:#000000;stroke-width:2"
+           id="line3088" />
+        <text
+           x="514"
+           y="177"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text3092"><tspan
+             id="tspan3090">O</tspan></text>
+        <text
+           x="596"
+           y="122"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3100"><tspan
+             id="tspan3094">O</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan3096">-</tspan><tspan
+             dy="10"
+             id="tspan3098" /></text>
+        <text
+           x="660"
+           y="232"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3112"><tspan
+             id="tspan3102">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan3104">3</tspan><tspan
+             dy="-8"
+             id="tspan3106" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan3108">+</tspan><tspan
+             dy="10"
+             id="tspan3110" /></text>
+        <text
+           x="596"
+           y="452"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3120"><tspan
+             id="tspan3114">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan3116">2</tspan><tspan
+             dy="-8"
+             id="tspan3118" /></text>
+        <text
+           x="514"
+           y="397"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text3124"><tspan
+             id="tspan3122">O</tspan></text>
+      </g>
+      <g
+         id="g3321"
+         transform="matrix(0.26458333,0,0,0.26458333,171.48269,289.77458)">
+        <line
+           x1="597"
+           y1="124"
+           x2="572"
+           y2="169"
+           style="stroke:#000000;stroke-width:2"
+           id="line3265" />
+        <line
+           x1="572"
+           y1="169"
+           x2="604"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line3267" />
+        <line
+           x1="604"
+           y1="224"
+           x2="655"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line3269" />
+        <line
+           x1="572"
+           y1="172"
+           x2="520"
+           y2="172"
+           style="stroke:#000000;stroke-width:2"
+           id="line3271" />
+        <line
+           x1="572"
+           y1="166"
+           x2="520"
+           y2="166"
+           style="stroke:#000000;stroke-width:2"
+           id="line3273" />
+        <line
+           x1="604"
+           y1="224"
+           x2="572"
+           y2="279"
+           style="stroke:#000000;stroke-width:2"
+           id="line3275" />
+        <line
+           x1="572"
+           y1="279"
+           x2="604"
+           y2="334"
+           style="stroke:#000000;stroke-width:2"
+           id="line3277" />
+        <line
+           x1="604"
+           y1="334"
+           x2="572"
+           y2="389"
+           style="stroke:#000000;stroke-width:2"
+           id="line3279" />
+        <line
+           x1="572"
+           y1="389"
+           x2="604"
+           y2="444"
+           style="stroke:#000000;stroke-width:2"
+           id="line3281" />
+        <line
+           x1="604"
+           y1="444"
+           x2="579"
+           y2="487"
+           style="stroke:#000000;stroke-width:2"
+           id="line3283" />
+        <text
+           x="514"
+           y="177"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text3287"><tspan
+             id="tspan3285">O</tspan></text>
+        <text
+           x="596"
+           y="122"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3295"><tspan
+             id="tspan3289">O</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan3291">-</tspan><tspan
+             dy="10"
+             id="tspan3293" /></text>
+        <text
+           x="660"
+           y="232"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3307"><tspan
+             id="tspan3297">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan3299">3</tspan><tspan
+             dy="-8"
+             id="tspan3301" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan3303">+</tspan><tspan
+             dy="10"
+             id="tspan3305" /></text>
+        <text
+           x="580"
+           y="506"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text3319"><tspan
+             id="tspan3309">H</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan3311">3</tspan><tspan
+             dy="-8"
+             id="tspan3313">N</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan3315">+</tspan><tspan
+             dy="10"
+             id="tspan3317" /></text>
+      </g>
+      <g
+         id="g3669"
+         transform="matrix(0.26458333,0,0,0.26458333,278.11745,289.77458)">
+        <line
+           x1="597"
+           y1="124"
+           x2="572"
+           y2="169"
+           style="stroke:#000000;stroke-width:2"
+           id="line3595" />
+        <line
+           x1="572"
+           y1="169"
+           x2="604"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line3597" />
+        <line
+           x1="604"
+           y1="224"
+           x2="655"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line3599" />
+        <line
+           x1="572"
+           y1="172"
+           x2="520"
+           y2="172"
+           style="stroke:#000000;stroke-width:2"
+           id="line3601" />
+        <line
+           x1="572"
+           y1="166"
+           x2="520"
+           y2="166"
+           style="stroke:#000000;stroke-width:2"
+           id="line3603" />
+        <line
+           x1="604"
+           y1="224"
+           x2="572"
+           y2="279"
+           style="stroke:#000000;stroke-width:2"
+           id="line3605" />
+        <line
+           x1="572"
+           y1="279"
+           x2="604"
+           y2="334"
+           style="stroke:#000000;stroke-width:2"
+           id="line3607" />
+        <line
+           x1="604"
+           y1="334"
+           x2="572"
+           y2="389"
+           style="stroke:#000000;stroke-width:2"
+           id="line3609" />
+        <line
+           x1="572"
+           y1="389"
+           x2="597"
+           y2="433"
+           style="stroke:#000000;stroke-width:2"
+           id="line3611" />
+        <line
+           x1="597"
+           y1="454"
+           x2="572"
+           y2="499"
+           style="stroke:#000000;stroke-width:2"
+           id="line3613" />
+        <line
+           x1="572"
+           y1="499"
+           x2="597"
+           y2="542"
+           style="stroke:#000000;stroke-width:2"
+           id="line3615" />
+        <line
+           x1="572"
+           y1="502"
+           x2="520"
+           y2="502"
+           style="stroke:#000000;stroke-width:2"
+           id="line3617" />
+        <line
+           x1="572"
+           y1="496"
+           x2="520"
+           y2="496"
+           style="stroke:#000000;stroke-width:2"
+           id="line3619" />
+        <text
+           x="514"
+           y="177"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text3623"><tspan
+             id="tspan3621">O</tspan></text>
+        <text
+           x="596"
+           y="122"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3631"><tspan
+             id="tspan3625">O</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan3627">-</tspan><tspan
+             dy="10"
+             id="tspan3629" /></text>
+        <text
+           x="660"
+           y="232"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3643"><tspan
+             id="tspan3633">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan3635">3</tspan><tspan
+             dy="-8"
+             id="tspan3637" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan3639">+</tspan><tspan
+             dy="10"
+             id="tspan3641" /></text>
+        <text
+           x="596"
+           y="452"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3647"><tspan
+             id="tspan3645">NH</tspan></text>
+        <text
+           x="596"
+           y="561"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3655"><tspan
+             id="tspan3649">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan3651">2</tspan><tspan
+             dy="-8"
+             id="tspan3653" /></text>
+        <text
+           x="514"
+           y="507"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text3667"><tspan
+             id="tspan3657">H</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan3659">2</tspan><tspan
+             dy="-8"
+             id="tspan3661">N</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan3663">+</tspan><tspan
+             dy="10"
+             id="tspan3665" /></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="39.201374"
+         y="454.55029"
+         id="text7868"><tspan
+           sodipodi:role="line"
+           id="tspan7866"
+           x="39.201374"
+           y="454.55029"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Glutamate</tspan><tspan
+           sodipodi:role="line"
+           x="39.201374"
+           y="465.13364"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan7870">Glu</tspan><tspan
+           sodipodi:role="line"
+           x="39.201374"
+           y="475.71698"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan7872">E</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="136.46712"
+         y="454.55029"
+         id="text7876"><tspan
+           sodipodi:role="line"
+           id="tspan7874"
+           x="136.46712"
+           y="454.55029"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Asparagine</tspan><tspan
+           sodipodi:role="line"
+           x="136.46712"
+           y="465.13364"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan7878">Asn</tspan><tspan
+           sodipodi:role="line"
+           x="136.46712"
+           y="475.71698"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan7880">N</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="233.32358"
+         y="454.55029"
+         id="text7884"><tspan
+           sodipodi:role="line"
+           id="tspan7882"
+           x="233.32358"
+           y="454.55029"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Glutamine</tspan><tspan
+           sodipodi:role="line"
+           x="233.32358"
+           y="465.13364"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan7886">Gln</tspan><tspan
+           sodipodi:role="line"
+           x="233.32358"
+           y="475.71698"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan7888">Q</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="330.20691"
+         y="454.55029"
+         id="text7892"><tspan
+           sodipodi:role="line"
+           id="tspan7890"
+           x="330.20691"
+           y="454.55029"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Lysine</tspan><tspan
+           sodipodi:role="line"
+           x="330.20691"
+           y="465.13364"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan7894">Lys</tspan><tspan
+           sodipodi:role="line"
+           x="330.20691"
+           y="475.71698"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan7896">K</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="432.43723"
+         y="454.55029"
+         id="text7900"><tspan
+           sodipodi:role="line"
+           id="tspan7898"
+           x="432.43723"
+           y="454.55029"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Arginine</tspan><tspan
+           sodipodi:role="line"
+           x="432.43723"
+           y="465.13364"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan7902">Arg</tspan><tspan
+           sodipodi:role="line"
+           x="432.43723"
+           y="475.71698"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan7904">R</tspan></text>
+    </g>
+    <g
+       id="g8594">
+      <g
+         id="g3775"
+         transform="matrix(0.26458333,0,0,0.26458333,-119.70061,474.83705)">
+        <line
+           x1="597"
+           y1="124"
+           x2="572"
+           y2="169"
+           style="stroke:#000000;stroke-width:2"
+           id="line3719" />
+        <line
+           x1="572"
+           y1="169"
+           x2="604"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line3721" />
+        <line
+           x1="604"
+           y1="224"
+           x2="655"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line3723" />
+        <line
+           x1="572"
+           y1="172"
+           x2="520"
+           y2="172"
+           style="stroke:#000000;stroke-width:2"
+           id="line3725" />
+        <line
+           x1="572"
+           y1="166"
+           x2="520"
+           y2="166"
+           style="stroke:#000000;stroke-width:2"
+           id="line3727" />
+        <line
+           x1="604"
+           y1="224"
+           x2="572"
+           y2="279"
+           style="stroke:#000000;stroke-width:2"
+           id="line3729" />
+        <line
+           x1="572"
+           y1="279"
+           x2="602"
+           y2="333"
+           style="stroke:#000000;stroke-width:2"
+           id="line3731" />
+        <line
+           x1="547"
+           y1="365"
+           x2="547"
+           y2="429"
+           style="stroke:#000000;stroke-width:2"
+           id="line3733" />
+        <line
+           x1="602"
+           y1="461"
+           x2="656"
+           y2="431"
+           style="stroke:#000000;stroke-width:2"
+           id="line3735" />
+        <line
+           x1="602"
+           y1="333"
+           x2="656"
+           y2="367"
+           style="stroke:#000000;stroke-width:2"
+           id="line3737" />
+        <line
+           x1="547"
+           y1="365"
+           x2="602"
+           y2="333"
+           style="stroke:#000000;stroke-width:2"
+           id="line3739" />
+        <line
+           x1="600"
+           y1="342"
+           x2="556"
+           y2="367"
+           style="stroke:#000000;stroke-width:2"
+           id="line3741" />
+        <line
+           x1="602"
+           y1="461"
+           x2="547"
+           y2="429"
+           style="stroke:#000000;stroke-width:2"
+           id="line3743" />
+        <line
+           x1="556"
+           y1="427"
+           x2="600"
+           y2="452"
+           style="stroke:#000000;stroke-width:2"
+           id="line3745" />
+        <line
+           x1="656"
+           y1="367"
+           x2="656"
+           y2="431"
+           style="stroke:#000000;stroke-width:2"
+           id="line3747" />
+        <line
+           x1="649"
+           y1="424"
+           x2="649"
+           y2="374"
+           style="stroke:#000000;stroke-width:2"
+           id="line3749" />
+        <text
+           x="514"
+           y="177"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text3753"><tspan
+             id="tspan3751">O</tspan></text>
+        <text
+           x="596"
+           y="122"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3761"><tspan
+             id="tspan3755">O</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan3757">-</tspan><tspan
+             dy="10"
+             id="tspan3759" /></text>
+        <text
+           x="660"
+           y="232"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3773"><tspan
+             id="tspan3763">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan3765">3</tspan><tspan
+             dy="-8"
+             id="tspan3767" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan3769">+</tspan><tspan
+             dy="10"
+             id="tspan3771" /></text>
+      </g>
+      <g
+         id="g3878"
+         transform="matrix(0.26458333,0,0,0.26458333,-23.548552,474.83705)">
+        <line
+           x1="597"
+           y1="124"
+           x2="572"
+           y2="169"
+           style="stroke:#000000;stroke-width:2"
+           id="line3816" />
+        <line
+           x1="572"
+           y1="169"
+           x2="604"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line3818" />
+        <line
+           x1="604"
+           y1="224"
+           x2="655"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line3820" />
+        <line
+           x1="572"
+           y1="172"
+           x2="520"
+           y2="172"
+           style="stroke:#000000;stroke-width:2"
+           id="line3822" />
+        <line
+           x1="572"
+           y1="166"
+           x2="520"
+           y2="166"
+           style="stroke:#000000;stroke-width:2"
+           id="line3824" />
+        <line
+           x1="604"
+           y1="224"
+           x2="572"
+           y2="279"
+           style="stroke:#000000;stroke-width:2"
+           id="line3826" />
+        <line
+           x1="572"
+           y1="279"
+           x2="602"
+           y2="333"
+           style="stroke:#000000;stroke-width:2"
+           id="line3828" />
+        <line
+           x1="547"
+           y1="365"
+           x2="547"
+           y2="429"
+           style="stroke:#000000;stroke-width:2"
+           id="line3830" />
+        <line
+           x1="602"
+           y1="461"
+           x2="656"
+           y2="431"
+           style="stroke:#000000;stroke-width:2"
+           id="line3832" />
+        <line
+           x1="602"
+           y1="333"
+           x2="656"
+           y2="367"
+           style="stroke:#000000;stroke-width:2"
+           id="line3834" />
+        <line
+           x1="547"
+           y1="365"
+           x2="602"
+           y2="333"
+           style="stroke:#000000;stroke-width:2"
+           id="line3836" />
+        <line
+           x1="600"
+           y1="342"
+           x2="556"
+           y2="367"
+           style="stroke:#000000;stroke-width:2"
+           id="line3838" />
+        <line
+           x1="602"
+           y1="461"
+           x2="547"
+           y2="429"
+           style="stroke:#000000;stroke-width:2"
+           id="line3840" />
+        <line
+           x1="556"
+           y1="427"
+           x2="600"
+           y2="452"
+           style="stroke:#000000;stroke-width:2"
+           id="line3842" />
+        <line
+           x1="656"
+           y1="367"
+           x2="656"
+           y2="431"
+           style="stroke:#000000;stroke-width:2"
+           id="line3844" />
+        <line
+           x1="649"
+           y1="424"
+           x2="649"
+           y2="374"
+           style="stroke:#000000;stroke-width:2"
+           id="line3846" />
+        <line
+           x1="602"
+           y1="461"
+           x2="602"
+           y2="512"
+           style="stroke:#000000;stroke-width:2"
+           id="line3848" />
+        <text
+           x="514"
+           y="177"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text3852"><tspan
+             id="tspan3850">O</tspan></text>
+        <text
+           x="596"
+           y="122"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3860"><tspan
+             id="tspan3854">O</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan3856">-</tspan><tspan
+             dy="10"
+             id="tspan3858" /></text>
+        <text
+           x="660"
+           y="232"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3872"><tspan
+             id="tspan3862">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan3864">3</tspan><tspan
+             dy="-8"
+             id="tspan3866" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan3868">+</tspan><tspan
+             dy="10"
+             id="tspan3870" /></text>
+        <text
+           x="594"
+           y="533"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text3876"><tspan
+             id="tspan3874">OH</tspan></text>
+      </g>
+      <g
+         id="g4225"
+         transform="matrix(0.26458333,0,0,0.26458333,72.603508,474.83705)">
+        <line
+           x1="597"
+           y1="124"
+           x2="572"
+           y2="169"
+           style="stroke:#000000;stroke-width:2"
+           id="line4183" />
+        <line
+           x1="572"
+           y1="169"
+           x2="604"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line4185" />
+        <line
+           x1="572"
+           y1="172"
+           x2="520"
+           y2="172"
+           style="stroke:#000000;stroke-width:2"
+           id="line4187" />
+        <line
+           x1="572"
+           y1="166"
+           x2="520"
+           y2="166"
+           style="stroke:#000000;stroke-width:2"
+           id="line4189" />
+        <line
+           x1="604"
+           y1="224"
+           x2="585"
+           y2="284"
+           style="stroke:#000000;stroke-width:2"
+           id="line4191" />
+        <line
+           x1="585"
+           y1="284"
+           x2="635"
+           y2="320"
+           style="stroke:#000000;stroke-width:2"
+           id="line4193" />
+        <line
+           x1="635"
+           y1="320"
+           x2="686"
+           y2="283"
+           style="stroke:#000000;stroke-width:2"
+           id="line4195" />
+        <line
+           x1="604"
+           y1="224"
+           x2="654"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line4197" />
+        <line
+           x1="670"
+           y1="235"
+           x2="686"
+           y2="284"
+           style="stroke:#000000;stroke-width:2"
+           id="line4199" />
+        <text
+           x="514"
+           y="177"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text4203"><tspan
+             id="tspan4201">O</tspan></text>
+        <text
+           x="596"
+           y="122"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4211"><tspan
+             id="tspan4205">O</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan4207">-</tspan><tspan
+             dy="10"
+             id="tspan4209" /></text>
+        <text
+           x="659"
+           y="232"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4223"><tspan
+             id="tspan4213">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan4215">2</tspan><tspan
+             dy="-8"
+             id="tspan4217" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan4219">+</tspan><tspan
+             dy="10"
+             id="tspan4221" /></text>
+      </g>
+      <g
+         id="g4432"
+         transform="matrix(0.26458333,0,0,0.26458333,168.49098,474.83705)">
+        <line
+           x1="597"
+           y1="124"
+           x2="572"
+           y2="169"
+           style="stroke:#000000;stroke-width:2"
+           id="line4368" />
+        <line
+           x1="572"
+           y1="169"
+           x2="604"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line4370" />
+        <line
+           x1="604"
+           y1="224"
+           x2="655"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line4372" />
+        <line
+           x1="572"
+           y1="172"
+           x2="520"
+           y2="172"
+           style="stroke:#000000;stroke-width:2"
+           id="line4374" />
+        <line
+           x1="572"
+           y1="166"
+           x2="520"
+           y2="166"
+           style="stroke:#000000;stroke-width:2"
+           id="line4376" />
+        <line
+           x1="604"
+           y1="224"
+           x2="572"
+           y2="279"
+           style="stroke:#000000;stroke-width:2"
+           id="line4378" />
+        <line
+           x1="572"
+           y1="279"
+           x2="604"
+           y2="334"
+           style="stroke:#000000;stroke-width:2"
+           id="line4380" />
+        <line
+           x1="572"
+           y1="431"
+           x2="622"
+           y2="431"
+           style="stroke:#000000;stroke-width:2"
+           id="line4382" />
+        <line
+           x1="638"
+           y1="419"
+           x2="654"
+           y2="371"
+           style="stroke:#000000;stroke-width:2"
+           id="line4384" />
+        <line
+           x1="604"
+           y1="334"
+           x2="562"
+           y2="363"
+           style="stroke:#000000;stroke-width:2"
+           id="line4386" />
+        <line
+           x1="556"
+           y1="381"
+           x2="572"
+           y2="431"
+           style="stroke:#000000;stroke-width:2"
+           id="line4388" />
+        <line
+           x1="564"
+           y1="385"
+           x2="576"
+           y2="423"
+           style="stroke:#000000;stroke-width:2"
+           id="line4390" />
+        <line
+           x1="654"
+           y1="371"
+           x2="603"
+           y2="335"
+           style="stroke:#000000;stroke-width:2"
+           id="line4392" />
+        <line
+           x1="645"
+           y1="372"
+           x2="604"
+           y2="344"
+           style="stroke:#000000;stroke-width:2"
+           id="line4394" />
+        <text
+           x="514"
+           y="177"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text4398"><tspan
+             id="tspan4396">O</tspan></text>
+        <text
+           x="596"
+           y="122"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4406"><tspan
+             id="tspan4400">O</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan4402">-</tspan><tspan
+             dy="10"
+             id="tspan4404" /></text>
+        <text
+           x="660"
+           y="232"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4418"><tspan
+             id="tspan4408">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan4410">3</tspan><tspan
+             dy="-8"
+             id="tspan4412" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan4414">+</tspan><tspan
+             dy="10"
+             id="tspan4416" /></text>
+        <text
+           x="627"
+           y="439"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4422"><tspan
+             id="tspan4420">NH</tspan></text>
+        <text
+           x="559"
+           y="378"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text4430"><tspan
+             id="tspan4424">NH</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan4426">+</tspan><tspan
+             dy="10"
+             id="tspan4428" /></text>
+      </g>
+      <g
+         id="g4665"
+         transform="matrix(0.26458333,0,0,0.26458333,264.64302,474.83705)">
+        <line
+           x1="597"
+           y1="124"
+           x2="572"
+           y2="169"
+           style="stroke:#000000;stroke-width:2"
+           id="line4595" />
+        <line
+           x1="572"
+           y1="169"
+           x2="604"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line4597" />
+        <line
+           x1="604"
+           y1="224"
+           x2="655"
+           y2="224"
+           style="stroke:#000000;stroke-width:2"
+           id="line4599" />
+        <line
+           x1="572"
+           y1="172"
+           x2="520"
+           y2="172"
+           style="stroke:#000000;stroke-width:2"
+           id="line4601" />
+        <line
+           x1="572"
+           y1="166"
+           x2="520"
+           y2="166"
+           style="stroke:#000000;stroke-width:2"
+           id="line4603" />
+        <line
+           x1="604"
+           y1="224"
+           x2="572"
+           y2="279"
+           style="stroke:#000000;stroke-width:2"
+           id="line4605" />
+        <line
+           x1="572"
+           y1="279"
+           x2="604"
+           y2="334"
+           style="stroke:#000000;stroke-width:2"
+           id="line4607" />
+        <line
+           x1="630"
+           y1="430"
+           x2="580"
+           y2="427"
+           style="stroke:#000000;stroke-width:2"
+           id="line4609" />
+        <line
+           x1="565"
+           y1="415"
+           x2="550"
+           y2="365"
+           style="stroke:#000000;stroke-width:2"
+           id="line4611" />
+        <line
+           x1="755"
+           y1="411"
+           x2="732"
+           y2="469"
+           style="stroke:#000000;stroke-width:2"
+           id="line4613" />
+        <line
+           x1="670"
+           y1="479"
+           x2="630"
+           y2="430"
+           style="stroke:#000000;stroke-width:2"
+           id="line4615" />
+        <line
+           x1="651"
+           y1="370"
+           x2="715"
+           y2="362"
+           style="stroke:#000000;stroke-width:2"
+           id="line4617" />
+        <line
+           x1="630"
+           y1="430"
+           x2="651"
+           y2="370"
+           style="stroke:#000000;stroke-width:2"
+           id="line4619" />
+        <line
+           x1="655"
+           y1="379"
+           x2="639"
+           y2="426"
+           style="stroke:#000000;stroke-width:2"
+           id="line4621" />
+        <line
+           x1="715"
+           y1="362"
+           x2="755"
+           y2="411"
+           style="stroke:#000000;stroke-width:2"
+           id="line4623" />
+        <line
+           x1="746"
+           y1="411"
+           x2="715"
+           y2="371"
+           style="stroke:#000000;stroke-width:2"
+           id="line4625" />
+        <line
+           x1="732"
+           y1="469"
+           x2="670"
+           y2="479"
+           style="stroke:#000000;stroke-width:2"
+           id="line4627" />
+        <line
+           x1="677"
+           y1="472"
+           x2="725"
+           y2="462"
+           style="stroke:#000000;stroke-width:2"
+           id="line4629" />
+        <line
+           x1="550"
+           y1="365"
+           x2="605"
+           y2="333"
+           style="stroke:#000000;stroke-width:2"
+           id="line4631" />
+        <line
+           x1="603"
+           y1="342"
+           x2="559"
+           y2="367"
+           style="stroke:#000000;stroke-width:2"
+           id="line4633" />
+        <line
+           x1="604"
+           y1="334"
+           x2="651"
+           y2="370"
+           style="stroke:#000000;stroke-width:2"
+           id="line4635" />
+        <text
+           x="514"
+           y="177"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text4639"><tspan
+             id="tspan4637">O</tspan></text>
+        <text
+           x="596"
+           y="122"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4647"><tspan
+             id="tspan4641">O</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan4643">-</tspan><tspan
+             dy="10"
+             id="tspan4645" /></text>
+        <text
+           x="660"
+           y="232"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4659"><tspan
+             id="tspan4649">NH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan4651">3</tspan><tspan
+             dy="-8"
+             id="tspan4653" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan4655">+</tspan><tspan
+             dy="10"
+             id="tspan4657" /></text>
+        <text
+           x="575"
+           y="435"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text4663"><tspan
+             id="tspan4661">HN</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="39.023605"
+         y="636.565"
+         id="text8384"><tspan
+           sodipodi:role="line"
+           id="tspan8382"
+           x="39.023605"
+           y="636.565"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Phenylalanine</tspan><tspan
+           sodipodi:role="line"
+           x="39.023605"
+           y="647.14832"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan8386">Phe</tspan><tspan
+           sodipodi:role="line"
+           x="39.023605"
+           y="657.73169"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan8388">F</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="135.60355"
+         y="636.565"
+         id="text8392"><tspan
+           sodipodi:role="line"
+           id="tspan8390"
+           x="135.60355"
+           y="636.565"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Tyrosine</tspan><tspan
+           sodipodi:role="line"
+           x="135.60355"
+           y="647.14832"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan8394">Tyr</tspan><tspan
+           sodipodi:role="line"
+           x="135.60355"
+           y="657.73169"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan8396">Y</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="231.19543"
+         y="636.565"
+         id="text8400"><tspan
+           sodipodi:role="line"
+           id="tspan8398"
+           x="231.19543"
+           y="636.565"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Proline</tspan><tspan
+           sodipodi:role="line"
+           x="231.19543"
+           y="647.14832"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan8402">Pro</tspan><tspan
+           sodipodi:role="line"
+           x="231.19543"
+           y="657.73169"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan8404">P</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="327.21521"
+         y="636.565"
+         id="text8408"><tspan
+           sodipodi:role="line"
+           id="tspan8406"
+           x="327.21521"
+           y="636.565"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Histidine</tspan><tspan
+           sodipodi:role="line"
+           x="327.21521"
+           y="647.14832"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan8410">His</tspan><tspan
+           sodipodi:role="line"
+           x="327.21521"
+           y="657.73169"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan8412">H</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="430.66669"
+         y="636.565"
+         id="text8416"><tspan
+           sodipodi:role="line"
+           id="tspan8414"
+           x="430.66669"
+           y="636.565"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583">Tryptophan</tspan><tspan
+           sodipodi:role="line"
+           x="430.66669"
+           y="647.14832"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan8418">Trp</tspan><tspan
+           sodipodi:role="line"
+           x="430.66669"
+           y="657.73169"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan8420">W</tspan></text>
+    </g>
+    <g
+       id="g9750"
+       transform="translate(-26.832844,20.846273)">
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="371.8093"
+         y="-72.784233"
+         id="text9596"><tspan
+           sodipodi:role="line"
+           id="tspan9594"
+           x="371.8093"
+           y="-72.784233"
+           style="stroke-width:0.264583">Key Points</tspan></text>
+      <g
+         id="g9723"
+         transform="translate(5.0271603)">
+        <g
+           id="g9697"
+           transform="translate(-17.493046)">
+          <g
+             id="g9663"
+             transform="translate(59.109742,0.55470657)">
+            <text
+               xml:space="preserve"
+               style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+               x="370.84335"
+               y="-58.991596"
+               id="text9618"><tspan
+                 sodipodi:role="line"
+                 id="tspan9616"
+                 x="370.84335"
+                 y="-58.991596"
+                 style="stroke-width:0.264583">K</tspan><tspan
+                 sodipodi:role="line"
+                 x="370.84335"
+                 y="-48.40826"
+                 style="stroke-width:0.264583"
+                 id="tspan9620">R</tspan><tspan
+                 sodipodi:role="line"
+                 x="370.84335"
+                 y="-37.824921"
+                 style="stroke-width:0.264583"
+                 id="tspan9622">H</tspan><tspan
+                 sodipodi:role="line"
+                 x="370.84335"
+                 y="-27.241583"
+                 style="stroke-width:0.264583"
+                 id="tspan9624">D</tspan><tspan
+                 sodipodi:role="line"
+                 x="370.84335"
+                 y="-16.658245"
+                 style="stroke-width:0.264583"
+                 id="tspan9644">E</tspan><tspan
+                 sodipodi:role="line"
+                 x="370.84335"
+                 y="-6.0749083"
+                 style="stroke-width:0.264583"
+                 id="tspan9642" /></text>
+            <text
+               xml:space="preserve"
+               style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+               x="392.46332"
+               y="-59.74194"
+               id="text9630"><tspan
+                 sodipodi:role="line"
+                 id="tspan9628"
+                 x="392.46332"
+                 y="-59.74194"
+                 style="stroke-width:0.264583">pka = 10.5</tspan><tspan
+                 sodipodi:role="line"
+                 x="392.46332"
+                 y="-49.158604"
+                 style="stroke-width:0.264583"
+                 id="tspan9632">pKa = 12.5</tspan><tspan
+                 sodipodi:role="line"
+                 x="392.46332"
+                 y="-38.575264"
+                 style="stroke-width:0.264583"
+                 id="tspan9634">pKa = 6</tspan><tspan
+                 sodipodi:role="line"
+                 x="392.46332"
+                 y="-27.991926"
+                 style="stroke-width:0.264583"
+                 id="tspan9636">pKa = 4</tspan><tspan
+                 sodipodi:role="line"
+                 x="392.46332"
+                 y="-17.408588"
+                 style="stroke-width:0.264583"
+                 id="tspan9638">pKa = 4</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+             x="313.83951"
+             y="-59.187233"
+             id="text9667"><tspan
+               sodipodi:role="line"
+               id="tspan9665"
+               x="313.83951"
+               y="-59.187233"
+               style="stroke-width:0.264583">Phosphorylated: S, T, Y </tspan><tspan
+               sodipodi:role="line"
+               x="313.83951"
+               y="-48.603897"
+               style="stroke-width:0.264583"
+               id="tspan9669">Branched: L, I, V</tspan><tspan
+               sodipodi:role="line"
+               x="313.83951"
+               y="-38.020557"
+               style="stroke-width:0.264583"
+               id="tspan9671">C-terminus: pKa = 2</tspan><tspan
+               sodipodi:role="line"
+               x="313.83951"
+               y="-27.43722"
+               style="stroke-width:0.264583"
+               id="tspan9673">N-terminus: pKa = 9</tspan><tspan
+               sodipodi:role="line"
+               x="313.83951"
+               y="-16.853882"
+               style="stroke-width:0.264583"
+               id="tspan9675">Phospate:    pKa = 2, 7</tspan></text>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 401.37604,-66.176839 v 51.549308"
+           id="path9699"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:22.5778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="52.763687"
+       y="-17.658886"
+       id="text9754"><tspan
+         sodipodi:role="line"
+         id="tspan9752"
+         x="52.763687"
+         y="-17.658886"
+         style="font-size:22.5778px;stroke-width:0.264583">Amino Acids</tspan></text>
+  </g>
+</svg>

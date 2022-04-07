@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="1111px" height="772px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/TCA/SVG/Acetyl CoA.svg 
+</desc>
+<g>
+<line x1="910" y1="688" x2="955" y2="662"
+style="stroke-width:2; stroke:#000000" />
+<line x1="955" y1="662" x2="1010" y2="694"
+style="stroke-width:2; stroke:#000000" />
+<line x1="889" y1="687" x2="855" y2="667"
+style="stroke-width:2; stroke:#000000" />
+<line x1="959" y1="662" x2="959" y2="610"
+style="stroke-width:2; stroke:#000000" />
+<line x1="951" y1="662" x2="951" y2="610"
+style="stroke-width:2; stroke:#000000" />
+<text x="851" y="670" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+CoA</tspan>
+</text>
+<text x="892" y="702" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+S</tspan>
+</text>
+<text x="947" y="606" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+</g>
+</svg>

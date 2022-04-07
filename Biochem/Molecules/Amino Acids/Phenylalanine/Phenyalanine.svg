@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="784px" height="507px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Amino Acids/Phenylalanine/Phenyalanine.svg 
+</desc>
+<g>
+<line x1="597" y1="124" x2="572" y2="169"
+style="stroke-width:2; stroke:#000000" />
+<line x1="572" y1="169" x2="604" y2="224"
+style="stroke-width:2; stroke:#000000" />
+<line x1="604" y1="224" x2="655" y2="224"
+style="stroke-width:2; stroke:#000000" />
+<line x1="572" y1="172" x2="520" y2="172"
+style="stroke-width:2; stroke:#000000" />
+<line x1="572" y1="166" x2="520" y2="166"
+style="stroke-width:2; stroke:#000000" />
+<line x1="604" y1="224" x2="572" y2="279"
+style="stroke-width:2; stroke:#000000" />
+<line x1="572" y1="279" x2="602" y2="333"
+style="stroke-width:2; stroke:#000000" />
+<line x1="547" y1="365" x2="547" y2="429"
+style="stroke-width:2; stroke:#000000" />
+<line x1="602" y1="461" x2="656" y2="431"
+style="stroke-width:2; stroke:#000000" />
+<line x1="602" y1="333" x2="656" y2="367"
+style="stroke-width:2; stroke:#000000" />
+<line x1="547" y1="365" x2="602" y2="333"
+style="stroke-width:2; stroke:#000000" />
+<line x1="600" y1="342" x2="556" y2="367"
+style="stroke-width:2; stroke:#000000" />
+<line x1="602" y1="461" x2="547" y2="429"
+style="stroke-width:2; stroke:#000000" />
+<line x1="556" y1="427" x2="600" y2="452"
+style="stroke-width:2; stroke:#000000" />
+<line x1="656" y1="367" x2="656" y2="431"
+style="stroke-width:2; stroke:#000000" />
+<line x1="649" y1="424" x2="649" y2="374"
+style="stroke-width:2; stroke:#000000" />
+<text x="514" y="177" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="596" y="122" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="660" y="232" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+NH</tspan>
+<tspan dy="8" style="font-size:14pt;">3</tspan>
+<tspan dy="-8">
+</tspan>
+<tspan dy="-18" dx="-10" style="font-size:14pt;">+</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+</g>
+</svg>

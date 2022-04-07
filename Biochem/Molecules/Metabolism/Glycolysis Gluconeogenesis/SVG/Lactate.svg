@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="649px" height="371px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/Glycolysis Gluconeogenesis/SVG/Lactate.svg 
+</desc>
+<g>
+<line x1="590" y1="266" x2="536" y2="234"
+style="stroke-width:2; stroke:#000000" />
+<line x1="536" y1="234" x2="481" y2="266"
+style="stroke-width:2; stroke:#000000" />
+<line x1="481" y1="266" x2="436" y2="239"
+style="stroke-width:2; stroke:#000000" />
+<line x1="472" y1="268" x2="438" y2="248"
+style="stroke-width:2; stroke:#000000" />
+<line x1="481" y1="266" x2="481" y2="317"
+style="stroke-width:2; stroke:#000000" />
+<line x1="536" y1="234" x2="536" y2="183"
+style="stroke-width:2; stroke:#000000" />
+<text x="432" y="242" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="473" y="338" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="528" y="179" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+</g>
+</svg>

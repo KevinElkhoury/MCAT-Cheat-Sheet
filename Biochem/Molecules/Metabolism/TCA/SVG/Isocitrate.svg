@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="823px" height="475px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/TCA/SVG/Isocitrate 
+</desc>
+<g>
+<line x1="412" y1="354" x2="456" y2="328"
+style="stroke-width:2; stroke:#000000" />
+<line x1="456" y1="328" x2="510" y2="358"
+style="stroke-width:2; stroke:#000000" />
+<line x1="510" y1="358" x2="564" y2="328"
+style="stroke-width:2; stroke:#000000" />
+<line x1="564" y1="328" x2="618" y2="360"
+style="stroke-width:2; stroke:#000000" />
+<line x1="460" y1="328" x2="460" y2="276"
+style="stroke-width:2; stroke:#000000" />
+<line x1="452" y1="328" x2="452" y2="276"
+style="stroke-width:2; stroke:#000000" />
+<line x1="618" y1="360" x2="673" y2="328"
+style="stroke-width:2; stroke:#000000" />
+<line x1="673" y1="328" x2="716" y2="354"
+style="stroke-width:2; stroke:#000000" />
+<line x1="677" y1="328" x2="677" y2="276"
+style="stroke-width:2; stroke:#000000" />
+<line x1="669" y1="328" x2="669" y2="276"
+style="stroke-width:2; stroke:#000000" />
+<line x1="564" y1="328" x2="564" y2="276"
+style="stroke-width:2; stroke:#000000" />
+<line x1="618" y1="360" x2="618" y2="411"
+style="stroke-width:2; stroke:#000000" />
+<text x="454" y="272" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:middle;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="671" y="272" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:middle;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="408" y="368" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="719" y="368" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="556" y="272" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+COO</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="610" y="432" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+</g>
+</svg>

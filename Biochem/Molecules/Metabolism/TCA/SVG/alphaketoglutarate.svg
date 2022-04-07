@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="669px" height="566px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/TCA/SVG/alphaketoglutarate.svg 
+</desc>
+<g>
+<line x1="269" y1="438" x2="314" y2="412"
+style="stroke-width:2; stroke:#000000" />
+<line x1="314" y1="412" x2="369" y2="444"
+style="stroke-width:2; stroke:#000000" />
+<line x1="369" y1="444" x2="423" y2="414"
+style="stroke-width:2; stroke:#000000" />
+<line x1="423" y1="414" x2="477" y2="444"
+style="stroke-width:2; stroke:#000000" />
+<line x1="477" y1="444" x2="532" y2="412"
+style="stroke-width:2; stroke:#000000" />
+<line x1="532" y1="412" x2="576" y2="438"
+style="stroke-width:2; stroke:#000000" />
+<line x1="318" y1="412" x2="318" y2="361"
+style="stroke-width:2; stroke:#000000" />
+<line x1="310" y1="412" x2="310" y2="361"
+style="stroke-width:2; stroke:#000000" />
+<line x1="473" y1="444" x2="473" y2="494"
+style="stroke-width:2; stroke:#000000" />
+<line x1="481" y1="444" x2="481" y2="494"
+style="stroke-width:2; stroke:#000000" />
+<line x1="536" y1="412" x2="536" y2="360"
+style="stroke-width:2; stroke:#000000" />
+<line x1="528" y1="412" x2="528" y2="360"
+style="stroke-width:2; stroke:#000000" />
+<text x="579" y="452" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="265" y="452" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="312" y="357" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:middle;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="530" y="356" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:middle;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="475" y="515" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:middle;" > 
+<tspan>
+O</tspan>
+</text>
+</g>
+</svg>

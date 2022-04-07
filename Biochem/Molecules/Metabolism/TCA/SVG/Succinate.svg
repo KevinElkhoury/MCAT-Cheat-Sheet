@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="855px" height="647px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/TCA/SVG/Succinate.svg 
+</desc>
+<g>
+<line x1="492" y1="509" x2="537" y2="483"
+style="stroke-width:2; stroke:#000000" />
+<line x1="537" y1="483" x2="592" y2="515"
+style="stroke-width:2; stroke:#000000" />
+<line x1="592" y1="515" x2="646" y2="485"
+style="stroke-width:2; stroke:#000000" />
+<line x1="646" y1="485" x2="701" y2="517"
+style="stroke-width:2; stroke:#000000" />
+<line x1="541" y1="483" x2="541" y2="431"
+style="stroke-width:2; stroke:#000000" />
+<line x1="533" y1="483" x2="533" y2="431"
+style="stroke-width:2; stroke:#000000" />
+<line x1="701" y1="517" x2="745" y2="490"
+style="stroke-width:2; stroke:#000000" />
+<line x1="697" y1="517" x2="697" y2="568"
+style="stroke-width:2; stroke:#000000" />
+<line x1="705" y1="517" x2="705" y2="568"
+style="stroke-width:2; stroke:#000000" />
+<text x="535" y="427" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:middle;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="699" y="589" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:middle;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="488" y="523" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="748" y="493" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+</g>
+</svg>

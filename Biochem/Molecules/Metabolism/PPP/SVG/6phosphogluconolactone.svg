@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="757px" height="763px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Metabolism/PPP/SVG/6phosphogluconolactone.svg 
+</desc>
+<g>
+<line x1="519" y1="622" x2="581" y2="622"
+style="stroke-width:2; stroke:#000000" />
+<line x1="581" y1="622" x2="626" y2="577"
+style="stroke-width:2; stroke:#000000" />
+<line x1="626" y1="577" x2="589" y2="540"
+style="stroke-width:2; stroke:#000000" />
+<line x1="568" y1="532" x2="518" y2="532"
+style="stroke-width:2; stroke:#000000" />
+<line x1="518" y1="532" x2="473" y2="577"
+style="stroke-width:2; stroke:#000000" />
+<line x1="473" y1="577" x2="517" y2="621"
+style="stroke-width:2; stroke:#000000" />
+<line x1="626" y1="574" x2="676" y2="574"
+style="stroke-width:2; stroke:#000000" />
+<line x1="626" y1="580" x2="676" y2="580"
+style="stroke-width:2; stroke:#000000" />
+<line x1="518" y1="532" x2="518" y2="469"
+style="stroke-width:2; stroke:#000000" />
+<line x1="581" y1="622" x2="581" y2="673"
+style="stroke-width:2; stroke:#000000" />
+<line x1="517" y1="621" x2="517" y2="571"
+style="stroke-width:2; stroke:#000000" />
+<line x1="473" y1="577" x2="473" y2="628"
+style="stroke-width:2; stroke:#000000" />
+<line x1="518" y1="469" x2="482" y2="433"
+style="stroke-width:2; stroke:#000000" />
+<text x="573" y="540" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="480" y="433" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+<tspan dy="8" style="font-size:14pt;">3</tspan>
+<tspan dy="-8">
+PO</tspan>
+<tspan dy="-10" style="font-size:14pt;">2-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="695" y="585" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="509" y="567" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+<text x="465" y="649" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+<text x="573" y="694" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+OH</tspan>
+</text>
+</g>
+</svg>

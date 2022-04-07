@@ -1,0 +1,5462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1310.3602mm"
+   height="1600.9341mm"
+   viewBox="0 0 1310.3602 1600.9341"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Metabolism.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker6108"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6106" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6068"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5212"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker3267"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3265" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1948"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1946" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1896"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1891"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1868"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect11867"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker8329"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8327" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8211"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8209" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6860"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker6425"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6423" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5448"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5014"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4551"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4134"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3721"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3288"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2922"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2434"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="marker2053"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1004"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <rect
+       x="82.60038"
+       y="3995.814"
+       width="305.85526"
+       height="74.999901"
+       id="rect23791" />
+    <rect
+       x="215.96227"
+       y="74.039406"
+       width="57.974499"
+       height="78.360847"
+       id="rect15461" />
+    <marker
+       style="overflow:visible"
+       id="DotL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path6922" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6861" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6873" />
+    </marker>
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect5779"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-3-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-5-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-36"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-93" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2-7-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-9-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2-54" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-1-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2-54-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-9-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-2-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-1-96"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2-54-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-9-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-2-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-64"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-4-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-0-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-64-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-7-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-36-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-2-1-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-2-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-93-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-4-8-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-0-2-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-0-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-6-7-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-0-9-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-3-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-5-6-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-3-1-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-6-7-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-0-9-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-5-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-3-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8329-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8327-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8329-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8327-5-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8329-5-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8327-5-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8329-5-7-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8327-5-6-9-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8329-5-7-6-7-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8327-5-6-9-4-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-5-0-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-3-6-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-6-28"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6864-6-1-47" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3267-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3265-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1948-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1946-4" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="73.719016"
+     inkscape:cy="3502.6634"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     showguides="true"
+     showborder="true"
+     inkscape:window-width="2321"
+     inkscape:window-height="1351"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4676.316,-6348.5427)">
+    <text
+       xml:space="preserve"
+       id="text15459"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15461);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4798.3975"
+       y="6448.2007"
+       id="text15467"><tspan
+         sodipodi:role="line"
+         id="tspan15465"
+         x="4798.3975"
+         y="6448.2007"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">Hexokinase</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4840.9526"
+       y="6447.7222"
+       id="text15467-8"><tspan
+         sodipodi:role="line"
+         id="tspan15465-6"
+         x="4840.9526"
+         y="6447.7222"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">Glucose 6-phophatase</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.8px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="-175.12082"
+       y="4974.3013"
+       id="text16376-3"><tspan
+         sodipodi:role="line"
+         id="tspan16374-5"
+         x="-175.12082"
+         y="4974.3013"
+         style="font-size:50.8px;text-align:center;text-anchor:middle;stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4766.4673"
+       y="6663.8037"
+       id="text17787"><tspan
+         sodipodi:role="line"
+         id="tspan17785"
+         x="4766.4673"
+         y="6663.8037"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">Phosphofructokinase 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4841.7183"
+       y="6663.8037"
+       id="text17839"><tspan
+         sodipodi:role="line"
+         id="tspan17837"
+         x="4841.7183"
+         y="6663.8037"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">Fructose 1,6-bisphosphatase</tspan></text>
+    <line
+       x1="4852.8438"
+       y1="6399.4414"
+       x2="4843.3184"
+       y2="6389.9165"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line2022" />
+    <line
+       x1="4837.7622"
+       y1="6387.7998"
+       x2="4824.5332"
+       y2="6387.7998"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line2024" />
+    <line
+       x1="4824.5332"
+       y1="6387.7998"
+       x2="4812.8916"
+       y2="6399.4414"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line2026" />
+    <line
+       x1="4840.9375"
+       y1="6411.3477"
+       x2="4840.9375"
+       y2="6424.8418"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line2028" />
+    <line
+       x1="4824.5332"
+       y1="6411.3477"
+       x2="4824.5332"
+       y2="6397.854"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line2030" />
+    <line
+       x1="4852.8438"
+       y1="6399.4414"
+       x2="4852.8438"
+       y2="6412.9355"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line2032" />
+    <line
+       x1="4812.8916"
+       y1="6399.4414"
+       x2="4812.8916"
+       y2="6412.9355"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line2034" />
+    <line
+       x1="4824.5332"
+       y1="6387.7998"
+       x2="4824.5332"
+       y2="6374.3062"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line2036" />
+    <line
+       x1="4824.5332"
+       y1="6411.3477"
+       x2="4841.2021"
+       y2="6411.3477"
+       style="stroke:#000000;stroke-width:2.64583"
+       id="line2038" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       points="714,578 714,584 758,536 "
+       id="polygon2040"
+       transform="matrix(0.26458333,0,0,0.26458333,4652.2894,6257.625)" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       points="651,578 651,584 607,536 "
+       id="polygon2042"
+       transform="matrix(0.26458333,0,0,0.26458333,4652.2894,6257.625)" />
+    <text
+       x="4839.0854"
+       y="6389.9165"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text2046"><tspan
+         id="tspan2044"
+         style="stroke-width:0.264583">O</tspan></text>
+    <text
+       x="4850.7271"
+       y="6418.4917"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text2050"><tspan
+         id="tspan2048"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4838.8208"
+       y="6430.3979"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text2054"><tspan
+         id="tspan2052"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4822.4165"
+       y="6396.7959"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text2058"><tspan
+         id="tspan2056"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4810.7749"
+       y="6418.4917"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text2062"><tspan
+         id="tspan2060"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4822.4165"
+       y="6373.248"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text2070"><tspan
+         id="tspan2064"
+         style="stroke-width:0.264583">CH</tspan><tspan
+         dy="2.1166666"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan2066">2</tspan><tspan
+         dy="-2.1166666"
+         id="tspan2068"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <line
+       x1="4855.0913"
+       y1="6607.7666"
+       x2="4843.9785"
+       y2="6599.8291"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line3383" />
+    <line
+       x1="4838.9517"
+       y1="6600.0938"
+       x2="4828.1035"
+       y2="6608.0312"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line3385" />
+    <line
+       x1="4855.0913"
+       y1="6607.7666"
+       x2="4855.0913"
+       y2="6621.2607"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line3387" />
+    <line
+       x1="4855.0913"
+       y1="6607.7666"
+       x2="4855.0913"
+       y2="6591.0981"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line3389" />
+    <line
+       x1="4828.1035"
+       y1="6608.0312"
+       x2="4828.1035"
+       y2="6591.3628"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line3391" />
+    <line
+       x1="4828.1035"
+       y1="6591.3628"
+       x2="4818.314"
+       y2="6581.5732"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line3393" />
+    <line
+       x1="4855.0913"
+       y1="6591.0981"
+       x2="4864.6162"
+       y2="6581.3086"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line3395" />
+    <line
+       x1="4833.3955"
+       y1="6623.6416"
+       x2="4833.3955"
+       y2="6637.1357"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line3397" />
+    <line
+       x1="4850.064"
+       y1="6623.6416"
+       x2="4850.064"
+       y2="6615.7041"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line3399" />
+    <line
+       x1="4833.3955"
+       y1="6623.6416"
+       x2="4850.064"
+       y2="6623.6416"
+       style="stroke:#000000;stroke-width:2.64583"
+       id="line3401" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       points="667,690 683,630 661,690 "
+       id="polygon3403"
+       transform="matrix(0.26458333,0,0,0.26458333,4674.3807,6441.0793)" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       points="603,689 581,631 599,691 "
+       id="polygon3405"
+       transform="matrix(0.26458333,0,0,0.26458333,4674.3807,6441.0793)" />
+    <text
+       x="4839.4805"
+       y="6600.3584"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text3409"><tspan
+         id="tspan3407"
+         style="stroke-width:0.264583">O</tspan></text>
+    <text
+       x="4864.8809"
+       y="6581.3086"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text3413"><tspan
+         id="tspan3411"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4852.9746"
+       y="6626.8169"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text3417"><tspan
+         id="tspan3415"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4851.6514"
+       y="6614.646"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       id="text3421"><tspan
+         id="tspan3419"
+         style="stroke-width:0.264583">HO</tspan></text>
+    <text
+       x="4831.2788"
+       y="6642.6919"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text3425"><tspan
+         id="tspan3423"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4817.7847"
+       y="6581.5732"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       id="text3437"><tspan
+         id="tspan3427"
+         style="stroke-width:0.264583">O</tspan><tspan
+         dy="2.1166666"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan3429">3</tspan><tspan
+         dy="-2.1166666"
+         id="tspan3431"
+         style="stroke-width:0.264583">PO</tspan><tspan
+         dy="-2.6458333"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan3433">2-</tspan><tspan
+         dy="2.6458333"
+         id="tspan3435"
+         style="stroke-width:0.264583" /></text>
+    <line
+       x1="4850.4902"
+       y1="6710.2095"
+       x2="4839.3779"
+       y2="6702.272"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line4956" />
+    <line
+       x1="4834.3506"
+       y1="6702.5366"
+       x2="4823.5029"
+       y2="6710.4741"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line4958" />
+    <line
+       x1="4850.4902"
+       y1="6710.2095"
+       x2="4850.4902"
+       y2="6723.7031"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line4960" />
+    <line
+       x1="4850.4902"
+       y1="6710.2095"
+       x2="4850.4902"
+       y2="6693.541"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line4962" />
+    <line
+       x1="4823.5029"
+       y1="6710.4741"
+       x2="4823.5029"
+       y2="6693.8057"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line4964" />
+    <line
+       x1="4823.5029"
+       y1="6693.8057"
+       x2="4813.7129"
+       y2="6684.0156"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line4966" />
+    <line
+       x1="4850.4902"
+       y1="6693.541"
+       x2="4860.0151"
+       y2="6683.7515"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line4968" />
+    <line
+       x1="4828.7944"
+       y1="6726.0845"
+       x2="4828.7944"
+       y2="6739.5781"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line4970" />
+    <line
+       x1="4845.4629"
+       y1="6726.0845"
+       x2="4845.4629"
+       y2="6718.147"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line4972" />
+    <line
+       x1="4828.7944"
+       y1="6726.0845"
+       x2="4845.4629"
+       y2="6726.0845"
+       style="stroke:#000000;stroke-width:2.64583"
+       id="line4974" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       points="661,690 667,690 683,630 "
+       id="polygon4976"
+       transform="matrix(0.26458333,0,0,0.26458333,4669.7798,6543.5221)" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       points="599,691 603,689 581,631 "
+       id="polygon4978"
+       transform="matrix(0.26458333,0,0,0.26458333,4669.7798,6543.5221)" />
+    <text
+       x="4834.8799"
+       y="6702.8013"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text4982"><tspan
+         id="tspan4980"
+         style="stroke-width:0.264583">O</tspan></text>
+    <text
+       x="4848.3735"
+       y="6729.2598"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text4986"><tspan
+         id="tspan4984"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4847.0508"
+       y="6717.0889"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       id="text4990"><tspan
+         id="tspan4988"
+         style="stroke-width:0.264583">HO</tspan></text>
+    <text
+       x="4826.6777"
+       y="6745.1348"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text4994"><tspan
+         id="tspan4992"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4860.2798"
+       y="6683.7515"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5004"><tspan
+         id="tspan4996"
+         style="stroke-width:0.264583">OPO</tspan><tspan
+         dy="2.1166666"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan4998">3</tspan><tspan
+         dy="-4.7624998"
+         dx="-2.6458333"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5000">2-</tspan><tspan
+         dy="2.6458333"
+         id="tspan5002"
+         style="stroke-width:0.264583" /></text>
+    <text
+       x="4813.1841"
+       y="6684.0156"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       id="text5016"><tspan
+         id="tspan5006"
+         style="stroke-width:0.264583">O</tspan><tspan
+         dy="2.1166666"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5008">3</tspan><tspan
+         dy="-2.1166666"
+         id="tspan5010"
+         style="stroke-width:0.264583">PO</tspan><tspan
+         dy="-2.6458333"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5012">2-</tspan><tspan
+         dy="2.6458333"
+         id="tspan5014"
+         style="stroke-width:0.264583" /></text>
+    <line
+       x1="4861.7056"
+       y1="6509.5571"
+       x2="4852.1807"
+       y2="6500.0322"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5062" />
+    <line
+       x1="4846.6245"
+       y1="6497.9155"
+       x2="4833.3955"
+       y2="6497.9155"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5064" />
+    <line
+       x1="4833.3955"
+       y1="6497.9155"
+       x2="4821.4893"
+       y2="6509.8218"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5066" />
+    <line
+       x1="4861.7056"
+       y1="6509.5571"
+       x2="4861.7056"
+       y2="6523.0513"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5068" />
+    <line
+       x1="4849.7993"
+       y1="6521.4634"
+       x2="4849.7993"
+       y2="6534.9575"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5070" />
+    <line
+       x1="4833.1309"
+       y1="6521.4634"
+       x2="4833.1309"
+       y2="6508.2344"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5072" />
+    <line
+       x1="4821.4893"
+       y1="6509.8218"
+       x2="4821.4893"
+       y2="6523.3159"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5074" />
+    <line
+       x1="4833.3955"
+       y1="6497.9155"
+       x2="4833.3955"
+       y2="6481.2471"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5076" />
+    <line
+       x1="4833.3955"
+       y1="6481.2471"
+       x2="4823.606"
+       y2="6471.4575"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5078" />
+    <line
+       x1="4833.1309"
+       y1="6521.4634"
+       x2="4849.5347"
+       y2="6521.4634"
+       style="stroke:#000000;stroke-width:2.64583"
+       id="line5080" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       points="629,577 583,619 583,625 "
+       id="polygon5082"
+       transform="matrix(0.26458333,0,0,0.26458333,4695.2828,6356.8928)" />
+    <polygon
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       points="477,578 521,619 521,625 "
+       id="polygon5084"
+       transform="matrix(0.26458333,0,0,0.26458333,4695.2828,6356.8928)" />
+    <text
+       x="4847.9473"
+       y="6500.0322"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5088"><tspan
+         id="tspan5086"
+         style="stroke-width:0.264583">O</tspan></text>
+    <text
+       x="4859.5889"
+       y="6528.6074"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5092"><tspan
+         id="tspan5090"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4847.6826"
+       y="6540.5137"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5096"><tspan
+         id="tspan5094"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4831.0142"
+       y="6507.1763"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5100"><tspan
+         id="tspan5098"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4819.3726"
+       y="6528.8721"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5104"><tspan
+         id="tspan5102"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4823.0767"
+       y="6471.4575"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       id="text5116"><tspan
+         id="tspan5106"
+         style="stroke-width:0.264583">O</tspan><tspan
+         dy="2.1166666"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5108">3</tspan><tspan
+         dy="-2.1166666"
+         id="tspan5110"
+         style="stroke-width:0.264583">PO</tspan><tspan
+         dy="-2.6458333"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5112">2-</tspan><tspan
+         dy="2.6458333"
+         id="tspan5114"
+         style="stroke-width:0.264583" /></text>
+    <line
+       x1="4817.6831"
+       y1="6980.6924"
+       x2="4829.5894"
+       y2="6968.7861"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5241" />
+    <line
+       x1="4829.5894"
+       y1="6968.7861"
+       x2="4841.4956"
+       y2="6980.6924"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5243" />
+    <line
+       x1="4841.4956"
+       y1="6980.6924"
+       x2="4851.021"
+       y2="6970.9028"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5245" />
+    <line
+       x1="4829.5894"
+       y1="6968.7861"
+       x2="4829.5894"
+       y2="6955.0278"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5247" />
+    <line
+       x1="4817.6831"
+       y1="6980.6924"
+       x2="4817.6831"
+       y2="6994.186"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5249" />
+    <line
+       x1="4817.6831"
+       y1="6980.6924"
+       x2="4805.7769"
+       y2="6973.5488"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5251" />
+    <line
+       x1="4815.3022"
+       y1="6981.2217"
+       x2="4806.3062"
+       y2="6975.9302"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5253" />
+    <text
+       x="4827.4727"
+       y="6953.9697"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5257"><tspan
+         id="tspan5255"
+         style="stroke-width:0.264583">OH</tspan></text>
+    <text
+       x="4801.0146"
+       y="6974.3423"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5261"><tspan
+         id="tspan5259"
+         style="stroke-width:0.264583">O</tspan></text>
+    <text
+       x="4815.5664"
+       y="6999.7427"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5269"><tspan
+         id="tspan5263"
+         style="stroke-width:0.264583">O</tspan><tspan
+         dy="-2.6458333"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5265">-</tspan><tspan
+         dy="2.6458333"
+         id="tspan5267"
+         style="stroke-width:0.264583" /></text>
+    <text
+       x="4851.2852"
+       y="6970.9028"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5281"><tspan
+         id="tspan5271"
+         style="stroke-width:0.264583">OPO</tspan><tspan
+         dy="2.1166666"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5273">3</tspan><tspan
+         dy="-2.1166666"
+         id="tspan5275"
+         style="stroke-width:0.264583" /><tspan
+         dy="-4.7624998"
+         dx="-2.6458333"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5277">2-</tspan><tspan
+         dy="2.6458333"
+         id="tspan5279"
+         style="stroke-width:0.264583" /></text>
+    <g
+       id="g10045"
+       transform="matrix(0.26458333,0,0,0.26458333,4801.1175,7027.5727)">
+      <line
+         x1="80"
+         y1="151"
+         x2="125"
+         y2="106"
+         style="stroke:#000000;stroke-width:2"
+         id="line5469" />
+      <line
+         x1="125"
+         y1="106"
+         x2="170"
+         y2="151"
+         style="stroke:#000000;stroke-width:2"
+         id="line5471" />
+      <line
+         x1="170"
+         y1="151"
+         x2="206"
+         y2="114"
+         style="stroke:#000000;stroke-width:2"
+         id="line5473" />
+      <line
+         x1="125"
+         y1="106"
+         x2="125"
+         y2="54"
+         style="stroke:#000000;stroke-width:2"
+         id="line5475" />
+      <line
+         x1="80"
+         y1="151"
+         x2="80"
+         y2="202"
+         style="stroke:#000000;stroke-width:2"
+         id="line5477" />
+      <line
+         x1="80"
+         y1="151"
+         x2="35"
+         y2="124"
+         style="stroke:#000000;stroke-width:2"
+         id="line5479" />
+      <line
+         x1="71"
+         y1="153"
+         x2="37"
+         y2="133"
+         style="stroke:#000000;stroke-width:2"
+         id="line5481" />
+      <text
+         x="17"
+         y="127"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text5485"><tspan
+           id="tspan5483">O</tspan></text>
+      <text
+         x="72"
+         y="223"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text5493"><tspan
+           id="tspan5487">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan5489">-</tspan><tspan
+           dy="10"
+           id="tspan5491" /></text>
+      <text
+         x="207"
+         y="114"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text5497"><tspan
+           id="tspan5495">OH</tspan></text>
+      <text
+         x="117"
+         y="50"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text5509"><tspan
+           id="tspan5499">OPO</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan5501">3</tspan><tspan
+           dy="-8"
+           id="tspan5503" /><tspan
+           dy="-18"
+           dx="-10"
+           style="font-size:18.6667px"
+           id="tspan5505">2-</tspan><tspan
+           dy="18"
+           id="tspan5507" /></text>
+    </g>
+    <line
+       x1="4829.5894"
+       y1="7154.3574"
+       x2="4841.4956"
+       y2="7142.4512"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5615" />
+    <line
+       x1="4841.4956"
+       y1="7142.4512"
+       x2="4841.4956"
+       y2="7128.6924"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5617" />
+    <line
+       x1="4829.5894"
+       y1="7154.3574"
+       x2="4829.5894"
+       y2="7167.8511"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5619" />
+    <line
+       x1="4829.5894"
+       y1="7154.3574"
+       x2="4817.6831"
+       y2="7147.2134"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5621" />
+    <line
+       x1="4827.2085"
+       y1="7154.8862"
+       x2="4818.2124"
+       y2="7149.5947"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5623" />
+    <line
+       x1="4841.4956"
+       y1="7142.4512"
+       x2="4855.7832"
+       y2="7150.9175"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5625" />
+    <line
+       x1="4843.877"
+       y1="7141.9219"
+       x2="4855.2539"
+       y2="7148.5361"
+       style="stroke:#000000;stroke-width:0.529167"
+       id="line5627" />
+    <text
+       x="4812.9209"
+       y="7148.0073"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5631"><tspan
+         id="tspan5629"
+         style="stroke-width:0.264583">O</tspan></text>
+    <text
+       x="4827.4727"
+       y="7173.4072"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5639"><tspan
+         id="tspan5633"
+         style="stroke-width:0.264583">O</tspan><tspan
+         dy="-2.6458333"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5635">-</tspan><tspan
+         dy="2.6458333"
+         id="tspan5637"
+         style="stroke-width:0.264583" /></text>
+    <text
+       x="4839.3789"
+       y="7127.6343"
+       style="font-size:6.35px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       id="text5651"><tspan
+         id="tspan5641"
+         style="stroke-width:0.264583">OPO</tspan><tspan
+         dy="2.1166666"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5643">3</tspan><tspan
+         dy="-2.1166666"
+         id="tspan5645"
+         style="stroke-width:0.264583" /><tspan
+         dy="-4.7624998"
+         dx="-2.6458333"
+         style="font-size:4.9389px;stroke-width:0.264583"
+         id="tspan5647">2-</tspan><tspan
+         dy="4.7624998"
+         id="tspan5649"
+         style="stroke-width:0.264583" /></text>
+    <g
+       id="g23201"
+       transform="matrix(0.1,0,0,0.1,4816.4791,6434.1087)">
+      <line
+         x1="151.21198"
+         y1="8053.0503"
+         x2="270.27448"
+         y2="7933.9878"
+         style="stroke:#000000;stroke-width:5.29167"
+         id="line5685" />
+      <line
+         x1="151.21198"
+         y1="8053.0503"
+         x2="151.21198"
+         y2="8187.9878"
+         style="stroke:#000000;stroke-width:5.29167"
+         id="line5687" />
+      <line
+         x1="151.21198"
+         y1="8053.0503"
+         x2="32.149483"
+         y2="7981.6128"
+         style="stroke:#000000;stroke-width:5.29167"
+         id="line5689" />
+      <line
+         x1="127.39948"
+         y1="8058.3418"
+         x2="37.441147"
+         y2="8005.4253"
+         style="stroke:#000000;stroke-width:5.29167"
+         id="line5691" />
+      <line
+         x1="270.27448"
+         y1="7933.9878"
+         x2="389.33698"
+         y2="8053.0503"
+         style="stroke:#000000;stroke-width:5.29167"
+         id="line5693" />
+      <line
+         x1="280.85782"
+         y1="7933.9878"
+         x2="280.85782"
+         y2="7799.0503"
+         style="stroke:#000000;stroke-width:5.29167"
+         id="line5695" />
+      <line
+         x1="259.69113"
+         y1="7933.9878"
+         x2="259.69113"
+         y2="7799.0503"
+         style="stroke:#000000;stroke-width:5.29167"
+         id="line5697" />
+      <text
+         x="-15.475518"
+         y="7989.5503"
+         style="font-size:63.5px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:2.64583"
+         id="text5701"><tspan
+           id="tspan5699"
+           style="stroke-width:2.64583">O</tspan></text>
+      <text
+         x="130.04532"
+         y="8243.5498"
+         style="font-size:63.5px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:2.64583"
+         id="text5709"><tspan
+           id="tspan5703"
+           style="stroke-width:2.64583">O</tspan><tspan
+           dy="-26.458332"
+           style="font-size:49.389px;stroke-width:2.64583"
+           id="tspan5705">-</tspan><tspan
+           dy="26.458332"
+           id="tspan5707"
+           style="stroke-width:2.64583" /></text>
+      <text
+         x="249.10782"
+         y="7788.4668"
+         style="font-size:63.5px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke-width:2.64583"
+         id="text5713"><tspan
+           id="tspan5711"
+           style="stroke-width:2.64583">O</tspan></text>
+    </g>
+    <g
+       id="g5205"
+       transform="matrix(0.26458333,0,0,0.26458333,4775.0854,6845.133)">
+      <g
+         id="g10022">
+        <line
+           x1="161"
+           y1="182"
+           x2="206"
+           y2="137"
+           style="stroke:#000000;stroke-width:2"
+           id="line5159" />
+        <line
+           x1="206"
+           y1="137"
+           x2="251"
+           y2="182"
+           style="stroke:#000000;stroke-width:2"
+           id="line5161" />
+        <line
+           x1="251"
+           y1="182"
+           x2="287"
+           y2="145"
+           style="stroke:#000000;stroke-width:2"
+           id="line5163" />
+        <line
+           x1="206"
+           y1="137"
+           x2="206"
+           y2="85"
+           style="stroke:#000000;stroke-width:2"
+           id="line5165" />
+        <line
+           x1="161"
+           y1="182"
+           x2="161"
+           y2="233"
+           style="stroke:#000000;stroke-width:2"
+           id="line5167" />
+        <line
+           x1="161"
+           y1="182"
+           x2="116"
+           y2="155"
+           style="stroke:#000000;stroke-width:2"
+           id="line5169" />
+        <line
+           x1="152"
+           y1="184"
+           x2="118"
+           y2="164"
+           style="stroke:#000000;stroke-width:2"
+           id="line5171" />
+        <text
+           x="198"
+           y="81"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text5175"><tspan
+             id="tspan5173">OH</tspan></text>
+        <text
+           x="98"
+           y="158"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text5179"><tspan
+             id="tspan5177">O</tspan></text>
+        <text
+           x="288"
+           y="145"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text5191"><tspan
+             id="tspan5181">OPO</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan5183">3</tspan><tspan
+             dy="-8"
+             id="tspan5185" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan5187">2-</tspan><tspan
+             dy="18"
+             id="tspan5189" /></text>
+        <text
+           x="153"
+           y="254"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text5203"><tspan
+             id="tspan5193">OPO</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan5195">3</tspan><tspan
+             dy="-8"
+             id="tspan5197" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan5199">2-</tspan><tspan
+             dy="18"
+             id="tspan5201" /></text>
+      </g>
+    </g>
+    <g
+       id="g22624"
+       transform="matrix(0.1,0,0,-0.1,4816.4791,6458.5719)"
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+         d="M 226.24327,238.70664 V 0.6849259 Z"
+         id="path5781"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
+         d="M 151.90207,5.5383305 V 243.56005 Z"
+         id="path5781-7"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4783.6646"
+       y="6401.0728"
+       id="text2113"><tspan
+         sodipodi:role="line"
+         id="tspan2111"
+         x="4783.6646"
+         y="6401.0728"
+         style="font-size:5.64444px;stroke-width:0.264583">Glucose</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4758.3247"
+       y="6511.1665"
+       id="text2117"><tspan
+         sodipodi:role="line"
+         id="tspan2115"
+         x="4758.3247"
+         y="6511.1665"
+         style="font-size:5.64444px;stroke-width:0.264583">Glucose 6-phsophate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4759.0781"
+       y="6611.9854"
+       id="text2121"><tspan
+         sodipodi:role="line"
+         id="tspan2119"
+         x="4759.0781"
+         y="6611.9854"
+         style="font-size:5.64444px;stroke-width:0.264583">Fructose 6-phosphate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="4757.376"
+       y="6714.9697"
+       id="text2125"><tspan
+         sodipodi:role="line"
+         id="tspan2123"
+         x="4757.376"
+         y="6714.9697"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4744.376"
+       y="6715.7212"
+       id="text2129"><tspan
+         sodipodi:role="line"
+         id="tspan2127"
+         x="4744.376"
+         y="6715.7212"
+         style="stroke-width:0.264583">Fructose 1,6-bisphosphate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4884.0244"
+       y="6788.8818"
+       id="text2133"><tspan
+         sodipodi:role="line"
+         id="tspan2131"
+         x="4884.0244"
+         y="6788.8818"
+         style="stroke-width:0.264583">(2)  Glyceraldehyde 3-phosphate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4695.7622"
+       y="6796.2437"
+       id="text2137"><tspan
+         sodipodi:role="line"
+         id="tspan2135"
+         x="4695.7622"
+         y="6796.2437"
+         style="stroke-width:0.264583">Dihydroxyacetone phosphate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4721.5112"
+       y="6896.6445"
+       id="text2141"><tspan
+         sodipodi:role="line"
+         id="tspan2139"
+         x="4721.5112"
+         y="6896.6445"
+         style="stroke-width:0.264583">(2)  1,3-Bisphosphoglycerate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4730.4966"
+       y="6976.9912"
+       id="text2169"><tspan
+         sodipodi:role="line"
+         id="tspan2167"
+         x="4730.4966"
+         y="6976.9912"
+         style="stroke-width:0.264583">(2)  3-Phosphoglycerate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4730.5054"
+       y="7061.6807"
+       id="text2173"><tspan
+         sodipodi:role="line"
+         id="tspan2171"
+         x="4730.5054"
+         y="7061.6807"
+         style="stroke-width:0.264583">(2)  2-Phosphoglycerate</tspan></text>
+    <g
+       id="g4506">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6)"
+         d="m 4836.5139,6568.863 v -23.8021 z"
+         id="path5781-79"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-6)"
+         d="m 4834.2589,6545.0695 v 23.8022 z"
+         id="path5781-7-2"
+         sodipodi:nodetypes="ccc" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.20247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11641"
+         width="1.1746607"
+         height="4.7448506"
+         x="4834.4819"
+         y="6544.2612" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.191043;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11641-2"
+         width="1.186088"
+         height="4.1836729"
+         x="4835.0962"
+         y="6564.9785" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect16336"
+         width="9.2558956"
+         height="5.3071694"
+         x="4830.7583"
+         y="6554.1006" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4835.2754"
+       y="6558.1167"
+       id="text16376"><tspan
+         sodipodi:role="line"
+         id="tspan16374"
+         x="4835.2754"
+         y="6558.1167"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.0264583">Phosphohexose isomerase</tspan></text>
+    <g
+       id="g4885">
+      <g
+         id="g12653-57"
+         transform="matrix(0.1,0,0,0.1,4680.3452,6867.3402)">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-1)"
+           d="M 1561.6867,750.12636 V 512.10464 Z"
+           id="path5781-79-4"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-6-9)"
+           d="M 1539.137,512.1909 V 750.21262 Z"
+           id="path5781-7-2-9"
+           sodipodi:nodetypes="ccc" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11641-94"
+           width="11.746607"
+           height="47.448505"
+           x="1541.3678"
+           y="504.10901" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.91043;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11641-2-5"
+           width="11.86088"
+           height="41.836727"
+           x="1547.5106"
+           y="711.28101" />
+      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect16336-9"
+         width="9.2558956"
+         height="5.3071694"
+         x="4830.7583"
+         y="6927.5903" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4804.3867"
+       y="6931.6064"
+       id="text17004"><tspan
+         sodipodi:role="line"
+         id="tspan17002"
+         x="4804.3867"
+         y="6931.6064"
+         style="font-size:4.93889px;stroke-width:0.0264583">Phosphoglycerate kinase</tspan></text>
+    <g
+       id="g4941">
+      <g
+         id="g12653-57-5"
+         transform="matrix(0.1,0,0,0.1,4680.3452,6954.4238)">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-1-9)"
+           d="M 1561.6867,750.12636 V 512.10464 Z"
+           id="path5781-79-4-3"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-6-9-7)"
+           d="M 1539.137,512.1909 V 750.21262 Z"
+           id="path5781-7-2-9-4"
+           sodipodi:nodetypes="ccc" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11641-94-9"
+           width="11.746607"
+           height="47.448505"
+           x="1541.3678"
+           y="504.10901" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.91043;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11641-2-5-0"
+           width="11.86088"
+           height="41.836727"
+           x="1547.5106"
+           y="711.28101" />
+      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect16336-9-2"
+         width="9.2558956"
+         height="5.3071694"
+         x="4830.7583"
+         y="7014.6738" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4803.1289"
+       y="7018.6899"
+       id="text17004-0"><tspan
+         sodipodi:role="line"
+         id="tspan17002-1"
+         x="4803.1289"
+         y="7018.6899"
+         style="font-size:4.93889px;stroke-width:0.0264583">Phosphoglycerate mutase</tspan></text>
+    <g
+       id="g4997">
+      <g
+         id="g12653-57-7"
+         transform="matrix(0.1,0,0,0.1,4680.3452,7041.6674)">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-1-96)"
+           d="M 1561.6867,750.12636 V 512.10464 Z"
+           id="path5781-79-4-31"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-6-9-1)"
+           d="M 1539.137,512.1909 V 750.21262 Z"
+           id="path5781-7-2-9-1"
+           sodipodi:nodetypes="ccc" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11641-94-90"
+           width="11.746607"
+           height="47.448505"
+           x="1541.3678"
+           y="504.10901" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.91043;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11641-2-5-5"
+           width="11.86088"
+           height="41.836727"
+           x="1547.5106"
+           y="711.28101" />
+      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect16336-9-6"
+         width="9.2558956"
+         height="5.3071694"
+         x="4830.7583"
+         y="7101.9175" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4825.6338"
+       y="7106.4126"
+       id="text17004-7"><tspan
+         sodipodi:role="line"
+         id="tspan17002-7"
+         x="4825.6338"
+         y="7106.4126"
+         style="font-size:4.93889px;stroke-width:0.0264583">Enolase</tspan></text>
+    <g
+       id="g22688"
+       transform="matrix(0.1,0,0,-0.1,4816.4791,6890.7347)"
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-4)"
+         d="M 226.24327,2399.5197 V 2161.498 Z"
+         id="path5781-8"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-64)"
+         d="m 151.90207,2166.3514 v 238.0217 z"
+         id="path5781-7-5"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-4-8)"
+       d="m 4873.7592,7210.4493 -16.8307,16.8307 z"
+       id="path5781-8-6"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-64-6)"
+       d="m 4835.3864,7203.9256 v -23.8022 z"
+       id="path5781-7-5-4"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       id="text23789"
+       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23791);" />
+    <g
+       id="g12653-1"
+       transform="matrix(0.07071068,0.07071068,-0.07071068,0.07071068,4793.3671,6687.382)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-36)"
+         d="M 1561.6867,750.12636 V 512.10464 Z"
+         id="path5781-79-9"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-6-2)"
+         d="M 1539.137,512.1909 V 750.21262 Z"
+         id="path5781-7-2-4"
+         sodipodi:nodetypes="ccc" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11641-7"
+         width="11.746607"
+         height="47.448505"
+         x="1541.3678"
+         y="504.10901" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.91043;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11641-2-8"
+         width="11.86088"
+         height="41.836727"
+         x="1547.5106"
+         y="711.28101" />
+    </g>
+    <g
+       id="g14578"
+       transform="matrix(0.1,0,0,0.1,4823.9343,6436.0435)">
+      <g
+         id="g12653-2"
+         transform="rotate(45,-2491.1317,-66.074357)">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-3)"
+           d="M 1561.6867,750.12636 V 512.10464 Z"
+           id="path5781-79-2"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-6-5)"
+           d="M 1539.137,512.1909 V 750.21262 Z"
+           id="path5781-7-2-8"
+           sodipodi:nodetypes="ccc" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11641-9"
+           width="11.746607"
+           height="47.448505"
+           x="1541.3678"
+           y="504.10901" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.91043;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11641-2-7"
+           width="11.86088"
+           height="41.836727"
+           x="1547.5106"
+           y="711.28101" />
+      </g>
+      <g
+         id="g12653-2-6"
+         transform="rotate(135,403.35916,1703.8321)">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-3-3)"
+           d="M 1561.6867,750.12636 V 512.10464 Z"
+           id="path5781-79-2-8"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-6-5-7)"
+           d="M 1539.137,512.1909 V 750.21262 Z"
+           id="path5781-7-2-8-8"
+           sodipodi:nodetypes="ccc" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11641-9-4"
+           width="11.746607"
+           height="47.448505"
+           x="1541.3678"
+           y="504.10901" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.91043;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect11641-2-7-3"
+           width="11.86088"
+           height="41.836727"
+           x="1547.5106"
+           y="711.28101" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4824.7441"
+       y="6763.3765"
+       id="text23217"><tspan
+         sodipodi:role="line"
+         id="tspan23215"
+         x="4824.7441"
+         y="6763.3765"
+         style="font-size:4.93889px;stroke-width:0.0264583">Aldolase</tspan></text>
+    <g
+       id="g14070"
+       transform="matrix(0.1,0,0,0.1,4888.6508,6434.1087)">
+      <g
+         id="g4125"
+         transform="matrix(2.6458333,0,0,2.6458333,-2089.5042,2408.5629)">
+        <line
+           x1="359"
+           y1="550"
+           x2="414"
+           y2="518"
+           style="stroke:#000000;stroke-width:2"
+           id="line4093" />
+        <line
+           x1="414"
+           y1="518"
+           x2="469"
+           y2="550"
+           style="stroke:#000000;stroke-width:2"
+           id="line4095" />
+        <line
+           x1="469"
+           y1="550"
+           x2="512"
+           y2="525"
+           style="stroke:#000000;stroke-width:2"
+           id="line4097" />
+        <line
+           x1="359"
+           y1="550"
+           x2="314"
+           y2="523"
+           style="stroke:#000000;stroke-width:2"
+           id="line4099" />
+        <line
+           x1="418"
+           y1="518"
+           x2="418"
+           y2="466"
+           style="stroke:#000000;stroke-width:2"
+           id="line4101" />
+        <line
+           x1="410"
+           y1="518"
+           x2="410"
+           y2="466"
+           style="stroke:#000000;stroke-width:2"
+           id="line4103" />
+        <text
+           x="515"
+           y="528"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4107"><tspan
+             id="tspan4105">OH</tspan></text>
+        <text
+           x="406"
+           y="462"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4111"><tspan
+             id="tspan4109">O</tspan></text>
+        <text
+           x="310"
+           y="526"
+           style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+           id="text4123"><tspan
+             id="tspan4113">O</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan4115">3</tspan><tspan
+             dy="-8"
+             id="tspan4117">PO</tspan><tspan
+             dy="-10"
+             style="font-size:18.6667px"
+             id="tspan4119">2-</tspan><tspan
+             dy="10"
+             id="tspan4121" /></text>
+      </g>
+      <g
+         id="g4822"
+         transform="matrix(2.6458333,0,0,2.6458333,-1385.6871,2174.8869)">
+        <line
+           x1="454"
+           y1="559"
+           x2="509"
+           y2="591"
+           style="stroke:#000000;stroke-width:2"
+           id="line4792" />
+        <line
+           x1="509"
+           y1="591"
+           x2="564"
+           y2="559"
+           style="stroke:#000000;stroke-width:2"
+           id="line4794" />
+        <line
+           x1="509"
+           y1="591"
+           x2="509"
+           y2="642"
+           style="stroke:#000000;stroke-width:2"
+           id="line4796" />
+        <line
+           x1="564"
+           y1="559"
+           x2="608"
+           y2="585"
+           style="stroke:#000000;stroke-width:2"
+           id="line4798" />
+        <line
+           x1="454"
+           y1="559"
+           x2="454"
+           y2="507"
+           style="stroke:#000000;stroke-width:2"
+           id="line4800" />
+        <line
+           x1="461"
+           y1="514"
+           x2="461"
+           y2="552"
+           style="stroke:#000000;stroke-width:2"
+           id="line4802" />
+        <text
+           x="501"
+           y="663"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4806"><tspan
+             id="tspan4804">OH</tspan></text>
+        <text
+           x="446"
+           y="503"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4810"><tspan
+             id="tspan4808">O</tspan></text>
+        <text
+           x="611"
+           y="599"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text4820"><tspan
+             id="tspan4812">OPO</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan4814">3</tspan><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan4816">2-</tspan><tspan
+             dy="18"
+             id="tspan4818" /></text>
+      </g>
+    </g>
+    <g
+       id="g12653-1-6"
+       transform="matrix(0,0.1,-0.1,0,4911.0765,6659.1395)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-36-6)"
+         d="M 1561.6867,750.12636 V 512.10464 Z"
+         id="path5781-79-9-0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-6-2-8)"
+         d="M 1539.137,512.1909 V 750.21262 Z"
+         id="path5781-7-2-4-7"
+         sodipodi:nodetypes="ccc" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.0247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11641-7-0"
+         width="11.746607"
+         height="47.448505"
+         x="1541.3678"
+         y="504.10901" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.91043;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect11641-2-8-1"
+         width="11.86088"
+         height="41.836727"
+         x="1547.5106"
+         y="711.28101" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4846.4849"
+       y="6803.4795"
+       id="text23657"><tspan
+         sodipodi:role="line"
+         id="tspan23655"
+         x="4846.4849"
+         y="6803.4795"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.0264583">Triosephosphate</tspan><tspan
+         sodipodi:role="line"
+         x="4846.4849"
+         y="6809.6533"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.0264583"
+         id="tspan23683"> Isomerase</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4885.3003"
+       y="6845.1104"
+       id="text23797"><tspan
+         sodipodi:role="line"
+         id="tspan23795"
+         x="4885.3003"
+         y="6845.1104"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.0264583">Glyceraldehyde</tspan><tspan
+         sodipodi:role="line"
+         x="4885.3003"
+         y="6851.2842"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.0264583"
+         id="tspan23799"> 3-phosphate</tspan><tspan
+         sodipodi:role="line"
+         x="4885.3003"
+         y="6857.4575"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;stroke-width:0.0264583"
+         id="tspan23801"> dehydrogenase</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4792.9297"
+       y="7193.5811"
+       id="text874"><tspan
+         sodipodi:role="line"
+         id="tspan872"
+         x="4792.9297"
+         y="7193.5811"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">Pyruvate kinase</tspan></text>
+    <g
+       id="g928"
+       transform="matrix(0.26458333,0,0,0.26458333,4786.3896,7028.9028)">
+      <line
+         x1="394"
+         y1="605"
+         x2="438"
+         y2="581"
+         style="stroke:#000000;stroke-width:2"
+         id="line878" />
+      <line
+         x1="438"
+         y1="581"
+         x2="492"
+         y2="613"
+         style="stroke:#000000;stroke-width:2"
+         id="line880" />
+      <line
+         x1="492"
+         y1="613"
+         x2="546"
+         y2="583"
+         style="stroke:#000000;stroke-width:2"
+         id="line882" />
+      <line
+         x1="546"
+         y1="583"
+         x2="601"
+         y2="615"
+         style="stroke:#000000;stroke-width:2"
+         id="line884" />
+      <line
+         x1="442"
+         y1="581"
+         x2="442"
+         y2="529"
+         style="stroke:#000000;stroke-width:2"
+         id="line886" />
+      <line
+         x1="434"
+         y1="581"
+         x2="434"
+         y2="529"
+         style="stroke:#000000;stroke-width:2"
+         id="line888" />
+      <line
+         x1="488"
+         y1="613"
+         x2="488"
+         y2="664"
+         style="stroke:#000000;stroke-width:2"
+         id="line890" />
+      <line
+         x1="496"
+         y1="613"
+         x2="496"
+         y2="664"
+         style="stroke:#000000;stroke-width:2"
+         id="line892" />
+      <line
+         x1="601"
+         y1="615"
+         x2="645"
+         y2="588"
+         style="stroke:#000000;stroke-width:2"
+         id="line894" />
+      <line
+         x1="597"
+         y1="615"
+         x2="597"
+         y2="666"
+         style="stroke:#000000;stroke-width:2"
+         id="line896" />
+      <line
+         x1="605"
+         y1="615"
+         x2="605"
+         y2="666"
+         style="stroke:#000000;stroke-width:2"
+         id="line898" />
+      <text
+         x="430"
+         y="525"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text902"><tspan
+           id="tspan900">O</tspan></text>
+      <text
+         x="484"
+         y="685"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text906"><tspan
+           id="tspan904">O</tspan></text>
+      <text
+         x="593"
+         y="687"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text910"><tspan
+           id="tspan908">O</tspan></text>
+      <text
+         x="648"
+         y="591"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text918"><tspan
+           id="tspan912">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan914">-</tspan><tspan
+           dy="10"
+           id="tspan916" /></text>
+      <text
+         x="390"
+         y="619"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text926"><tspan
+           id="tspan920">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan922">-</tspan><tspan
+           dy="10"
+           id="tspan924" /></text>
+    </g>
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-4-8-3)"
+       d="m 4868.017,7150.6579 16.8306,16.8306 z"
+       id="path5781-8-6-7"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4865.5269"
+       y="7223.4888"
+       id="text992"><tspan
+         sodipodi:role="line"
+         id="tspan990"
+         x="4865.5269"
+         y="7223.4888"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">Pyruvate carboxylase</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.0264583"
+       x="4902.9126"
+       y="7152.4541"
+       id="text996"><tspan
+         sodipodi:role="line"
+         id="tspan994"
+         x="4902.9126"
+         y="7152.4541"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.0264583">Phosphophenolpyruvate</tspan><tspan
+         sodipodi:role="line"
+         x="4902.9126"
+         y="7158.6279"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.0264583"
+         id="tspan998">carboxykinase</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053)"
+       d="m 4780.4467,6422.591 c 7.9959,7.7957 15.9917,15.5912 15.9917,23.387 -1e-4,7.7958 -7.9958,15.5914 -15.9917,23.387"
+       id="path1002"
+       inkscape:path-effect="#path-effect1004"
+       inkscape:original-d="m 4780.4467,6422.591 c 7.9959,7.7957 15.9917,15.5912 23.9877,23.387 -7.996,7.7959 -15.9918,15.5914 -23.9877,23.387"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-5)"
+       d="m 4935.1791,6878.8807 c -7.9959,-7.7957 -15.9916,-15.5912 -15.9916,-23.387 1e-4,-7.7958 7.9957,-15.5913 15.9916,-23.387"
+       id="path1002-5"
+       sodipodi:nodetypes="ccc"
+       inkscape:original-d="m 4935.1791,6878.8807 c -7.9959,-7.7957 -15.9916,-15.5912 -23.9876,-23.387 7.996,-7.7959 15.9917,-15.5914 23.9876,-23.387"
+       inkscape:path-effect="#path-effect2434" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4770.9888"
+       y="6423.6816"
+       id="text2751"><tspan
+         sodipodi:role="line"
+         id="tspan2749"
+         x="4770.9888"
+         y="6423.6816"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">ATP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4768.6958"
+       y="6471.5117"
+       id="text2779"><tspan
+         sodipodi:role="line"
+         id="tspan2777"
+         x="4768.6958"
+         y="6471.5117"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">ADP</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-9)"
+       d="m 4749.0277,6638.557 c 7.9959,7.7957 15.9916,15.5912 15.9916,23.387 0,7.7958 -7.9957,15.5913 -15.9916,23.387"
+       id="path1002-2"
+       inkscape:path-effect="#path-effect2922"
+       inkscape:original-d="m 4749.0277,6638.557 c 7.9959,7.7957 15.9916,15.5912 23.9876,23.387 -7.996,7.7958 -15.9917,15.5914 -23.9876,23.387"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4737.6704"
+       y="6638.9683"
+       id="text2751-7"><tspan
+         sodipodi:role="line"
+         id="tspan2749-0"
+         x="4737.6704"
+         y="6638.9683"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">ATP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4737.292"
+       y="6689.6597"
+       id="text2779-9"><tspan
+         sodipodi:role="line"
+         id="tspan2777-3"
+         x="4737.292"
+         y="6689.6597"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">ADP</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-6)"
+       d="m 4761.1407,6830.599 c 7.9959,7.7957 15.9916,15.5912 15.9916,23.387 -1e-4,7.7958 -7.9957,15.5913 -15.9916,23.387"
+       id="path1002-6"
+       inkscape:path-effect="#path-effect3288"
+       inkscape:original-d="m 4761.1407,6830.599 c 7.9959,7.7957 15.9916,15.5912 23.9876,23.387 -7.996,7.7959 -15.9917,15.5914 -23.9876,23.387"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4739.6968"
+       y="6831.2119"
+       id="text3549"><tspan
+         sodipodi:role="line"
+         id="tspan3547"
+         x="4739.6968"
+         y="6831.2119"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">(2) NAD<tspan
+   style="font-size:4.93889px;baseline-shift:super;fill:#ff0000;stroke-width:0.0264583"
+   id="tspan3551">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4736.1738"
+       y="6880.9902"
+       id="text3555"><tspan
+         sodipodi:role="line"
+         id="tspan3553"
+         x="4736.1738"
+         y="6880.9902"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">(2) NADH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4936.4678"
+       y="6882.46"
+       id="text3571"><tspan
+         sodipodi:role="line"
+         id="tspan3569"
+         x="4936.4678"
+         y="6882.46"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">(2) NAD<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan4475">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4936.7778"
+       y="6832.896"
+       id="text3577"><tspan
+         sodipodi:role="line"
+         id="tspan3575"
+         x="4936.7778"
+         y="6832.896"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">(2) NADH</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-6-7)"
+       d="m 4761.1128,6909.3161 c 7.9959,7.7957 15.9917,15.5912 15.9917,23.387 0,7.7958 -7.9958,15.5913 -15.9917,23.387"
+       id="path1002-6-2"
+       inkscape:path-effect="#path-effect3721"
+       inkscape:original-d="m 4761.1128,6909.3161 c 7.9959,7.7957 15.9917,15.5912 23.9877,23.387 -7.996,7.7958 -15.9918,15.5913 -23.9877,23.387"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4739.5068"
+       y="6908.7949"
+       id="text3549-0"><tspan
+         sodipodi:role="line"
+         id="tspan3547-2"
+         x="4739.5068"
+         y="6908.7949"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">(2) ADP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4740.062"
+       y="6961.0396"
+       id="text3555-7"><tspan
+         sodipodi:role="line"
+         id="tspan3553-5"
+         x="4740.062"
+         y="6961.0396"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">(2) ATP</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-6-7-9)"
+       d="m 4770.4395,7174.8312 c 7.9959,7.7957 15.9916,15.5913 15.9916,23.387 -1e-4,7.7958 -7.9957,15.5913 -15.9916,23.387"
+       id="path1002-6-2-2"
+       inkscape:path-effect="#path-effect4134"
+       inkscape:original-d="m 4770.4395,7174.8312 c 7.9959,7.7957 15.9916,15.5913 23.9876,23.387 -7.996,7.7959 -15.9917,15.5914 -23.9876,23.387"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4748.834"
+       y="7174.311"
+       id="text3549-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan3547-2-9"
+         x="4748.834"
+         y="7174.311"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">(2) ADP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="4749.3892"
+       y="7226.5557"
+       id="text3555-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan3553-5-3"
+         x="4749.3892"
+         y="7226.5557"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">(2) ATP</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-5-6)"
+       d="m 4922.1156,7259.7296 c -3.0268,-10.7492 -6.0535,-21.4981 -2.1556,-28.2495 3.8979,-6.7514 14.7201,-9.5046 25.5426,-12.2579"
+       id="path1002-5-2"
+       sodipodi:nodetypes="ccc"
+       inkscape:original-d="m 4922.1156,7259.7296 c -3.0268,-10.7492 -6.0535,-21.4981 -9.0804,-32.2475 10.8227,-2.7534 21.6449,-5.5067 32.4674,-8.2599"
+       inkscape:path-effect="#path-effect4551" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4921.8921"
+       y="7264.3618"
+       id="text4855"><tspan
+         sodipodi:role="line"
+         id="tspan4853"
+         x="4921.8921"
+         y="7264.3618"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">(2) ATP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4946.3638"
+       y="7220.7222"
+       id="text4855-7"><tspan
+         sodipodi:role="line"
+         id="tspan4853-8"
+         x="4946.3638"
+         y="7220.7222"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">(2) ADP</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-5-6-4)"
+       d="m 4964.3442,7146.3265 c -11.1115,1.1142 -22.2227,2.2284 -28.1946,-2.7826 -5.972,-5.011 -6.8041,-16.147 -7.6363,-27.2831"
+       id="path1002-5-2-0"
+       sodipodi:nodetypes="ccc"
+       inkscape:original-d="m 4964.3442,7146.3265 c -11.1115,1.1142 -22.2227,2.2284 -33.3344,3.3427 -0.8322,-11.1363 -1.6644,-22.2723 -2.4965,-33.4084"
+       inkscape:path-effect="#path-effect5014" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4966.0425"
+       y="7147.7241"
+       id="text5295"><tspan
+         sodipodi:role="line"
+         id="tspan5293"
+         x="4966.0425"
+         y="7147.7241"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">(2) GTP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4921.5923"
+       y="7113.8022"
+       id="text5299"><tspan
+         sodipodi:role="line"
+         id="tspan5297"
+         x="4921.5923"
+         y="7113.8022"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">(2) GDP</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-6-7-3)"
+       d="m 4888.9514,6958.8799 c -7.9959,-7.7957 -15.9916,-15.5912 -15.9916,-23.387 0,-7.7958 7.9957,-15.5913 15.9916,-23.387"
+       id="path1002-6-2-1"
+       inkscape:path-effect="#path-effect5448"
+       inkscape:original-d="m 4888.9514,6958.8799 c -7.9959,-7.7957 -15.9916,-15.5912 -23.9876,-23.387 7.996,-7.7958 15.9917,-15.5913 23.9876,-23.387"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.08px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4890.2246"
+       y="6912.6548"
+       id="text3549-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan3547-2-6"
+         x="4890.2246"
+         y="6912.6548"
+         style="fill:#0000ff;stroke-width:0.0264583">(2) ADP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.08px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4890.436"
+       y="6961.6436"
+       id="text3555-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan3553-5-2"
+         x="4890.436"
+         y="6961.6436"
+         style="fill:#0000ff;stroke-width:0.0264583">(2) ATP</tspan></text>
+    <path
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6425)"
+       d="m 4893.1855,6502.4744 222.5467,-38.707"
+       id="path5833"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-5-0)"
+       d="m 4965.9473,6474.0133 c 11.3385,6.4626 22.6766,12.9249 31.1044,10.1469 8.4278,-2.778 13.9445,-14.7963 19.4614,-26.8148"
+       id="path1002-5-1"
+       sodipodi:nodetypes="ccc"
+       inkscape:original-d="m 4965.9473,6474.0133 c 11.3385,6.4625 22.6766,12.9249 34.0152,19.3876 5.517,-12.0187 11.0337,-24.037 16.5506,-36.0555"
+       inkscape:path-effect="#path-effect6860" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke-width:0.0264583"
+       x="5009.2666"
+       y="6456.1348"
+       id="text7201"><tspan
+         sodipodi:role="line"
+         id="tspan7199"
+         x="5009.2666"
+         y="6456.1348"
+         style="font-size:4.93889px;fill:#ff00ff;stroke-width:0.0264583">NADPH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ff00ff;stroke-width:0.0264583"
+       x="4994.0166"
+       y="6491.4468"
+       id="text7205"><tspan
+         sodipodi:role="line"
+         id="tspan7203"
+         x="4994.0166"
+         y="6491.4468"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#ff00ff;stroke-width:0.0264583">Glucose</tspan><tspan
+         sodipodi:role="line"
+         x="4994.0166"
+         y="6497.6206"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#ff00ff;stroke-width:0.0264583"
+         id="tspan7207">6-phosphate</tspan><tspan
+         sodipodi:role="line"
+         x="4994.0166"
+         y="6503.7939"
+         style="font-size:4.93889px;text-align:center;text-anchor:middle;fill:#ff00ff;stroke-width:0.0264583"
+         id="tspan7209">dehydrogenase</tspan></text>
+    <g
+       id="g7449"
+       transform="matrix(0.26458333,0,0,0.26458333,5003.1985,6308.9143)">
+      <line
+         x1="519"
+         y1="622"
+         x2="581"
+         y2="622"
+         style="stroke:#000000;stroke-width:2"
+         id="line7391" />
+      <line
+         x1="581"
+         y1="622"
+         x2="626"
+         y2="577"
+         style="stroke:#000000;stroke-width:2"
+         id="line7393" />
+      <line
+         x1="626"
+         y1="577"
+         x2="589"
+         y2="540"
+         style="stroke:#000000;stroke-width:2"
+         id="line7395" />
+      <line
+         x1="568"
+         y1="532"
+         x2="518"
+         y2="532"
+         style="stroke:#000000;stroke-width:2"
+         id="line7397" />
+      <line
+         x1="518"
+         y1="532"
+         x2="473"
+         y2="577"
+         style="stroke:#000000;stroke-width:2"
+         id="line7399" />
+      <line
+         x1="473"
+         y1="577"
+         x2="517"
+         y2="621"
+         style="stroke:#000000;stroke-width:2"
+         id="line7401" />
+      <line
+         x1="626"
+         y1="574"
+         x2="676"
+         y2="574"
+         style="stroke:#000000;stroke-width:2"
+         id="line7403" />
+      <line
+         x1="626"
+         y1="580"
+         x2="676"
+         y2="580"
+         style="stroke:#000000;stroke-width:2"
+         id="line7405" />
+      <line
+         x1="518"
+         y1="532"
+         x2="518"
+         y2="469"
+         style="stroke:#000000;stroke-width:2"
+         id="line7407" />
+      <line
+         x1="581"
+         y1="622"
+         x2="581"
+         y2="673"
+         style="stroke:#000000;stroke-width:2"
+         id="line7409" />
+      <line
+         x1="517"
+         y1="621"
+         x2="517"
+         y2="571"
+         style="stroke:#000000;stroke-width:2"
+         id="line7411" />
+      <line
+         x1="473"
+         y1="577"
+         x2="473"
+         y2="628"
+         style="stroke:#000000;stroke-width:2"
+         id="line7413" />
+      <line
+         x1="518"
+         y1="469"
+         x2="482"
+         y2="433"
+         style="stroke:#000000;stroke-width:2"
+         id="line7415" />
+      <text
+         x="573"
+         y="540"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7419"><tspan
+           id="tspan7417">O</tspan></text>
+      <text
+         x="480"
+         y="433"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text7431"><tspan
+           id="tspan7421">O</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan7423">3</tspan><tspan
+           dy="-8"
+           id="tspan7425">PO</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan7427">2-</tspan><tspan
+           dy="10"
+           id="tspan7429" /></text>
+      <text
+         x="695"
+         y="585"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text7435"><tspan
+           id="tspan7433">O</tspan></text>
+      <text
+         x="509"
+         y="567"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7439"><tspan
+           id="tspan7437">OH</tspan></text>
+      <text
+         x="465"
+         y="649"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7443"><tspan
+           id="tspan7441">OH</tspan></text>
+      <text
+         x="573"
+         y="694"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7447"><tspan
+           id="tspan7445">OH</tspan></text>
+    </g>
+    <g
+       id="g7845"
+       transform="matrix(0.26458333,0,0,0.26458333,5092.2162,6338.7396)">
+      <line
+         x1="764"
+         y1="471"
+         x2="764"
+         y2="535"
+         style="stroke:#000000;stroke-width:2"
+         id="line7763" />
+      <line
+         x1="764"
+         y1="471"
+         x2="815"
+         y2="471"
+         style="stroke:#000000;stroke-width:2"
+         id="line7765" />
+      <line
+         x1="764"
+         y1="471"
+         x2="712"
+         y2="471"
+         style="stroke:#000000;stroke-width:2"
+         id="line7767" />
+      <line
+         x1="764"
+         y1="471"
+         x2="764"
+         y2="407"
+         style="stroke:#000000;stroke-width:2"
+         id="line7769" />
+      <line
+         x1="764"
+         y1="407"
+         x2="815"
+         y2="407"
+         style="stroke:#000000;stroke-width:2"
+         id="line7771" />
+      <line
+         x1="764"
+         y1="407"
+         x2="712"
+         y2="407"
+         style="stroke:#000000;stroke-width:2"
+         id="line7773" />
+      <line
+         x1="764"
+         y1="407"
+         x2="764"
+         y2="343"
+         style="stroke:#000000;stroke-width:2"
+         id="line7775" />
+      <line
+         x1="764"
+         y1="343"
+         x2="815"
+         y2="343"
+         style="stroke:#000000;stroke-width:2"
+         id="line7777" />
+      <line
+         x1="764"
+         y1="343"
+         x2="712"
+         y2="343"
+         style="stroke:#000000;stroke-width:2"
+         id="line7779" />
+      <line
+         x1="764"
+         y1="343"
+         x2="764"
+         y2="291"
+         style="stroke:#000000;stroke-width:2"
+         id="line7781" />
+      <line
+         x1="764"
+         y1="535"
+         x2="815"
+         y2="535"
+         style="stroke:#000000;stroke-width:2"
+         id="line7783" />
+      <line
+         x1="764"
+         y1="535"
+         x2="713"
+         y2="535"
+         style="stroke:#000000;stroke-width:2"
+         id="line7785" />
+      <line
+         x1="764"
+         y1="535"
+         x2="764"
+         y2="586"
+         style="stroke:#000000;stroke-width:2"
+         id="line7787" />
+      <text
+         x="756"
+         y="607"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7803"><tspan
+           id="tspan7789">CH</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan7791">2</tspan><tspan
+           dy="-8"
+           id="tspan7793">OPO</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan7795">3</tspan><tspan
+           dy="-8"
+           id="tspan7797" /><tspan
+           dy="-18"
+           dx="-10"
+           style="font-size:18.6667px"
+           id="tspan7799">2-</tspan><tspan
+           dy="10"
+           id="tspan7801" /></text>
+      <text
+         x="756"
+         y="287"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7811"><tspan
+           id="tspan7805">COO</tspan><tspan
+           dy="-18"
+           style="font-size:18.6667px"
+           id="tspan7807">-</tspan><tspan
+           dy="18"
+           id="tspan7809" /></text>
+      <text
+         x="706"
+         y="415"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text7815"><tspan
+           id="tspan7813">HO</tspan></text>
+      <text
+         x="706"
+         y="351"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text7819"><tspan
+           id="tspan7817">H</tspan></text>
+      <text
+         x="834"
+         y="415"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text7823"><tspan
+           id="tspan7821">H</tspan></text>
+      <text
+         x="706"
+         y="479"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text7827"><tspan
+           id="tspan7825">H</tspan></text>
+      <text
+         x="707"
+         y="543"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text7831"><tspan
+           id="tspan7829">H</tspan></text>
+      <text
+         x="820"
+         y="351"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7835"><tspan
+           id="tspan7833">OH</tspan></text>
+      <text
+         x="820"
+         y="479"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7839"><tspan
+           id="tspan7837">OH</tspan></text>
+      <text
+         x="820"
+         y="543"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7843"><tspan
+           id="tspan7841">OH</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.222693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8329)"
+       d="m 5197.3104,6454.9717 h 60.1092"
+       id="path7897"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="5191.4824"
+       y="6463.6533"
+       id="text8681"><tspan
+         sodipodi:role="line"
+         id="tspan8679"
+         x="5191.4824"
+         y="6463.6533"
+         style="font-size:4.93889px;stroke-width:0.0264583">6-Phosphogluconolactonase</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.222693;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8329-5)"
+       d="m 5329.0025,6454.8736 106.2898,-0.1538"
+       id="path7897-4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="5334.5747"
+       y="6463.3491"
+       id="text9147"><tspan
+         sodipodi:role="line"
+         id="tspan9145"
+         x="5334.5747"
+         y="6463.3491"
+         style="font-size:4.93889px;stroke-width:0.0264583">6-phosphogluconate dehydrogenase</tspan></text>
+    <g
+       id="g9457"
+       transform="matrix(0.26458333,0,0,0.26458333,5295.4123,6380.5385)">
+      <g
+         id="g9532">
+        <line
+           x1="631"
+           y1="214"
+           x2="631"
+           y2="278"
+           style="stroke:#000000;stroke-width:2"
+           id="line9393" />
+        <line
+           x1="631"
+           y1="278"
+           x2="681"
+           y2="278"
+           style="stroke:#000000;stroke-width:2"
+           id="line9395" />
+        <line
+           x1="631"
+           y1="278"
+           x2="579"
+           y2="278"
+           style="stroke:#000000;stroke-width:2"
+           id="line9397" />
+        <line
+           x1="631"
+           y1="278"
+           x2="631"
+           y2="342"
+           style="stroke:#000000;stroke-width:2"
+           id="line9399" />
+        <line
+           x1="631"
+           y1="342"
+           x2="682"
+           y2="342"
+           style="stroke:#000000;stroke-width:2"
+           id="line9401" />
+        <line
+           x1="631"
+           y1="342"
+           x2="580"
+           y2="342"
+           style="stroke:#000000;stroke-width:2"
+           id="line9403" />
+        <line
+           x1="631"
+           y1="342"
+           x2="631"
+           y2="393"
+           style="stroke:#000000;stroke-width:2"
+           id="line9405" />
+        <line
+           x1="631"
+           y1="211"
+           x2="682"
+           y2="211"
+           style="stroke:#000000;stroke-width:2"
+           id="line9407" />
+        <line
+           x1="631"
+           y1="217"
+           x2="682"
+           y2="217"
+           style="stroke:#000000;stroke-width:2"
+           id="line9409" />
+        <line
+           x1="631"
+           y1="214"
+           x2="631"
+           y2="162"
+           style="stroke:#000000;stroke-width:2"
+           id="line9411" />
+        <text
+           x="623"
+           y="414"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text9427"><tspan
+             id="tspan9413">CH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan9415">2</tspan><tspan
+             dy="-8"
+             id="tspan9417">OPO</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan9419">3</tspan><tspan
+             dy="-8"
+             id="tspan9421" /><tspan
+             dy="-18"
+             dx="-10"
+             style="font-size:18.6667px"
+             id="tspan9423">2-</tspan><tspan
+             dy="10"
+             id="tspan9425" /></text>
+        <text
+           x="559"
+           y="286"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text9431"><tspan
+             id="tspan9429">H</tspan></text>
+        <text
+           x="560"
+           y="350"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text9435"><tspan
+             id="tspan9433">H</tspan></text>
+        <text
+           x="686"
+           y="286"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text9439"><tspan
+             id="tspan9437">OH</tspan></text>
+        <text
+           x="687"
+           y="350"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text9443"><tspan
+             id="tspan9441">OH</tspan></text>
+        <text
+           x="687"
+           y="222"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text9447"><tspan
+             id="tspan9445">O</tspan></text>
+        <text
+           x="623"
+           y="158"
+           style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+           id="text9455"><tspan
+             id="tspan9449">CH</tspan><tspan
+             dy="8"
+             style="font-size:18.6667px"
+             id="tspan9451">2</tspan><tspan
+             dy="-8"
+             id="tspan9453">OH</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.177626;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8329-5-7)"
+       d="m 5497.5667,6453.8171 58.9125,-0.1764"
+       id="path7897-4-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.149338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8329-5-7-6)"
+       d="m 5607.9737,6453.8331 37.4084,-0.1964"
+       id="path7897-4-5-3"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="5646.9639"
+       y="6455.0508"
+       id="text10708"><tspan
+         sodipodi:role="line"
+         id="tspan10706"
+         x="5646.9639"
+         y="6455.0508"
+         style="font-size:4.93889px;stroke-width:0.0264583">Nucleotide Synthesis</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.149338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8329-5-7-6-7)"
+       d="m 5572.3049,6486.4554 -26.3128,26.5906"
+       id="path7897-4-5-3-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.149338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8329-5-7-6-7-2)"
+       d="m 5492.3895,6486.4554 26.3128,26.5906"
+       id="path7897-4-5-3-5-4"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ff0000;stroke-width:0.0264583"
+       x="5519.9185"
+       y="6517.1729"
+       id="text11710"><tspan
+         sodipodi:role="line"
+         id="tspan11708"
+         x="5519.9185"
+         y="6517.1729"
+         style="font-size:4.93889px;fill:#ff0000;stroke-width:0.0264583">Glycolysis</tspan></text>
+    <path
+       style="fill:none;stroke:#ff00ff;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-5-0-7)"
+       d="m 5353.229,6437.1257 c 11.0327,9.0926 22.0652,18.1851 31.6481,17.5788 9.5829,-0.6063 17.7152,-10.9112 25.8478,-21.2164"
+       id="path1002-5-1-4"
+       sodipodi:nodetypes="ccc"
+       inkscape:original-d="m 5353.229,6437.1257 c 11.0327,9.0926 22.0652,18.1851 33.0982,27.2779 8.1328,-10.3054 16.2652,-20.6103 24.3977,-30.9155"
+       inkscape:path-effect="#path-effect11867" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.08px;line-height:1.25;font-family:sans-serif;fill:#ff00ff;stroke-width:0.0264583"
+       x="5344.9253"
+       y="6435.5083"
+       id="text12220"><tspan
+         sodipodi:role="line"
+         id="tspan12218"
+         x="5344.9253"
+         y="6435.5083"
+         style="font-size:4.93889px;fill:#ff00ff;stroke-width:0.0264583">NADP<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan4473">+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.08px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="5403.54"
+       y="6431.9409"
+       id="text12226"><tspan
+         sodipodi:role="line"
+         id="tspan12224"
+         x="5403.54"
+         y="6431.9409"
+         style="font-size:4.93889px;fill:#ff00ff;stroke-width:0.0264583">NADPH</tspan></text>
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 5031.8249,7899.9864 c -9.5156,-151.1345 -19.031,-302.2678 -13.4466,-419.7834 5.5844,-117.5156 26.2685,-201.4128 76.3263,-242.4262 50.0578,-41.0134 129.4866,-39.141 279.1385,-40.3541 149.6518,-1.2131 369.5251,-5.5117 589.4002,-9.8104"
+       id="path1866"
+       sodipodi:nodetypes="ccccc"
+       inkscape:original-d="m 5031.8249,7899.9864 c -9.5156,-151.1345 -19.031,-302.2678 -28.5465,-453.4011 20.6843,-83.8979 41.3685,-167.7951 62.0531,-251.6944 79.4309,1.8725 158.8597,3.745 238.2894,5.6174 219.874,-4.2986 439.7473,-8.5973 659.6224,-12.896"
+       inkscape:path-effect="#path-effect1868" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 5011.1661,7929.4343 c -11.8913,-209.6013 -23.7825,-419.2005 -13.389,-546.5492 10.3936,-127.3488 47.1325,-178.0494 92.0222,-197.5416 44.8896,-19.4921 116.5217,-18.8959 193.31,-18.1818 76.7883,0.7141 139.1444,1.3548 254.2243,0.3877 115.08,-0.9671 271.4126,-3.5745 429.3302,-6.2083"
+       id="path1866-3"
+       sodipodi:nodetypes="cccccc"
+       inkscape:original-d="m 5011.1661,7929.4343 c -11.8913,-209.6013 -23.7825,-419.2005 -35.6738,-628.801 32.6784,-45.097 69.4173,-95.7976 98.0352,-135.291 61.1614,0.5091 132.7935,1.1053 209.5183,1.7439 76.8518,0.7896 139.2079,1.4303 209.8651,2.1563 159.5027,-2.6602 473.7529,-7.9014 473.7529,-7.9014"
+       inkscape:path-effect="#path-effect1891" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1948)"
+       d="m 4841.3051,7258.4407 c 21.5348,14.5067 43.0691,29.0131 79.0142,38.1243 35.945,9.1112 86.2978,12.8264 136.6517,16.5417"
+       id="path1894"
+       inkscape:path-effect="#path-effect1896"
+       inkscape:original-d="m 4841.3051,7258.4407 c 21.5348,14.5068 43.0691,29.0132 64.6043,43.5201 50.3549,3.7154 100.7077,7.4306 151.0616,11.1459"
+       sodipodi:nodetypes="ccc" />
+    <g
+       id="g2661"
+       transform="matrix(0.26458333,0,0,0.26458333,5435.5359,6330.3456)">
+      <line
+         x1="612"
+         y1="470"
+         x2="571"
+         y2="440"
+         style="stroke:#000000;stroke-width:2"
+         id="line2615" />
+      <line
+         x1="552"
+         y1="441"
+         x2="511"
+         y2="471"
+         style="stroke:#000000;stroke-width:2"
+         id="line2617" />
+      <line
+         x1="593"
+         y1="530"
+         x2="593"
+         y2="580"
+         style="stroke:#000000;stroke-width:2"
+         id="line2619" />
+      <line
+         x1="530"
+         y1="530"
+         x2="530"
+         y2="581"
+         style="stroke:#000000;stroke-width:2"
+         id="line2621" />
+      <line
+         x1="511"
+         y1="471"
+         x2="511"
+         y2="408"
+         style="stroke:#000000;stroke-width:2"
+         id="line2623" />
+      <line
+         x1="511"
+         y1="408"
+         x2="474"
+         y2="371"
+         style="stroke:#000000;stroke-width:2"
+         id="line2625" />
+      <line
+         x1="530"
+         y1="531"
+         x2="594"
+         y2="531"
+         style="stroke:#000000;stroke-width:10"
+         id="line2627" />
+      <polygon
+         style="fill:#000000;stroke:#000000;stroke-width:1"
+         points="590,530 596,530 612,470 "
+         id="polygon2629" />
+      <polygon
+         style="fill:#000000;stroke:#000000;stroke-width:1"
+         points="527,531 533,531 511,471 "
+         id="polygon2631" />
+      <text
+         x="554"
+         y="442"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2635"><tspan
+           id="tspan2633">O</tspan></text>
+      <text
+         x="604"
+         y="541"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2639"><tspan
+           id="tspan2637">OH</tspan></text>
+      <text
+         x="585"
+         y="601"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2643"><tspan
+           id="tspan2641">OH</tspan></text>
+      <text
+         x="522"
+         y="602"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2647"><tspan
+           id="tspan2645">OH</tspan></text>
+      <text
+         x="472"
+         y="371"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text2659"><tspan
+           id="tspan2649">O</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan2651">3</tspan><tspan
+           dy="-8"
+           id="tspan2653">PO</tspan><tspan
+           dy="-18"
+           dx="-10"
+           style="font-size:18.6667px"
+           id="tspan2655">2-</tspan><tspan
+           dy="10"
+           id="tspan2657" /></text>
+    </g>
+    <g
+       id="g2737"
+       transform="matrix(0.26458333,0,0,0.26458333,4852.0315,7141.5453)">
+      <line
+         x1="910"
+         y1="688"
+         x2="955"
+         y2="662"
+         style="stroke:#000000;stroke-width:2"
+         id="line2715" />
+      <line
+         x1="955"
+         y1="662"
+         x2="1010"
+         y2="694"
+         style="stroke:#000000;stroke-width:2"
+         id="line2717" />
+      <line
+         x1="889"
+         y1="687"
+         x2="855"
+         y2="667"
+         style="stroke:#000000;stroke-width:2"
+         id="line2719" />
+      <line
+         x1="959"
+         y1="662"
+         x2="959"
+         y2="610"
+         style="stroke:#000000;stroke-width:2"
+         id="line2721" />
+      <line
+         x1="951"
+         y1="662"
+         x2="951"
+         y2="610"
+         style="stroke:#000000;stroke-width:2"
+         id="line2723" />
+      <text
+         x="851"
+         y="670"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text2727"><tspan
+           id="tspan2725">CoA</tspan></text>
+      <text
+         x="892"
+         y="702"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2731"><tspan
+           id="tspan2729">S</tspan></text>
+      <text
+         x="947"
+         y="606"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2735"><tspan
+           id="tspan2733">O</tspan></text>
+    </g>
+    <g
+       id="g2811"
+       transform="matrix(0.26458333,0,0,0.26458333,4912.3125,7292.1773)">
+      <line
+         x1="644"
+         y1="373"
+         x2="689"
+         y2="347"
+         style="stroke:#000000;stroke-width:2"
+         id="line2761" />
+      <line
+         x1="689"
+         y1="347"
+         x2="744"
+         y2="379"
+         style="stroke:#000000;stroke-width:2"
+         id="line2763" />
+      <line
+         x1="744"
+         y1="379"
+         x2="799"
+         y2="347"
+         style="stroke:#000000;stroke-width:2"
+         id="line2765" />
+      <line
+         x1="799"
+         y1="347"
+         x2="854"
+         y2="379"
+         style="stroke:#000000;stroke-width:2"
+         id="line2767" />
+      <line
+         x1="854"
+         y1="379"
+         x2="898"
+         y2="352"
+         style="stroke:#000000;stroke-width:2"
+         id="line2769" />
+      <line
+         x1="693"
+         y1="347"
+         x2="693"
+         y2="296"
+         style="stroke:#000000;stroke-width:2"
+         id="line2771" />
+      <line
+         x1="685"
+         y1="347"
+         x2="685"
+         y2="296"
+         style="stroke:#000000;stroke-width:2"
+         id="line2773" />
+      <line
+         x1="803"
+         y1="347"
+         x2="803"
+         y2="295"
+         style="stroke:#000000;stroke-width:2"
+         id="line2775" />
+      <line
+         x1="795"
+         y1="347"
+         x2="795"
+         y2="295"
+         style="stroke:#000000;stroke-width:2"
+         id="line2777" />
+      <line
+         x1="850"
+         y1="379"
+         x2="850"
+         y2="430"
+         style="stroke:#000000;stroke-width:2"
+         id="line2779" />
+      <line
+         x1="858"
+         y1="379"
+         x2="858"
+         y2="430"
+         style="stroke:#000000;stroke-width:2"
+         id="line2781" />
+      <text
+         x="681"
+         y="292"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2785"><tspan
+           id="tspan2783">O</tspan></text>
+      <text
+         x="791"
+         y="291"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2789"><tspan
+           id="tspan2787">O</tspan></text>
+      <text
+         x="846"
+         y="451"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2793"><tspan
+           id="tspan2791">O</tspan></text>
+      <text
+         x="640"
+         y="387"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text2801"><tspan
+           id="tspan2795">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan2797">-</tspan><tspan
+           dy="10"
+           id="tspan2799" /></text>
+      <text
+         x="901"
+         y="355"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2809"><tspan
+           id="tspan2803">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan2805">-</tspan><tspan
+           dy="10"
+           id="tspan2807" /></text>
+    </g>
+    <g
+       id="g3012"
+       transform="matrix(0.26458333,0,0,0.26458333,5108.5444,7253.0668)">
+      <line
+         x1="397"
+         y1="283"
+         x2="442"
+         y2="257"
+         style="stroke:#000000;stroke-width:2"
+         id="line2952" />
+      <line
+         x1="442"
+         y1="257"
+         x2="497"
+         y2="289"
+         style="stroke:#000000;stroke-width:2"
+         id="line2954" />
+      <line
+         x1="497"
+         y1="289"
+         x2="552"
+         y2="257"
+         style="stroke:#000000;stroke-width:2"
+         id="line2956" />
+      <line
+         x1="446"
+         y1="257"
+         x2="446"
+         y2="206"
+         style="stroke:#000000;stroke-width:2"
+         id="line2958" />
+      <line
+         x1="438"
+         y1="257"
+         x2="438"
+         y2="206"
+         style="stroke:#000000;stroke-width:2"
+         id="line2960" />
+      <line
+         x1="552"
+         y1="257"
+         x2="607"
+         y2="289"
+         style="stroke:#000000;stroke-width:2"
+         id="line2962" />
+      <line
+         x1="607"
+         y1="289"
+         x2="661"
+         y2="257"
+         style="stroke:#000000;stroke-width:2"
+         id="line2964" />
+      <line
+         x1="661"
+         y1="257"
+         x2="705"
+         y2="283"
+         style="stroke:#000000;stroke-width:2"
+         id="line2966" />
+      <line
+         x1="665"
+         y1="257"
+         x2="665"
+         y2="205"
+         style="stroke:#000000;stroke-width:2"
+         id="line2968" />
+      <line
+         x1="657"
+         y1="257"
+         x2="657"
+         y2="205"
+         style="stroke:#000000;stroke-width:2"
+         id="line2970" />
+      <line
+         x1="552"
+         y1="257"
+         x2="577"
+         y2="212"
+         style="stroke:#000000;stroke-width:2"
+         id="line2972" />
+      <line
+         x1="552"
+         y1="257"
+         x2="526"
+         y2="212"
+         style="stroke:#000000;stroke-width:2"
+         id="line2974" />
+      <text
+         x="393"
+         y="297"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text2982"><tspan
+           id="tspan2976">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan2978">-</tspan><tspan
+           dy="10"
+           id="tspan2980" /></text>
+      <text
+         x="440"
+         y="202"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text2986"><tspan
+           id="tspan2984">O</tspan></text>
+      <text
+         x="708"
+         y="297"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text2994"><tspan
+           id="tspan2988">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan2990">-</tspan><tspan
+           dy="10"
+           id="tspan2992" /></text>
+      <text
+         x="659"
+         y="201"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text2998"><tspan
+           id="tspan2996">O</tspan></text>
+      <text
+         x="576"
+         y="210"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text3006"><tspan
+           id="tspan3000">COO</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3002">-</tspan><tspan
+           dy="10"
+           id="tspan3004" /></text>
+      <text
+         x="526"
+         y="210"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text3010"><tspan
+           id="tspan3008">HO</tspan></text>
+    </g>
+    <g
+       id="g3115"
+       transform="matrix(0.26458333,0,0,0.26458333,5260.0559,7275.7386)">
+      <line
+         x1="412"
+         y1="354"
+         x2="456"
+         y2="328"
+         style="stroke:#000000;stroke-width:2"
+         id="line3055" />
+      <line
+         x1="456"
+         y1="328"
+         x2="510"
+         y2="358"
+         style="stroke:#000000;stroke-width:2"
+         id="line3057" />
+      <line
+         x1="510"
+         y1="358"
+         x2="564"
+         y2="328"
+         style="stroke:#000000;stroke-width:2"
+         id="line3059" />
+      <line
+         x1="564"
+         y1="328"
+         x2="618"
+         y2="360"
+         style="stroke:#000000;stroke-width:2"
+         id="line3061" />
+      <line
+         x1="460"
+         y1="328"
+         x2="460"
+         y2="276"
+         style="stroke:#000000;stroke-width:2"
+         id="line3063" />
+      <line
+         x1="452"
+         y1="328"
+         x2="452"
+         y2="276"
+         style="stroke:#000000;stroke-width:2"
+         id="line3065" />
+      <line
+         x1="618"
+         y1="360"
+         x2="673"
+         y2="328"
+         style="stroke:#000000;stroke-width:2"
+         id="line3067" />
+      <line
+         x1="673"
+         y1="328"
+         x2="716"
+         y2="354"
+         style="stroke:#000000;stroke-width:2"
+         id="line3069" />
+      <line
+         x1="677"
+         y1="328"
+         x2="677"
+         y2="276"
+         style="stroke:#000000;stroke-width:2"
+         id="line3071" />
+      <line
+         x1="669"
+         y1="328"
+         x2="669"
+         y2="276"
+         style="stroke:#000000;stroke-width:2"
+         id="line3073" />
+      <line
+         x1="564"
+         y1="328"
+         x2="564"
+         y2="276"
+         style="stroke:#000000;stroke-width:2"
+         id="line3075" />
+      <line
+         x1="618"
+         y1="360"
+         x2="618"
+         y2="411"
+         style="stroke:#000000;stroke-width:2"
+         id="line3077" />
+      <text
+         x="454"
+         y="272"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3081"><tspan
+           id="tspan3079">O</tspan></text>
+      <text
+         x="671"
+         y="272"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3085"><tspan
+           id="tspan3083">O</tspan></text>
+      <text
+         x="408"
+         y="368"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text3093"><tspan
+           id="tspan3087">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3089">-</tspan><tspan
+           dy="10"
+           id="tspan3091" /></text>
+      <text
+         x="719"
+         y="368"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text3101"><tspan
+           id="tspan3095">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3097">-</tspan><tspan
+           dy="10"
+           id="tspan3099" /></text>
+      <text
+         x="556"
+         y="272"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text3109"><tspan
+           id="tspan3103">COO</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3105">-</tspan><tspan
+           dy="10"
+           id="tspan3107" /></text>
+      <text
+         x="610"
+         y="432"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text3113"><tspan
+           id="tspan3111">OH</tspan></text>
+    </g>
+    <g
+       id="g3301"
+       transform="matrix(0.26458333,0,0,0.26458333,5308.5572,7342.3814)">
+      <line
+         x1="269"
+         y1="438"
+         x2="314"
+         y2="412"
+         style="stroke:#000000;stroke-width:2"
+         id="line3249" />
+      <line
+         x1="314"
+         y1="412"
+         x2="369"
+         y2="444"
+         style="stroke:#000000;stroke-width:2"
+         id="line3251" />
+      <line
+         x1="369"
+         y1="444"
+         x2="423"
+         y2="414"
+         style="stroke:#000000;stroke-width:2"
+         id="line3253" />
+      <line
+         x1="423"
+         y1="414"
+         x2="477"
+         y2="444"
+         style="stroke:#000000;stroke-width:2"
+         id="line3255" />
+      <line
+         x1="477"
+         y1="444"
+         x2="532"
+         y2="412"
+         style="stroke:#000000;stroke-width:2"
+         id="line3257" />
+      <line
+         x1="532"
+         y1="412"
+         x2="576"
+         y2="438"
+         style="stroke:#000000;stroke-width:2"
+         id="line3259" />
+      <line
+         x1="318"
+         y1="412"
+         x2="318"
+         y2="361"
+         style="stroke:#000000;stroke-width:2"
+         id="line3261" />
+      <line
+         x1="310"
+         y1="412"
+         x2="310"
+         y2="361"
+         style="stroke:#000000;stroke-width:2"
+         id="line3263" />
+      <line
+         x1="473"
+         y1="444"
+         x2="473"
+         y2="494"
+         style="stroke:#000000;stroke-width:2"
+         id="line3265" />
+      <line
+         x1="481"
+         y1="444"
+         x2="481"
+         y2="494"
+         style="stroke:#000000;stroke-width:2"
+         id="line3267" />
+      <line
+         x1="536"
+         y1="412"
+         x2="536"
+         y2="360"
+         style="stroke:#000000;stroke-width:2"
+         id="line3269" />
+      <line
+         x1="528"
+         y1="412"
+         x2="528"
+         y2="360"
+         style="stroke:#000000;stroke-width:2"
+         id="line3271" />
+      <text
+         x="579"
+         y="452"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text3279"><tspan
+           id="tspan3273">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3275">-</tspan><tspan
+           dy="10"
+           id="tspan3277" /></text>
+      <text
+         x="265"
+         y="452"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text3287"><tspan
+           id="tspan3281">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3283">-</tspan><tspan
+           dy="10"
+           id="tspan3285" /></text>
+      <text
+         x="312"
+         y="357"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3291"><tspan
+           id="tspan3289">O</tspan></text>
+      <text
+         x="530"
+         y="356"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3295"><tspan
+           id="tspan3293">O</tspan></text>
+      <text
+         x="475"
+         y="515"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3299"><tspan
+           id="tspan3297">O</tspan></text>
+    </g>
+    <g
+       id="g3539"
+       transform="matrix(0.26458333,0,0,0.26458333,5224.3406,7446.2283)">
+      <line
+         x1="492"
+         y1="509"
+         x2="537"
+         y2="483"
+         style="stroke:#000000;stroke-width:2"
+         id="line3495" />
+      <line
+         x1="537"
+         y1="483"
+         x2="592"
+         y2="515"
+         style="stroke:#000000;stroke-width:2"
+         id="line3497" />
+      <line
+         x1="592"
+         y1="515"
+         x2="646"
+         y2="485"
+         style="stroke:#000000;stroke-width:2"
+         id="line3499" />
+      <line
+         x1="646"
+         y1="485"
+         x2="701"
+         y2="517"
+         style="stroke:#000000;stroke-width:2"
+         id="line3501" />
+      <line
+         x1="541"
+         y1="483"
+         x2="541"
+         y2="431"
+         style="stroke:#000000;stroke-width:2"
+         id="line3503" />
+      <line
+         x1="533"
+         y1="483"
+         x2="533"
+         y2="431"
+         style="stroke:#000000;stroke-width:2"
+         id="line3505" />
+      <line
+         x1="697"
+         y1="517"
+         x2="697"
+         y2="568"
+         style="stroke:#000000;stroke-width:2"
+         id="line3507" />
+      <line
+         x1="705"
+         y1="517"
+         x2="705"
+         y2="568"
+         style="stroke:#000000;stroke-width:2"
+         id="line3509" />
+      <line
+         x1="701"
+         y1="517"
+         x2="745"
+         y2="490"
+         style="stroke:#000000;stroke-width:2"
+         id="line3511" />
+      <line
+         x1="766"
+         y1="491"
+         x2="800"
+         y2="511"
+         style="stroke:#000000;stroke-width:2"
+         id="line3513" />
+      <text
+         x="535"
+         y="427"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3517"><tspan
+           id="tspan3515">O</tspan></text>
+      <text
+         x="699"
+         y="589"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3521"><tspan
+           id="tspan3519">O</tspan></text>
+      <text
+         x="488"
+         y="523"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text3529"><tspan
+           id="tspan3523">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3525">-</tspan><tspan
+           dy="10"
+           id="tspan3527" /></text>
+      <text
+         x="803"
+         y="525"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text3533"><tspan
+           id="tspan3531">CoA</tspan></text>
+      <text
+         x="754"
+         y="493"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3537"><tspan
+           id="tspan3535">S</tspan></text>
+    </g>
+    <g
+       id="g3616"
+       transform="matrix(0.26458333,0,0,0.26458333,5084.9226,7438.1528)">
+      <line
+         x1="492"
+         y1="509"
+         x2="537"
+         y2="483"
+         style="stroke:#000000;stroke-width:2"
+         id="line3574" />
+      <line
+         x1="537"
+         y1="483"
+         x2="592"
+         y2="515"
+         style="stroke:#000000;stroke-width:2"
+         id="line3576" />
+      <line
+         x1="592"
+         y1="515"
+         x2="646"
+         y2="485"
+         style="stroke:#000000;stroke-width:2"
+         id="line3578" />
+      <line
+         x1="646"
+         y1="485"
+         x2="701"
+         y2="517"
+         style="stroke:#000000;stroke-width:2"
+         id="line3580" />
+      <line
+         x1="541"
+         y1="483"
+         x2="541"
+         y2="431"
+         style="stroke:#000000;stroke-width:2"
+         id="line3582" />
+      <line
+         x1="533"
+         y1="483"
+         x2="533"
+         y2="431"
+         style="stroke:#000000;stroke-width:2"
+         id="line3584" />
+      <line
+         x1="701"
+         y1="517"
+         x2="745"
+         y2="490"
+         style="stroke:#000000;stroke-width:2"
+         id="line3586" />
+      <line
+         x1="697"
+         y1="517"
+         x2="697"
+         y2="568"
+         style="stroke:#000000;stroke-width:2"
+         id="line3588" />
+      <line
+         x1="705"
+         y1="517"
+         x2="705"
+         y2="568"
+         style="stroke:#000000;stroke-width:2"
+         id="line3590" />
+      <text
+         x="535"
+         y="427"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3594"><tspan
+           id="tspan3592">O</tspan></text>
+      <text
+         x="699"
+         y="589"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3598"><tspan
+           id="tspan3596">O</tspan></text>
+      <text
+         x="488"
+         y="523"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text3606"><tspan
+           id="tspan3600">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3602">-</tspan><tspan
+           dy="10"
+           id="tspan3604" /></text>
+      <text
+         x="748"
+         y="493"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text3614"><tspan
+           id="tspan3608">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3610">-</tspan><tspan
+           dy="10"
+           id="tspan3612" /></text>
+    </g>
+    <g
+       id="g3694"
+       transform="matrix(0.26458333,0,0,0.26458333,4975.9971,7403.1978)">
+      <line
+         x1="492"
+         y1="509"
+         x2="537"
+         y2="483"
+         style="stroke:#000000;stroke-width:2"
+         id="line3650" />
+      <line
+         x1="537"
+         y1="483"
+         x2="592"
+         y2="515"
+         style="stroke:#000000;stroke-width:2"
+         id="line3652" />
+      <line
+         x1="646"
+         y1="485"
+         x2="701"
+         y2="517"
+         style="stroke:#000000;stroke-width:2"
+         id="line3654" />
+      <line
+         x1="541"
+         y1="483"
+         x2="541"
+         y2="431"
+         style="stroke:#000000;stroke-width:2"
+         id="line3656" />
+      <line
+         x1="533"
+         y1="483"
+         x2="533"
+         y2="431"
+         style="stroke:#000000;stroke-width:2"
+         id="line3658" />
+      <line
+         x1="701"
+         y1="517"
+         x2="744"
+         y2="492"
+         style="stroke:#000000;stroke-width:2"
+         id="line3660" />
+      <line
+         x1="697"
+         y1="517"
+         x2="697"
+         y2="568"
+         style="stroke:#000000;stroke-width:2"
+         id="line3662" />
+      <line
+         x1="705"
+         y1="517"
+         x2="705"
+         y2="568"
+         style="stroke:#000000;stroke-width:2"
+         id="line3664" />
+      <line
+         x1="592"
+         y1="515"
+         x2="646"
+         y2="485"
+         style="stroke:#000000;stroke-width:2"
+         id="line3666" />
+      <line
+         x1="594"
+         y1="506"
+         x2="637"
+         y2="483"
+         style="stroke:#000000;stroke-width:2"
+         id="line3668" />
+      <text
+         x="535"
+         y="427"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3672"><tspan
+           id="tspan3670">O</tspan></text>
+      <text
+         x="699"
+         y="589"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3676"><tspan
+           id="tspan3674">O</tspan></text>
+      <text
+         x="488"
+         y="523"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text3684"><tspan
+           id="tspan3678">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3680">-</tspan><tspan
+           dy="10"
+           id="tspan3682" /></text>
+      <text
+         x="747"
+         y="495"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text3692"><tspan
+           id="tspan3686">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3688">-</tspan><tspan
+           dy="10"
+           id="tspan3690" /></text>
+    </g>
+    <g
+       id="g3865"
+       transform="matrix(0.26458333,0,0,0.26458333,4903.7981,7330.0853)">
+      <line
+         x1="492"
+         y1="509"
+         x2="537"
+         y2="483"
+         style="stroke:#000000;stroke-width:2"
+         id="line3817" />
+      <line
+         x1="537"
+         y1="483"
+         x2="592"
+         y2="515"
+         style="stroke:#000000;stroke-width:2"
+         id="line3819" />
+      <line
+         x1="646"
+         y1="485"
+         x2="701"
+         y2="517"
+         style="stroke:#000000;stroke-width:2"
+         id="line3821" />
+      <line
+         x1="541"
+         y1="483"
+         x2="541"
+         y2="431"
+         style="stroke:#000000;stroke-width:2"
+         id="line3823" />
+      <line
+         x1="533"
+         y1="483"
+         x2="533"
+         y2="431"
+         style="stroke:#000000;stroke-width:2"
+         id="line3825" />
+      <line
+         x1="701"
+         y1="517"
+         x2="744"
+         y2="492"
+         style="stroke:#000000;stroke-width:2"
+         id="line3827" />
+      <line
+         x1="697"
+         y1="517"
+         x2="697"
+         y2="568"
+         style="stroke:#000000;stroke-width:2"
+         id="line3829" />
+      <line
+         x1="705"
+         y1="517"
+         x2="705"
+         y2="568"
+         style="stroke:#000000;stroke-width:2"
+         id="line3831" />
+      <line
+         x1="646"
+         y1="485"
+         x2="591"
+         y2="517"
+         style="stroke:#000000;stroke-width:2"
+         id="line3833" />
+      <line
+         x1="646"
+         y1="485"
+         x2="646"
+         y2="433"
+         style="stroke:#000000;stroke-width:2"
+         id="line3835" />
+      <text
+         x="535"
+         y="427"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3839"><tspan
+           id="tspan3837">O</tspan></text>
+      <text
+         x="699"
+         y="589"
+         style="font-size:24px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text3843"><tspan
+           id="tspan3841">O</tspan></text>
+      <text
+         x="488"
+         y="523"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text3851"><tspan
+           id="tspan3845">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3847">-</tspan><tspan
+           dy="10"
+           id="tspan3849" /></text>
+      <text
+         x="747"
+         y="495"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text3859"><tspan
+           id="tspan3853">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan3855">-</tspan><tspan
+           dy="10"
+           id="tspan3857" /></text>
+      <text
+         x="638"
+         y="429"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text3863"><tspan
+           id="tspan3861">OH</tspan></text>
+    </g>
+    <ellipse
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.2"
+       id="path2101"
+       cx="5625.9438"
+       cy="7182.5229"
+       rx="14.381551"
+       ry="24.153564" />
+    <ellipse
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.2"
+       id="path2101-3"
+       cx="5682.4194"
+       cy="7182.6235"
+       rx="14.381551"
+       ry="24.153564" />
+    <ellipse
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.2"
+       id="path2101-6"
+       cx="5738.895"
+       cy="7181.4302"
+       rx="14.381551"
+       ry="24.153564" />
+    <ellipse
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.2"
+       id="path2101-7"
+       cx="5795.3701"
+       cy="7180.1353"
+       rx="14.381551"
+       ry="24.153564" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.08px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="5620.7417"
+       y="7188.9521"
+       id="text2151"><tspan
+         sodipodi:role="line"
+         id="tspan2149"
+         x="5620.7417"
+         y="7188.9521"
+         style="font-size:17.6389px;stroke-width:0.0264583">II</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.08px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="5679.8184"
+       y="7189.0532"
+       id="text2151-6"><tspan
+         sodipodi:role="line"
+         id="tspan2149-4"
+         x="5679.8184"
+         y="7189.0532"
+         style="font-size:17.6389px;stroke-width:0.0264583">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.08px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="5731.0918"
+       y="7187.8594"
+       id="text2151-62"><tspan
+         sodipodi:role="line"
+         id="tspan2149-5"
+         x="5731.0918"
+         y="7187.8594"
+         style="font-size:17.6389px;stroke-width:0.0264583">III</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.08px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="5785.9434"
+       y="7186.5649"
+       id="text2151-8"><tspan
+         sodipodi:role="line"
+         id="tspan2149-6"
+         x="5785.9434"
+         y="7186.5649"
+         style="font-size:17.6389px;stroke-width:0.0264583">IV</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4731.564"
+       y="7144.9443"
+       id="text2291"><tspan
+         sodipodi:role="line"
+         id="tspan2289"
+         x="4731.564"
+         y="7144.9443"
+         style="stroke-width:0.264583">(2)  Phosphoenolpyruvate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4966.0464"
+       y="7195.6626"
+       id="text2295"><tspan
+         sodipodi:role="line"
+         id="tspan2293"
+         x="4966.0464"
+         y="7195.6626"
+         style="stroke-width:0.264583">Oxaloacetate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4773.771"
+       y="7236.9502"
+       id="text2299"><tspan
+         sodipodi:role="line"
+         id="tspan2297"
+         x="4773.771"
+         y="7236.9502"
+         style="stroke-width:0.264583">(2)  Pyruvate</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3267)"
+       d="m 4875.592,6605.0559 c 0,0 21.3868,-30.0462 37.4283,-37.3466 16.6655,-7.5844 54.7966,-3.8343 54.7966,-3.8343"
+       id="path3237"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3267-3)"
+       d="m 4983.975,6584.026 c 0,0 -21.3868,30.0462 -37.4283,37.3466 -16.6655,7.5844 -54.7966,3.8343 -54.7966,3.8343"
+       id="path3237-1"
+       sodipodi:nodetypes="csc" />
+    <g
+       id="g4229"
+       transform="translate(6.8440248,11.997202)">
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="4894.7017"
+         y="6578.7749"
+         id="text4195"><tspan
+           sodipodi:role="line"
+           id="tspan4193"
+           x="4894.7017"
+           y="6578.7749"
+           style="font-size:4.93889px;stroke-width:0.264583">Phosphofructokinase-2</tspan><tspan
+           sodipodi:role="line"
+           x="4894.7017"
+           y="6585.8306"
+           style="stroke-width:0.264583"
+           id="tspan4197" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+         x="4887.2534"
+         y="6590.1929"
+         id="text4213"><tspan
+           sodipodi:role="line"
+           id="tspan4211"
+           x="4887.2534"
+           y="6590.1929"
+           style="font-size:4.93889px;stroke-width:0.264583">Fructose-2,6-bisphosphatase</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4884.4903,6583.4157 h 76.9017"
+         id="path4221"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="5011.5537"
+       y="6563.4922"
+       id="text4441"><tspan
+         sodipodi:role="line"
+         id="tspan4439"
+         x="5011.5537"
+         y="6563.4922"
+         style="stroke-width:0.264583">Fructose 2,6-bisphosphate </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4959.46"
+       y="6471.498"
+       id="text4463"><tspan
+         sodipodi:role="line"
+         id="tspan4461"
+         x="4959.46"
+         y="6471.498"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ff00ff;stroke-width:0.264583"
+       x="4956.1226"
+       y="6471.603"
+       id="text4469"><tspan
+         sodipodi:role="line"
+         id="tspan4467"
+         x="4956.1226"
+         y="6471.603"
+         style="font-size:4.93889px;fill:#ff00ff;stroke-width:0.264583">NADP<tspan
+   style="font-size:65%;baseline-shift:super;fill:#ff00ff"
+   id="tspan4471">+</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#ffcc00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1948-3)"
+       d="m 4819.6564,7258.4407 c -15.9172,9.2456 -31.8339,18.4909 -52.799,23.4853 -20.9652,4.9944 -46.9768,5.7372 -72.9892,6.4801"
+       id="path1894-0"
+       inkscape:path-effect="#path-effect5212"
+       inkscape:original-d="m 4819.6564,7258.4407 c -15.917,9.2459 -31.8337,18.4912 -47.7516,27.7368 -26.0126,0.7431 -52.0242,1.486 -78.0366,2.2286"
+       sodipodi:nodetypes="ccc" />
+    <g
+       id="g5957"
+       transform="matrix(0.26458333,0,0,0.26458333,4894.1516,6512.1885)">
+      <line
+         x1="412"
+         y1="186"
+         x2="370"
+         y2="156"
+         style="stroke:#000000;stroke-width:2"
+         id="line5891" />
+      <line
+         x1="351"
+         y1="156"
+         x2="310"
+         y2="186"
+         style="stroke:#000000;stroke-width:2"
+         id="line5893" />
+      <line
+         x1="412"
+         y1="186"
+         x2="412"
+         y2="134"
+         style="stroke:#000000;stroke-width:2"
+         id="line5895" />
+      <line
+         x1="393"
+         y1="246"
+         x2="393"
+         y2="297"
+         style="stroke:#000000;stroke-width:2"
+         id="line5897" />
+      <line
+         x1="310"
+         y1="186"
+         x2="310"
+         y2="122"
+         style="stroke:#000000;stroke-width:2"
+         id="line5899" />
+      <line
+         x1="412"
+         y1="186"
+         x2="412"
+         y2="237"
+         style="stroke:#000000;stroke-width:2"
+         id="line5901" />
+      <line
+         x1="310"
+         y1="122"
+         x2="265"
+         y2="95"
+         style="stroke:#000000;stroke-width:2"
+         id="line5903" />
+      <line
+         x1="330"
+         y1="246"
+         x2="330"
+         y2="216"
+         style="stroke:#000000;stroke-width:2"
+         id="line5905" />
+      <polygon
+         style="fill:#000000;stroke:#000000;stroke-width:1"
+         points="391,246 397,246 412,186 "
+         id="polygon5907" />
+      <polygon
+         style="fill:#000000;stroke:#000000;stroke-width:1"
+         points="325,246 331,246 310,186 "
+         id="polygon5909" />
+      <line
+         x1="328"
+         y1="246"
+         x2="394"
+         y2="246"
+         style="stroke:#000000;stroke-width:10"
+         id="line5911" />
+      <text
+         x="353"
+         y="157"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text5915"><tspan
+           id="tspan5913">O</tspan></text>
+      <text
+         x="404"
+         y="130"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text5923"><tspan
+           id="tspan5917">CH</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan5919">2</tspan><tspan
+           dy="-8"
+           id="tspan5921">OH</tspan></text>
+      <text
+         x="322"
+         y="212"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text5927"><tspan
+           id="tspan5925">OH</tspan></text>
+      <text
+         x="385"
+         y="318"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text5931"><tspan
+           id="tspan5929">OH</tspan></text>
+      <text
+         x="404"
+         y="258"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text5943"><tspan
+           id="tspan5933">OPO</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan5935">3</tspan><tspan
+           dy="-8"
+           id="tspan5937" /><tspan
+           dy="-18"
+           dx="-10"
+           style="font-size:18.6667px"
+           id="tspan5939">2-</tspan><tspan
+           dy="10"
+           id="tspan5941" /></text>
+      <text
+         x="261"
+         y="98"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text5955"><tspan
+           id="tspan5945">O</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan5947">3</tspan><tspan
+           dy="-8"
+           id="tspan5949">PO</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan5951">2-</tspan><tspan
+           dy="10"
+           id="tspan5953" /></text>
+    </g>
+    <g
+       id="g6031"
+       transform="matrix(0.26458333,0,0,0.26458333,4531.6339,7214.9845)">
+      <line
+         x1="590"
+         y1="266"
+         x2="536"
+         y2="234"
+         style="stroke:#000000;stroke-width:2"
+         id="line6003" />
+      <line
+         x1="536"
+         y1="234"
+         x2="481"
+         y2="266"
+         style="stroke:#000000;stroke-width:2"
+         id="line6005" />
+      <line
+         x1="481"
+         y1="266"
+         x2="436"
+         y2="239"
+         style="stroke:#000000;stroke-width:2"
+         id="line6007" />
+      <line
+         x1="472"
+         y1="268"
+         x2="438"
+         y2="248"
+         style="stroke:#000000;stroke-width:2"
+         id="line6009" />
+      <line
+         x1="481"
+         y1="266"
+         x2="481"
+         y2="317"
+         style="stroke:#000000;stroke-width:2"
+         id="line6011" />
+      <line
+         x1="536"
+         y1="234"
+         x2="536"
+         y2="183"
+         style="stroke:#000000;stroke-width:2"
+         id="line6013" />
+      <text
+         x="432"
+         y="242"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text6017"><tspan
+           id="tspan6015">O</tspan></text>
+      <text
+         x="473"
+         y="338"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text6025"><tspan
+           id="tspan6019">O</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan6021">-</tspan><tspan
+           dy="10"
+           id="tspan6023" /></text>
+      <text
+         x="528"
+         y="179"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text6029"><tspan
+           id="tspan6027">OH</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#ffcc00;stroke-width:0.264583"
+       x="4714.1099"
+       y="7273.9365"
+       id="text6058"><tspan
+         sodipodi:role="line"
+         id="tspan6056"
+         x="4714.1099"
+         y="7273.9365"
+         style="fill:#ffcc00;stroke-width:0.264583">Lactate dehydrogenase</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4641.1646"
+       y="7258.8286"
+       id="text6062"><tspan
+         sodipodi:role="line"
+         id="tspan6060"
+         x="4641.1646"
+         y="7258.8286"
+         style="stroke-width:0.264583">Lactate</tspan></text>
+    <path
+       style="fill:none;stroke:#ffcc00;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6108)"
+       d="m 4805.3241,7284.3058 c -14.2393,-2.53 -28.4786,-5.0601 -39.0049,-1.8413 -10.5264,3.2189 -17.3386,12.1863 -24.1509,21.1538"
+       id="path6066"
+       inkscape:path-effect="#path-effect6068"
+       inkscape:original-d="m 4805.3241,7284.3058 c -14.2393,-2.5299 -28.4786,-5.0599 -42.7187,-7.5903 -6.8123,8.9681 -13.6245,17.9355 -20.4371,26.9028"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4806.1997"
+       y="7287.5215"
+       id="text6072"><tspan
+         sodipodi:role="line"
+         id="tspan6070"
+         x="4806.1997"
+         y="7287.5215"
+         style="font-size:4.93889px;fill:#ffcc00;stroke-width:0.264583">NADH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="4733.9624"
+       y="7308.4819"
+       id="text6072-9"><tspan
+         sodipodi:role="line"
+         id="tspan6070-6"
+         x="4733.9624"
+         y="7308.4819"
+         style="font-size:4.93889px;fill:#ffcc00;stroke-width:0.264583">NAD<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan6098">+</tspan></tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny"
+     width="784px" height="436px" viewport-fill="#ffffff" >
+<desc>
+Created with Chemtool 1.6.13 from file /home/kevin/Documents/MCAT Cheat Sheet/Biochem/Molecules/Amino Acids/Asparagine/Asparagine.svg 
+</desc>
+<g>
+<line x1="597" y1="124" x2="572" y2="169"
+style="stroke-width:2; stroke:#000000" />
+<line x1="572" y1="169" x2="604" y2="224"
+style="stroke-width:2; stroke:#000000" />
+<line x1="604" y1="224" x2="655" y2="224"
+style="stroke-width:2; stroke:#000000" />
+<line x1="572" y1="172" x2="520" y2="172"
+style="stroke-width:2; stroke:#000000" />
+<line x1="572" y1="166" x2="520" y2="166"
+style="stroke-width:2; stroke:#000000" />
+<line x1="604" y1="224" x2="572" y2="279"
+style="stroke-width:2; stroke:#000000" />
+<line x1="572" y1="279" x2="604" y2="334"
+style="stroke-width:2; stroke:#000000" />
+<line x1="604" y1="334" x2="578" y2="378"
+style="stroke-width:2; stroke:#000000" />
+<line x1="604" y1="331" x2="654" y2="331"
+style="stroke-width:2; stroke:#000000" />
+<line x1="604" y1="337" x2="654" y2="337"
+style="stroke-width:2; stroke:#000000" />
+<text x="514" y="177" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+O</tspan>
+</text>
+<text x="596" y="122" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+<tspan dy="-10" style="font-size:14pt;">-</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="660" y="232" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+NH</tspan>
+<tspan dy="8" style="font-size:14pt;">3</tspan>
+<tspan dy="-8">
+</tspan>
+<tspan dy="-18" dx="-10" style="font-size:14pt;">+</tspan>
+<tspan dy="10">
+</tspan>
+</text>
+<text x="578" y="397" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:end;" > 
+<tspan>
+H</tspan>
+<tspan dy="8" style="font-size:14pt;">2</tspan>
+<tspan dy="-8">
+N</tspan>
+</text>
+<text x="659" y="342" style="font-family:Helvetica; font-size:18pt; fill:#000000;text-anchor:start;" > 
+<tspan>
+O</tspan>
+</text>
+</g>
+</svg>
