@@ -1,0 +1,108 @@
+\documentclass[10pt,landscape]{article}
+\usepackage{multicol}
+\usepackage{calc}
+\usepackage{ifthen}
+\usepackage[landscape]{geometry}
+\usepackage{amsmath,amsthm,amsfonts,amssymb}
+\usepackage{color,graphicx,overpic}
+\usepackage{tikz}
+\usepackage{tikz-3dplot}
+\usepackage{pgfplots}
+\usetikzlibrary{shapes.geometric}
+\usetikzlibrary{decorations.markings}
+\usepackage{svg}
+
+
+
+\pdfinfo{
+  /Title (Bio.pdf)
+  /Creator (TeX)
+  /Producer (pdfTeX 1.40.0)
+  /Author (Kevin)
+  /Subject (Biochemistry Cheat Sheet)
+  /Keywords (biochemistry, tex, latex)}
+
+\geometry{top=.5in,left=.5in,right=.5in,bottom=.5in}
+
+% Turn off header and footer
+\pagestyle{empty}
+
+% Redefine section commands to use less space
+\makeatletter
+\renewcommand{\section}{\@startsection{section}{1}{0mm}%
+                                {-1ex plus -.5ex minus -.2ex}%
+                                {0.5ex plus .2ex}%
+                                {\normalfont\large\bfseries}}
+\renewcommand{\subsection}{\@startsection{subsection}{2}{0mm}%
+                                {-1explus -.5ex minus -.2ex}%
+                                {0.5ex plus .2ex}%
+                                {\normalfont\normalsize\textit}}
+\renewcommand{\subsubsection}{\@startsection{subsubsection}{3}{0mm}%
+                                {-1ex plus -.5ex minus -.2ex}%
+                                {1ex plus .2ex}%
+                                {\normalfont\small\underline}}
+\makeatother
+
+\renewcommand{\baselinestretch}{1.5}
+
+% Don't print section numbers
+\setcounter{secnumdepth}{0}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt plus 0.5ex}
+
+%My Environments
+\newtheorem{example}[section]{Example}
+%
+
+\pgfplotsset{width=6cm,compat=1.9}
+
+
+\begin{document}
+\raggedright
+\footnotesize
+\begin{multicols}{3}
+
+
+% multicol parameters
+% These lengths are set only within the two main columns
+%\setlength{\columnseprule}{0.25pt}
+\setlength{\premulticols}{1pt}
+\setlength{\postmulticols}{1pt}
+\setlength{\multicolsep}{1pt}
+\setlength{\columnsep}{2pt}
+
+\begin{center}
+     \Large{\textbf{Biology}} \\
+\end{center}
+
+\section{DNA}
+
+\subsection{DNA Replication}
+$\cdot$ Topoisomerase: Unwinds DNA to be broken in half \newline
+$\cdot$ Helicase: Breaks H-Bonds between bases to make two strands \newline
+$\cdot$ DNA-Primase: Places RNA primer for DNA-Polymerase \newline
+$\cdot$ DNA Polymerase: Builds DNA in 5' to 3' direction \newline
+$\cdot$ DNA Ligase: Combines Okazaki fragments and replaces RNA primer w/ DNA \newline
+
+\subsection{Transcription}
+\subsubsection{Process}
+$\cdot$ Template Strand vs Coding strand: Template strand will used by the RNA polymerase to create a copy of the coding strand \newline
+$\cdot$ RNA Polymerase: Attaches to promoter and creates RNA strand in 5' to 3' direction  \newline
+$\cdot$ Terminator Region: Signals RNA Polymerase to stop; in prokayotes the RNA forming a hair pin loop is common
+\subsubsection{Post Transcription Modification}
+$\cdot$ 5' Modified Guanine Cap \newline
+$\cdot$ 3' Poly-A tail \newline
+$\cdot$ Introns spliced out and exons merged together
+\subsubsection{Translation}
+$\cdot$ Ribosome sizes: Eukaryotic: 40, 60, 80; Prokaryotic: 30, 50, 70 \newline
+$\cdot$ Single Amino acid mass is 110 Daltons \newline \newline
+\includesvg[scale=0.75]{Translation.svg}
+
+
+
+
+
+\end{multicols}
+\end{document}

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.2.21)  14 MAY 2023 17:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.2.21)  30 APR 2022 13:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**physics.tex
-(./physics.tex
+**PsychSoc.tex
+(./PsychSoc.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -570,27 +570,45 @@ File: tikzlibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 tex
 File: pgflibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \arrowsize=\dimen281
-))) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+))) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/01/29 v2.7 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count308
+\multirow@dima=\skip61
+\bigstrutjot=\dimen282
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen283
+\ar@mcellbox=\box108
+\extrarowheight=\dimen284
+\NC@list=\toks40
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box109
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count308
-\l__pdf_internal_box=\box108
-) (./physics.aux)
-\openout1 = `physics.aux'.
+\l__color_backend_stack_int=\count309
+\l__pdf_internal_box=\box110
+)
+(./PsychSoc.aux)
+\openout1 = `PsychSoc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -628,17 +646,17 @@ LaTeX Font Info:    ... okay on input line 54.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count309
-\scratchdimen=\dimen282
-\scratchbox=\box109
-\nofMPsegments=\count310
-\nofMParguments=\count311
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count312
-\MPscratchDim=\dimen283
-\MPnumerator=\count313
-\makeMPintoPDFobject=\count314
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count310
+\scratchdimen=\dimen285
+\scratchbox=\box111
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen286
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks42
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -648,44 +666,68 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 73.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 85.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 85.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+Overfull \hbox (3.49168pt too wide) in paragraph at lines 90--90
+ []|\OT1/cmr/bx/n/8 Stage| 
+ []
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./physics.aux) ) 
+
+Overfull \hbox (2.31468pt too wide) in paragraph at lines 94--95
+ []|\OT1/cmr/m/n/8 orderliness 
+ []
+
+
+Overfull \hbox (5.69742pt too wide) in paragraph at lines 96--96
+ []|\OT1/cmr/m/n/8 Phallic| 
+ []
+
+
+Overfull \hbox (4.1801pt too wide) in paragraph at lines 96--96
+ []|\OT1/cmr/m/n/8 Oedipus/Electra| 
+ []
+
+
+Overfull \hbox (4.51685pt too wide) in paragraph at lines 98--98
+ []|\OT1/cmr/m/n/8 Latent| 
+ []
+
+
+Overfull \hbox (7.52939pt too wide) in paragraph at lines 100--100
+ []|\OT1/cmr/m/n/8 Genital| 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./PsychSoc.aux) ) 
 Here is how much of TeX's memory you used:
- 14716 strings out of 479304
- 290576 string characters out of 5869779
- 577379 words of memory out of 5000000
- 31643 multiletter control sequences out of 15000+600000
- 408731 words of font info for 47 fonts, out of 8000000 for 9000
+ 14576 strings out of 479304
+ 286405 string characters out of 5869779
+ 569300 words of memory out of 5000000
+ 31492 multiletter control sequences out of 15000+600000
+ 410585 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,9n,89p,412b,789s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on physics.pdf (2 pages, 155261 bytes).
+ 87i,8n,89p,413b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
+</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on PsychSoc.pdf (2 pages, 71311 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 34 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 19 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

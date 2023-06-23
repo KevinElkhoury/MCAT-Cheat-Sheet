@@ -1,0 +1,145 @@
+\documentclass[10pt,landscape]{article}
+\usepackage{multicol}
+\usepackage{calc}
+\usepackage{ifthen}
+\usepackage[landscape]{geometry}
+\usepackage{amsmath,amsthm,amsfonts,amssymb}
+\usepackage{color,graphicx,overpic}
+\usepackage{tikz}
+\usepackage{tikz-3dplot}
+\usepackage{multirow}
+\usepackage{array}
+
+
+\pdfinfo{
+  /Title (PsychSoc.pdf)
+  /Creator (TeX)
+  /Producer (pdfTeX 1.40.0)
+  /Author (Kevin)
+  /Subject (PsychSoc Cheat Sheet)
+  /Keywords (psychsoc, tex, latex)}
+
+\geometry{top=.5in,left=.5in,right=.5in,bottom=.5in}
+
+% Turn off header and footer
+\pagestyle{empty}
+
+% Redefine section commands to use less space
+\makeatletter
+\renewcommand{\section}{\@startsection{section}{1}{0mm}%
+                                {-1ex plus -.5ex minus -.2ex}%
+                                {0.5ex plus .2ex}%
+                                {\normalfont\large\bfseries}}
+\renewcommand{\subsection}{\@startsection{subsection}{2}{0mm}%
+                                {-1explus -.5ex minus -.2ex}%
+                                {0.5ex plus .2ex}%
+                                {\normalfont\normalsize\textit}}
+\renewcommand{\subsubsection}{\@startsection{subsubsection}{3}{0mm}%
+                                {-1ex plus -.5ex minus -.2ex}%
+                                {1ex plus .2ex}%
+                                {\normalfont\small\underline}}
+\makeatother
+
+\renewcommand{\baselinestretch}{1.5}
+
+% Don't print section numbers
+\setcounter{secnumdepth}{0}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt plus 0.5ex}
+
+%My Environments
+\newtheorem{example}[section]{Example}
+% -----------------------------------------------------------------------
+
+\begin{document}
+\raggedright
+\footnotesize
+\begin{multicols}{3}
+
+
+% multicol parameters
+% These lengths are set only within the two main columns
+%\setlength{\columnseprule}{0.25pt}
+\setlength{\premulticols}{1pt}
+\setlength{\postmulticols}{1pt}
+\setlength{\multicolsep}{1pt}
+\setlength{\columnsep}{2pt}
+
+\begin{center}
+     \Large{\textbf{PsychSoc}} \\
+\end{center}
+
+\section{Identity and Personality}
+
+\subsection{Evaluation of Self}
+\textbf{Self-concept}: Sum of factors in which we describe ourselves (exisential + categorical)\newline
+\textbf{Self-esteem}: evaulation of ourselves \newline
+\textbf{Self-efficacy}: evalation of ourself to complete a specific task \newline
+\textbf{Locus of control}: either internal (our choices matter) or external (outside factors matter) \newline
+\textbf{Carl Rogers} beleived that self-concept is made up of self-image, self-esteem, and ideal-self \newline
+\textbf{Social Identity Theory}: People's personal identity is formed partially from their social identity
+
+\subsection{Theories of Development}
+\subsubsection{Freud's Stages of Psychosexual Development}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\noindent \begin{tabular}[H]{|P{0.7cm}|P{0.75cm}|P{1cm}|P{2cm}|P{1.3cm}|}
+\hline
+\textbf{Stage} & \textbf{Age} & \textbf{Focus of Libido}& \textbf{Development}& \textbf{Adult Fixation}\\
+\hline
+Oral & 0-1 & Mouth & Feeding & smoke, bite-nails, over-eat... \\
+\hline
+Anal & 1-3 & Anus & Toilet Training & orderliness and messiness \\
+\hline
+Phallic & 3-6 & Genital & Oedipus/Electra & Sexual Problems \\
+\hline
+Latent & 6-12 & N/A & Social Skills & N/A \\
+\hline
+Genital & 12+ & Genital & Sexual Maturity & Mentally Healthy \\
+\hline
+\end{tabular}
+\newline
+
+
+\subsection{Theories of Personality}
+\textbf{Psychoanalytic:} The cumulation of the id (pleasure seeking impulses), the superego (moral conscience), and ego (the mediation bewtween two).  \newline 
+\textbf{Humanistic:} Personality comes from their free will and personal growth. Look in a more total view of a person \newline
+\textbf{Trait:} Determined by measuring certain traits \newline
+\textbf{Social-Cognitive:} Formed through a mixture of our trait, our interactions with others, and our enviroment \newline
+\textbf{Biological:} Determined by genetics and other biological attributes \newline
+\textbf{Behavioral:} Learned through stimuli and responses \newline
+
+
+
+
+
+\subsubsection{Psychotherapeutic Approaches}
+\textbf{Cognitive-behavioral therapy}: View person as a whole and change their thoughts (cognition) in general \newline
+\textbf{Psychoanalytic therapy}: Bring up and resolve unconsious thoughts from the id, ego, superego struggle \newline
+\textbf{Humanistic therapy} Help people achieve self actualization, achieve their ideal self\newline
+
+\section{Test}
+orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu
+\section{Test}
+orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu
+\section{Test}
+orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu
+\section{Test}
+orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu
+\section{Test}
+orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu
+\section{Test}
+orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu
+\section{Test}
+orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu
+\section{Test}
+orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu
+\section{Test}
+orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu
+
+
+
+\end{multicols}
+\end{document}
