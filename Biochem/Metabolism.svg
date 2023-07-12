@@ -1937,9 +1937,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="802.24047"
-     inkscape:cy="2932.9601"
+     inkscape:zoom="1"
+     inkscape:cx="531.1105"
+     inkscape:cy="3377.8378"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1951,9 +1951,9 @@
      showguides="true"
      showborder="true"
      inkscape:window-width="2232"
-     inkscape:window-height="1351"
+     inkscape:window-height="1016"
      inkscape:window-x="26"
-     inkscape:window-y="23"
+     inkscape:window-y="27"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -1963,7 +1963,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3060,7 +3060,7 @@
          id="tspan2115"
          x="4758.3247"
          y="6511.1665"
-         style="font-size:5.64444px;stroke-width:0.264583">Glucose 6-phsophate</tspan></text>
+         style="font-size:5.64444px;stroke-width:0.264583">Glucose 6-phosphate</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -3372,7 +3372,7 @@
        style="font-size:25.4px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23791);" />
     <g
        id="g12653-1"
-       transform="matrix(0.07071068,0.07071068,-0.07071068,0.07071068,4793.3671,6687.382)">
+       transform="matrix(0.09928289,0.09928289,-0.09928289,0.09928289,4769.2415,6625.6151)">
       <path
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-36)"
          d="M 1561.6867,750.12636 V 512.10464 Z"
@@ -3400,7 +3400,7 @@
     </g>
     <g
        id="g14578"
-       transform="matrix(0.1,0,0,0.1,4823.9343,6436.0435)">
+       transform="matrix(0.145097,0,0,0.145097,4817.6507,6285.9008)">
       <g
          id="g12653-2"
          transform="rotate(45,-2491.1317,-66.074357)">
