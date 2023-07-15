@@ -16,6 +16,50 @@
    sodipodi:docname="Metabolism.svg">
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6156"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5297"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4476"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2932"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
     <marker
        style="overflow:visible"
        id="marker22748"
@@ -1929,6 +1973,48 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path12265-6" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-5-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-3-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-3-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2053-5-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2051-3-0-1" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1937,9 +2023,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="531.1105"
-     inkscape:cy="3377.8378"
+     inkscape:zoom="0.25"
+     inkscape:cx="2516.0622"
+     inkscape:cy="847.3977"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1952,7 +2038,7 @@
      showborder="true"
      inkscape:window-width="2232"
      inkscape:window-height="1016"
-     inkscape:window-x="26"
+     inkscape:window-x="628"
      inkscape:window-y="27"
      inkscape:window-maximized="0" />
   <metadata
@@ -4742,108 +4828,6 @@
        inkscape:original-d="m 4841.3051,7258.4407 c 21.5348,14.5068 43.0691,29.0132 64.6043,43.5201 50.3549,3.7154 100.7077,7.4306 151.0616,11.1459"
        sodipodi:nodetypes="ccc" />
     <g
-       id="g2661"
-       transform="matrix(0.26458333,0,0,0.26458333,5435.5359,6330.3456)">
-      <line
-         x1="612"
-         y1="470"
-         x2="571"
-         y2="440"
-         style="stroke:#000000;stroke-width:2"
-         id="line2615" />
-      <line
-         x1="552"
-         y1="441"
-         x2="511"
-         y2="471"
-         style="stroke:#000000;stroke-width:2"
-         id="line2617" />
-      <line
-         x1="593"
-         y1="530"
-         x2="593"
-         y2="580"
-         style="stroke:#000000;stroke-width:2"
-         id="line2619" />
-      <line
-         x1="530"
-         y1="530"
-         x2="530"
-         y2="581"
-         style="stroke:#000000;stroke-width:2"
-         id="line2621" />
-      <line
-         x1="511"
-         y1="471"
-         x2="511"
-         y2="408"
-         style="stroke:#000000;stroke-width:2"
-         id="line2623" />
-      <line
-         x1="511"
-         y1="408"
-         x2="474"
-         y2="371"
-         style="stroke:#000000;stroke-width:2"
-         id="line2625" />
-      <line
-         x1="530"
-         y1="531"
-         x2="594"
-         y2="531"
-         style="stroke:#000000;stroke-width:10"
-         id="line2627" />
-      <polygon
-         style="fill:#000000;stroke:#000000;stroke-width:1"
-         points="612,470 590,530 596,530 "
-         id="polygon2629" />
-      <polygon
-         style="fill:#000000;stroke:#000000;stroke-width:1"
-         points="511,471 527,531 533,531 "
-         id="polygon2631" />
-      <text
-         x="554"
-         y="442"
-         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
-         id="text2635"><tspan
-           id="tspan2633">O</tspan></text>
-      <text
-         x="604"
-         y="541"
-         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
-         id="text2639"><tspan
-           id="tspan2637">OH</tspan></text>
-      <text
-         x="585"
-         y="601"
-         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
-         id="text2643"><tspan
-           id="tspan2641">OH</tspan></text>
-      <text
-         x="522"
-         y="602"
-         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
-         id="text2647"><tspan
-           id="tspan2645">OH</tspan></text>
-      <text
-         x="472"
-         y="371"
-         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
-         id="text2659"><tspan
-           id="tspan2649">O</tspan><tspan
-           dy="8"
-           style="font-size:18.6667px"
-           id="tspan2651">3</tspan><tspan
-           dy="-8"
-           id="tspan2653">PO</tspan><tspan
-           dy="-18"
-           dx="-10"
-           style="font-size:18.6667px"
-           id="tspan2655">2-</tspan><tspan
-           dy="10"
-           id="tspan2657" /></text>
-    </g>
-    <g
        id="g2737"
        transform="matrix(0.26458333,0,0,0.26458333,4852.0315,7141.5453)">
       <line
@@ -7150,5 +7134,179 @@
        inkscape:path-effect="#path-effect22714"
        inkscape:original-d="m 4895.8393,6532.6948 c 56.6631,-1.8882 113.326,-3.7767 169.9889,-5.6655 54.1788,16.4738 108.3568,32.9472 162.5351,49.4204"
        sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-5-7)"
+       d="m 4911.3814,6465.2765 c -6.11,-6.158 -12.22,-12.316 -12.4286,-19.0436 -0.2086,-6.7276 5.4842,-14.0242 11.1771,-21.3211"
+       id="path1002-5-9"
+       sodipodi:nodetypes="ccc"
+       inkscape:original-d="m 4911.3814,6465.2765 c -6.11,-6.158 -12.22,-12.316 -18.3302,-18.4742 5.6933,-7.2968 11.3861,-14.5934 17.0787,-21.8905"
+       inkscape:path-effect="#path-effect5297" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4912.0156"
+       y="6469.5562"
+       id="text3571-3"><tspan
+         sodipodi:role="line"
+         id="tspan3569-6"
+         x="4912.0156"
+         y="6469.5562"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5899">2</tspan>O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4912.3745"
+       y="6424.5005"
+       id="text3577-6"><tspan
+         sodipodi:role="line"
+         id="tspan3575-2"
+         x="4912.3745"
+         y="6424.5005"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5901">i</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2053-5-7-6)"
+       d="m 4926.6618,6682.8197 c -6.11,-6.158 -12.22,-12.316 -12.4286,-19.0436 -0.2086,-6.7276 5.4842,-14.0242 11.1771,-21.3211"
+       id="path1002-5-9-8"
+       sodipodi:nodetypes="ccc"
+       inkscape:original-d="m 4926.6618,6682.8197 c -6.11,-6.158 -12.22,-12.316 -18.3302,-18.4742 5.6933,-7.2968 11.3861,-14.5934 17.0787,-21.8905"
+       inkscape:path-effect="#path-effect6156" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;stroke-width:0.0264583"
+       x="4927.2964"
+       y="6687.0996"
+       id="text3571-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan3569-6-9"
+         x="4927.2964"
+         y="6687.0996"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5899-2">2</tspan>O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.0264583"
+       x="4927.6553"
+       y="6642.0439"
+       id="text3577-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan3575-2-2"
+         x="4927.6553"
+         y="6642.0439"
+         style="font-size:4.93889px;fill:#0000ff;stroke-width:0.0264583">P<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5901-3">i</tspan></tspan></text>
+    <g
+       id="g7729"
+       transform="matrix(0.26458333,0,0,0.26458333,5435.6495,6326.5478)">
+      <line
+         x1="612"
+         y1="470"
+         x2="571"
+         y2="440"
+         style="stroke:#000000;stroke-width:2"
+         id="line7681" />
+      <line
+         x1="552"
+         y1="441"
+         x2="511"
+         y2="471"
+         style="stroke:#000000;stroke-width:2"
+         id="line7683" />
+      <line
+         x1="593"
+         y1="530"
+         x2="593"
+         y2="580"
+         style="stroke:#000000;stroke-width:2"
+         id="line7685" />
+      <line
+         x1="530"
+         y1="530"
+         x2="530"
+         y2="581"
+         style="stroke:#000000;stroke-width:2"
+         id="line7687" />
+      <line
+         x1="511"
+         y1="471"
+         x2="511"
+         y2="408"
+         style="stroke:#000000;stroke-width:2"
+         id="line7689" />
+      <line
+         x1="511"
+         y1="408"
+         x2="474"
+         y2="371"
+         style="stroke:#000000;stroke-width:2"
+         id="line7691" />
+      <line
+         x1="530"
+         y1="531"
+         x2="594"
+         y2="531"
+         style="stroke:#000000;stroke-width:10"
+         id="line7693" />
+      <polygon
+         style="fill:#000000;stroke:#000000;stroke-width:1"
+         points="612,470 590,530 596,530 "
+         id="polygon7695" />
+      <polygon
+         style="fill:#000000;stroke:#000000;stroke-width:1"
+         points="511,471 527,531 533,531 "
+         id="polygon7697" />
+      <line
+         x1="612"
+         y1="470"
+         x2="612"
+         y2="515"
+         style="stroke:#000000;stroke-width:2"
+         id="line7699" />
+      <text
+         x="554"
+         y="442"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7703"><tspan
+           id="tspan7701">O</tspan></text>
+      <text
+         x="604"
+         y="541"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7707"><tspan
+           id="tspan7705">OH</tspan></text>
+      <text
+         x="585"
+         y="601"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7711"><tspan
+           id="tspan7709">OH</tspan></text>
+      <text
+         x="522"
+         y="602"
+         style="font-size:24px;font-family:Helvetica;text-anchor:start;fill:#000000"
+         id="text7715"><tspan
+           id="tspan7713">OH</tspan></text>
+      <text
+         x="472"
+         y="371"
+         style="font-size:24px;font-family:Helvetica;text-anchor:end;fill:#000000"
+         id="text7727"><tspan
+           id="tspan7717">O</tspan><tspan
+           dy="8"
+           style="font-size:18.6667px"
+           id="tspan7719">3</tspan><tspan
+           dy="-8"
+           id="tspan7721">PO</tspan><tspan
+           dy="-10"
+           style="font-size:18.6667px"
+           id="tspan7723">2-</tspan><tspan
+           dy="10"
+           id="tspan7725" /></text>
+    </g>
   </g>
 </svg>
