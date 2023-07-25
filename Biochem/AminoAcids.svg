@@ -23,19 +23,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1052.5591"
-     inkscape:cy="1496.927"
+     inkscape:zoom="0.5"
+     inkscape:cx="1035.1405"
+     inkscape:cy="266.1287"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g9697"
      inkscape:document-rotation="0"
      showgrid="false"
      showborder="true"
      units="mm"
      inkscape:window-width="2289"
-     inkscape:window-height="1371"
-     inkscape:window-x="26"
-     inkscape:window-y="23"
+     inkscape:window-height="1016"
+     inkscape:window-x="1517"
+     inkscape:window-y="57"
      inkscape:window-maximized="0"
      fit-margin-top="20"
      fit-margin-left="20"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2869,7 +2869,7 @@
            transform="translate(-17.493046)">
           <g
              id="g9663"
-             transform="translate(59.109742,0.55470657)">
+             transform="translate(56.703752,-1.1289923)">
             <text
                xml:space="preserve"
                style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -2880,63 +2880,78 @@
                  id="tspan9616"
                  x="370.84335"
                  y="-58.991596"
-                 style="stroke-width:0.264583">K</tspan><tspan
+                 style="stroke-width:0.264583">C-terminus: pKa = 2</tspan><tspan
                  sodipodi:role="line"
                  x="370.84335"
                  y="-48.40826"
                  style="stroke-width:0.264583"
-                 id="tspan9620">R</tspan><tspan
+                 id="tspan2141">N-terminus: pKa = 9</tspan><tspan
                  sodipodi:role="line"
                  x="370.84335"
                  y="-37.824921"
                  style="stroke-width:0.264583"
-                 id="tspan9622">H</tspan><tspan
+                 id="tspan2143">K</tspan><tspan
                  sodipodi:role="line"
                  x="370.84335"
                  y="-27.241583"
                  style="stroke-width:0.264583"
-                 id="tspan9624">D</tspan><tspan
+                 id="tspan9620">R</tspan><tspan
                  sodipodi:role="line"
                  x="370.84335"
                  y="-16.658245"
                  style="stroke-width:0.264583"
-                 id="tspan9644">E</tspan><tspan
+                 id="tspan9622">H</tspan><tspan
                  sodipodi:role="line"
                  x="370.84335"
                  y="-6.0749083"
+                 style="stroke-width:0.264583"
+                 id="tspan9624">D</tspan><tspan
+                 sodipodi:role="line"
+                 x="370.84335"
+                 y="4.5084291"
+                 style="stroke-width:0.264583"
+                 id="tspan9644">E</tspan><tspan
+                 sodipodi:role="line"
+                 x="370.84335"
+                 y="15.091766"
+                 style="stroke-width:0.264583"
+                 id="tspan2137" /><tspan
+                 sodipodi:role="line"
+                 x="370.84335"
+                 y="25.675104"
                  style="stroke-width:0.264583"
                  id="tspan9642" /></text>
             <text
                xml:space="preserve"
                style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
-               x="392.46332"
-               y="-59.74194"
+               x="381.08029"
+               y="-38.652462"
                id="text9630"><tspan
                  sodipodi:role="line"
                  id="tspan9628"
-                 x="392.46332"
-                 y="-59.74194"
+                 x="381.08029"
+                 y="-38.652462"
                  style="stroke-width:0.264583">pka = 10.5</tspan><tspan
                  sodipodi:role="line"
-                 x="392.46332"
-                 y="-49.158604"
+                 x="381.08029"
+                 y="-28.069126"
                  style="stroke-width:0.264583"
                  id="tspan9632">pKa = 12.5</tspan><tspan
                  sodipodi:role="line"
-                 x="392.46332"
-                 y="-38.575264"
+                 x="381.08029"
+                 y="-17.485788"
                  style="stroke-width:0.264583"
                  id="tspan9634">pKa = 6</tspan><tspan
                  sodipodi:role="line"
-                 x="392.46332"
-                 y="-27.991926"
+                 x="381.08029"
+                 y="-6.902451"
                  style="stroke-width:0.264583"
                  id="tspan9636">pKa = 4</tspan><tspan
                  sodipodi:role="line"
-                 x="392.46332"
-                 y="-17.408588"
+                 x="381.08029"
+                 y="3.6808865"
                  style="stroke-width:0.264583"
-                 id="tspan9638">pKa = 4</tspan></text>
+                 id="tspan2131">pKa = 4</tspan></text>
           </g>
           <text
              xml:space="preserve"
@@ -2958,21 +2973,26 @@
                x="313.83951"
                y="-38.020557"
                style="stroke-width:0.264583"
-               id="tspan9671">C-terminus: pKa = 2</tspan><tspan
+               id="tspan2145">Ketogenic: L,K (2 Ls)</tspan><tspan
                sodipodi:role="line"
                x="313.83951"
                y="-27.43722"
                style="stroke-width:0.264583"
-               id="tspan9673">N-terminus: pKa = 9</tspan><tspan
+               id="tspan2149">Glucogenic: Rest</tspan><tspan
                sodipodi:role="line"
                x="313.83951"
                y="-16.853882"
                style="stroke-width:0.264583"
-               id="tspan9675">Phospate:    pKa = 2, 7</tspan></text>
+               id="tspan2147">Keto + Gluco: P,I,T,Y,W</tspan><tspan
+               sodipodi:role="line"
+               x="313.83951"
+               y="-6.270545"
+               style="stroke-width:0.264583"
+               id="tspan9675">Phospate: pKa = 2, 7</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 401.37604,-66.176839 v 51.549308"
+           style="fill:none;stroke:#000000;stroke-width:0.31314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 401.37604,-66.176839 V 6.0297191"
            id="path9699"
            sodipodi:nodetypes="cc" />
       </g>
