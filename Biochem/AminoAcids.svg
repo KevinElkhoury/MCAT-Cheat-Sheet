@@ -23,19 +23,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1035.1405"
-     inkscape:cy="266.1287"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1500.6567"
+     inkscape:cy="448.84224"
      inkscape:document-units="mm"
-     inkscape:current-layer="g9697"
+     inkscape:current-layer="g9663"
      inkscape:document-rotation="0"
      showgrid="false"
      showborder="true"
      units="mm"
      inkscape:window-width="2289"
      inkscape:window-height="1016"
-     inkscape:window-x="1517"
-     inkscape:window-y="57"
+     inkscape:window-x="375"
+     inkscape:window-y="105"
      inkscape:window-maximized="0"
      fit-margin-top="20"
      fit-margin-left="20"
@@ -2854,12 +2854,12 @@
          xml:space="preserve"
          style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
          x="371.8093"
-         y="-72.784233"
+         y="-91.305084"
          id="text9596"><tspan
            sodipodi:role="line"
            id="tspan9594"
            x="371.8093"
-           y="-72.784233"
+           y="-91.305084"
            style="stroke-width:0.264583">Key Points</tspan></text>
       <g
          id="g9723"
@@ -2869,7 +2869,7 @@
            transform="translate(-17.493046)">
           <g
              id="g9663"
-             transform="translate(56.703752,-1.1289923)">
+             transform="translate(56.703752,-19.649832)">
             <text
                xml:space="preserve"
                style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
@@ -2915,10 +2915,20 @@
                  x="370.84335"
                  y="15.091766"
                  style="stroke-width:0.264583"
-                 id="tspan2137" /><tspan
+                 id="tspan1472">C</tspan><tspan
                  sodipodi:role="line"
                  x="370.84335"
                  y="25.675104"
+                 style="stroke-width:0.264583"
+                 id="tspan1474">Y</tspan><tspan
+                 sodipodi:role="line"
+                 x="370.84335"
+                 y="36.258442"
+                 style="stroke-width:0.264583"
+                 id="tspan2137" /><tspan
+                 sodipodi:role="line"
+                 x="370.84335"
+                 y="46.841778"
                  style="stroke-width:0.264583"
                  id="tspan9642" /></text>
             <text
@@ -2934,65 +2944,75 @@
                  style="stroke-width:0.264583">pka = 10.5</tspan><tspan
                  sodipodi:role="line"
                  x="381.08029"
-                 y="-28.069126"
+                 y="-28.069124"
                  style="stroke-width:0.264583"
                  id="tspan9632">pKa = 12.5</tspan><tspan
                  sodipodi:role="line"
                  x="381.08029"
-                 y="-17.485788"
+                 y="-17.485786"
                  style="stroke-width:0.264583"
                  id="tspan9634">pKa = 6</tspan><tspan
                  sodipodi:role="line"
                  x="381.08029"
-                 y="-6.902451"
+                 y="-6.9024496"
                  style="stroke-width:0.264583"
                  id="tspan9636">pKa = 4</tspan><tspan
                  sodipodi:role="line"
                  x="381.08029"
-                 y="3.6808865"
+                 y="3.6808882"
                  style="stroke-width:0.264583"
-                 id="tspan2131">pKa = 4</tspan></text>
+                 id="tspan2131">pKa = 4</tspan><tspan
+                 sodipodi:role="line"
+                 x="381.08029"
+                 y="14.264226"
+                 style="stroke-width:0.264583"
+                 id="tspan1468">pKa = 8</tspan><tspan
+                 sodipodi:role="line"
+                 x="381.08029"
+                 y="24.847563"
+                 style="stroke-width:0.264583"
+                 id="tspan1470">pKa = 11</tspan></text>
           </g>
           <text
              xml:space="preserve"
              style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
              x="313.83951"
-             y="-59.187233"
+             y="-77.708084"
              id="text9667"><tspan
                sodipodi:role="line"
                id="tspan9665"
                x="313.83951"
-               y="-59.187233"
+               y="-77.708084"
                style="stroke-width:0.264583">Phosphorylated: S, T, Y </tspan><tspan
                sodipodi:role="line"
                x="313.83951"
-               y="-48.603897"
+               y="-67.124748"
                style="stroke-width:0.264583"
                id="tspan9669">Branched: L, I, V</tspan><tspan
                sodipodi:role="line"
                x="313.83951"
-               y="-38.020557"
+               y="-56.541409"
                style="stroke-width:0.264583"
                id="tspan2145">Ketogenic: L,K (2 Ls)</tspan><tspan
                sodipodi:role="line"
                x="313.83951"
-               y="-27.43722"
+               y="-45.958073"
                style="stroke-width:0.264583"
                id="tspan2149">Glucogenic: Rest</tspan><tspan
                sodipodi:role="line"
                x="313.83951"
-               y="-16.853882"
+               y="-35.374733"
                style="stroke-width:0.264583"
                id="tspan2147">Keto + Gluco: P,I,T,Y,W</tspan><tspan
                sodipodi:role="line"
                x="313.83951"
-               y="-6.270545"
+               y="-24.791397"
                style="stroke-width:0.264583"
                id="tspan9675">Phospate: pKa = 2, 7</tspan></text>
         </g>
         <path
            style="fill:none;stroke:#000000;stroke-width:0.31314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="M 401.37604,-66.176839 V 6.0297191"
+           d="m 401.37604,-84.697684 v 72.206568"
            id="path9699"
            sodipodi:nodetypes="cc" />
       </g>

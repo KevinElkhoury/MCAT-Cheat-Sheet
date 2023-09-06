@@ -1,0 +1,77 @@
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Eye_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{300.94058115bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.80038693)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{Eye_svg-tex.pdf}}%
+    \put(0.55152737,0.00675039){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Sclera\end{tabular}}}}%
+    \put(-0.00186591,0.21875851){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Cornea\end{tabular}}}}%
+    \put(0.02700402,0.58039971){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Conjuctiva\end{tabular}}}}%
+    \put(0.30368109,0.04200704){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Aqueous \end{tabular}}}}%
+    \put(0.30368109,0.00047053){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Humor\end{tabular}}}}%
+    \put(0.49554969,0.16866451){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Lens\end{tabular}}}}%
+    \put(0.78854641,0.65507044){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Suspensory\end{tabular}}}}%
+    \put(0.78854641,0.59691925){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Ligaments\end{tabular}}}}%
+    \put(0.46072178,0.7751404){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Ciliary\end{tabular}}}}%
+    \put(0.46072178,0.71698929){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Muscle\end{tabular}}}}%
+    \put(0.24163353,0.68543325){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Iris\end{tabular}}}}%
+    \put(0.24432338,0.37669829){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Pupil\end{tabular}}}}%
+    \put(0.5821021,0.37366148){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Vitreus\end{tabular}}}}%
+    \put(0.5821021,0.31551029){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Humor\end{tabular}}}}%
+    \put(0.80435565,0.15087916){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Optic Nerve\end{tabular}}}}%
+    \put(0.56119379,0.7084818){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Retina\end{tabular}}}}%
+    \put(0.64564377,0.09563816){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Choroid\end{tabular}}}}%
+    \put(0.78453981,0.46217822){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Macula\end{tabular}}}}%
+    \put(0.82750431,0.32752974){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Fovea\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
